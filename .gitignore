@@ -1,0 +1,6 @@
+# SQLite 資料庫由 watch/data/*.jsonl 重建，不進版控
+watch/studios.db
+*.db-journal
+*.db-wal
+*.db-shm
+.DS_Store
