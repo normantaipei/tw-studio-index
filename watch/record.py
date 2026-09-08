@@ -12,7 +12,9 @@ JSON 格式：
     "evidence": "Google 地圖顯示營業中、官網 2026/08 有更新",
     "address": "（選填，抓到新地址才填）",
     "price_note": "（選填）",
-    "rooms": [{"name":"歐式書房","desc":"...","tags":["歐風","書房"]}],   // 這次看到的棚，沒抓到就別放
+    "check_url": "https://.../scene.html",   // 這次實際用來確認的網址（下次巡檢會直接打這個，省下重新搜尋）
+    "gmap_url": "https://www.google.com/maps/place/...",  // 解析到的 Google 地圖頁（選填）
+    "rooms": [{"name":"歐式書房","desc":"...","tags":["歐風","書房"],"url":"該棚所在頁面（選填）"}],
     "rooms_complete": true,                   // 是否為該店完整棚別清單（true 才會判斷棚被撤掉）
     "new_sources": [{"kind":"official","url":"https://..."}],
     "changes": [{"type":"price","summary":"...","detail":"...","source_url":"..."}]  // 額外異動
@@ -89,7 +91,7 @@ for r in data.get("results", []):
                 c.execute("""INSERT INTO rooms(studio_id,name,description,price_note,status,period,source_url,first_seen,last_seen)
                              VALUES(?,?,?,?,?,?,?,?,?)""",
                           (sid, rname, rm.get("desc"), rm.get("price"), rm.get("status","active"),
-                           rm.get("period"), r.get("source_url"), today, today))
+                           rm.get("period"), rm.get("url") or r.get("check_url") or r.get("source_url"), today, today))
                 rid = c.lastrowid
                 if baselined:
                     add_change(sid, name, "new_room", f"{name} 有新棚：{rname}",
@@ -108,6 +110,15 @@ for r in data.get("results", []):
                     if baselined and was != 'gone':
                         add_change(sid, name, "room_gone", f"{name} 的「{old_name}」已從官網撤下", None, r.get("source_url"))
         c.execute("UPDATE studios SET baseline_done=1 WHERE id=?", (sid,))
+
+    if r.get("check_url"):
+        old_cu = row["check_url"] if "check_url" in row.keys() else None
+        c.execute("UPDATE studios SET check_url=?, check_note=? WHERE id=?",
+                  (r["check_url"], r.get("check_note") or "巡檢實際使用", sid))
+        if old_cu and old_cu != r["check_url"]:
+            add_change(sid, name, "source_found", f"{name} 的巡檢網址換成更好的來源", f"舊：{old_cu}\n新：{r['check_url']}", r["check_url"])
+    if r.get("gmap_url"):
+        c.execute("UPDATE studios SET gmap_url=? WHERE id=?", (r["gmap_url"], sid))
 
     for ns in r.get("new_sources", []):
         exists = c.execute("SELECT 1 FROM sources WHERE studio_id=? AND url=?", (sid, ns["url"])).fetchone()

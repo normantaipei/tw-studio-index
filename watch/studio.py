@@ -78,6 +78,8 @@ def cmd_show(a):
     if s["price_note"]: print(f'  價格: {s["price_note"]}')
     if s["features"]: print(f'  特色: {s["features"][:200]}')
     print(f'  最後檢查: {s["last_checked"] or "未檢查"}｜輪掃組 {s["cohort"]}｜狀態備註: {s["status_note"] or "-"}')
+    print(f'  巡檢網址: {s["check_url"] or "（無，只能查 Google 地圖）"}')
+    print(f'  地圖: {s["gmap_url"] or "-"}')
     rows = list(c.execute(ROOM_SEL + " WHERE s.id=? ORDER BY r.status, r.name", (s["id"],)))
     print(f'  棚（{len(rows)}）:')
     for r in rows:
@@ -151,12 +153,14 @@ def cmd_due(a):
     c = conn()
     cohort = a.cohort if a.cohort is not None else datetime.date.today().toordinal() % 7
     out = []
-    for r in c.execute("""SELECT id,name,city,district,address,status,fb_only,baseline_done,last_checked
+    for r in c.execute("""SELECT id,name,city,district,address,status,fb_only,baseline_done,last_checked,
+                                 check_url,check_note,gmap_url
                           FROM studios WHERE cohort=? AND status != 'closed' ORDER BY id""", (cohort,)):
         out.append(dict(
             id=r["id"], name=r["name"], city=r["city"], district=r["district"], address=r["address"],
             status=r["status"], fb_only=bool(r["fb_only"]), baseline_done=bool(r["baseline_done"]),
             last_checked=r["last_checked"],
+            check_url=r["check_url"], check_note=r["check_note"], gmap_url=r["gmap_url"],
             sources=[dict(kind=x["kind"], url=x["url"]) for x in
                      c.execute("SELECT kind,url FROM sources WHERE studio_id=? AND kind NOT IN ('fb','ig')", (r["id"],))],
             known_rooms=[x[0] for x in c.execute("SELECT name FROM rooms WHERE studio_id=? AND status!='gone'", (r["id"],))]))

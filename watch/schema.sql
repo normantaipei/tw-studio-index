@@ -17,7 +17,10 @@ CREATE TABLE IF NOT EXISTS studios (
   last_checked  TEXT,
   last_changed  TEXT,
   notes         TEXT,
-  baseline_done INTEGER DEFAULT 0
+  baseline_done INTEGER DEFAULT 0,
+  check_url     TEXT,                          -- 每日巡檢固定打這個網址
+  check_note    TEXT,                          -- 這個網址是什麼類型的來源
+  gmap_url      TEXT                            -- Google 地圖頁（確認營業狀態用）
 );
 
 CREATE TABLE IF NOT EXISTS sources (
