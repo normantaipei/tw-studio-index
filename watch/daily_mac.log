@@ -1,0 +1,16 @@
+===== 2026-09-08 16:57:03 開始 =====
+Traceback (most recent call last):
+  File "/Users/norman/PhotoProject/攝影棚分析/watch/fetch_photos.py", line 105, in <module>
+    main()
+  File "/Users/norman/PhotoProject/攝影棚分析/watch/fetch_photos.py", line 66, in main
+    rows = [r for r in c.execute(q).fetchall() if not any(h in r["url"] for h in SKIP_HOSTS)]
+sqlite3.OperationalError: no such column: p.local_path
+Traceback (most recent call last):
+  File "/Users/norman/PhotoProject/攝影棚分析/watch/build_site.py", line 21, in <module>
+    for x in c.execute("SELECT studio_id,url,local_path FROM photos ORDER BY id").fetchall():
+sqlite3.OperationalError: no such column: local_path
+studios.jsonl: 94 筆
+rooms.jsonl: 363 筆
+changes.jsonl: 3 筆
+feed_seen.jsonl: 9 筆
+tags.jsonl: 43 筆
