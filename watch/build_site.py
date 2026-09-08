@@ -10,12 +10,14 @@ os.makedirs(os.path.join(DOCS, "data"), exist_ok=True)
 con = sqlite3.connect(DB); con.row_factory = sqlite3.Row; c = con.cursor()
 
 studios = {}
+studios_by_key = {}
 for s in c.execute("SELECT * FROM studios ORDER BY city, district, name").fetchall():
     studios[s["id"]] = dict(
         name=s["name"], city=s["city"] or "", district=s["district"] or "", address=s["address"] or "",
         features=s["features"] or "", price=s["price_note"] or "", status=s["status"] or "unknown",
         status_note=s["status_note"] or "", notes=s["notes"] or "", fb_only=bool(s["fb_only"]),
         last_checked=s["last_checked"] or "", sources=[], photos=[])
+    studios_by_key[s["id"]] = studios[s["id"]]
 for x in c.execute("SELECT studio_id,kind,url FROM sources ORDER BY is_primary DESC, id").fetchall():
     if x["studio_id"] in studios: studios[x["studio_id"]]["sources"].append({"kind": x["kind"], "url": x["url"]})
 for x in c.execute("SELECT studio_id,url,local_path FROM photos ORDER BY id").fetchall():
@@ -29,7 +31,7 @@ _rows.sort(key=lambda x: (ORDER_CITY.index(studios[x["sid"]]["city"]) if studios
                           studios[x["sid"]]["name"], x["name"]))
 for r in _rows:
     st = studios[r["sid"]]
-    rooms.append(dict(
+    rooms.append(dict(studio_key=r["sid"],
         id=r["id"], name=r["name"], desc=r["description"] or "", status=r["status"],
         period=r["period"] or "", price=r["price_note"] or "", studio=st["name"],
         city=st["city"], district=st["district"],
@@ -37,6 +39,32 @@ for r in _rows:
             "SELECT t.name FROM room_tags rt JOIN tags t ON t.id=rt.tag_id WHERE rt.room_id=?", (r["id"],)).fetchall()),
         photos=[{"u": x[0], "p": x[1] or None} for x in
                 c.execute("SELECT url, local_path FROM photos WHERE room_id=? ORDER BY id", (r["id"],)).fetchall()]))
+
+# 照片分配：每個棚最多一張，同店不重複。
+# 1) 有 room_id 的照片 → 歸該棚，標 exact（確定是這個棚）
+# 2) 剩下的店家照片 → 依序分給還沒有圖的棚，一棚一張，標 store（店家場景照，未必是此棚）
+# 3) 分完就沒了：其餘棚不給圖，顯示佔位，不重複借用
+by_studio = {}
+for rm in rooms:
+    by_studio.setdefault(rm["studio_key"], []).append(rm)
+for skey, rms in by_studio.items():
+    st = studios_by_key[skey]
+    used = set()
+    for rm in rms:
+        if rm["photos"]:
+            ph = rm["photos"][0]
+            rm["photo"] = {"p": ph["p"], "u": ph["u"], "exact": True}
+            used.add(ph["u"])
+        else:
+            rm["photo"] = None
+    spare = [x for x in st["photos"] if x["u"] not in used]
+    i = 0
+    for rm in rms:
+        if rm["photo"] is None and i < len(spare):
+            rm["photo"] = {"p": spare[i]["p"], "u": spare[i]["u"], "exact": False}
+            i += 1
+for rm in rooms:
+    rm.pop("photos", None); rm.pop("studio_key", None)
 
 data = {"generated": datetime.date.today().isoformat(),
         "studios": list(studios.values()), "rooms": rooms}
