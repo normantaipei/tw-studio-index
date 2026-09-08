@@ -1,61 +1,68 @@
-# 攝影棚分析
+# 台灣攝影棚棚景索引 tw-studio-index
 
-全台攝影棚（以 Cosplay / 主題實景棚為主）的場景資料庫與每日監控。
-**以「棚」為主體**：一家店有三個不同風格的棚，就是三筆資料，各自帶自己的 tag。
+**[→ 線上查詢頁](https://normantaipei.github.io/tw-studio-index/)**
 
-## 內容
-```
-攝影棚場景整理.md      原始整理（人工彙整，資料來源）
-攝影棚場景相簿.html     場景照相簿
-北部棚景印樣.html       北部棚景印樣
-watch/
-  data/*.jsonl        ★ 版控中的資料本體（studios / rooms / tags / changes / feed_seen）
-  schema.sql
-  schema_rooms.sql    棚、棚標籤、全文索引
-  build_db.py         data/*.jsonl → studios.db（clone 後跑這支）
-  export_data.py      studios.db → data/*.jsonl（改完資料後跑這支再 commit）
-  studio.py           查詢工具
-  record.py           每日排程寫入檢查結果
-  feed.py             PONPAI 最新場地比對（找新開的棚）
-  import_md.py        從 markdown 重新匯入（初次建庫用）
-  migrate_rooms.py    scenes → rooms 結構遷移（已執行過）
-```
+台灣 94 家攝影棚、363 個棚景的公開索引，給 cosplay 與人像攝影找場地用。
 
-## 起手式
+跟一般的攝影棚清單不一樣的地方：**這裡以「棚」為單位**。一家店裡的歐風房、白棚、廢墟區各自是一筆資料、各自標風格標籤，所以你可以直接搜「歐風 + 床景居家」找歐式床景，而不是先找到店、再自己翻它有沒有你要的景。
+
+- 363 個棚、43 種風格／場景標籤（歐風、日式和風、廢墟頹廢、教室校園、水景、監獄、宮廷、梳化間…）
+- 每家店附官網／預約平台／PONPAI／Google 地圖連結
+- 排程每天輪流複查 1/7 的店，追蹤歇業、新棚上線、期間限定檔期、地址與價格變動，紀錄在 `changes` 裡
+
+## 直接用資料
+
 ```bash
-cd watch
-python3 build_db.py ./studios.db          # 重建資料庫
+git clone https://github.com/normantaipei/tw-studio-index.git
+cd tw-studio-index/watch
+python3 build_db.py ./studios.db          # 從 JSONL 重建 SQLite（只需要 python3，無外部套件）
 export STUDIO_DB=$PWD/studios.db
-python3 studio.py status
-```
 
-## 查詢
-```bash
-python3 studio.py find 教室               # 搜尋棚（棚名/描述/tag/店名/地址）
+python3 studio.py find 榻榻米              # 搜尋棚（棚名／描述／tag／店名／地址）
 python3 studio.py tag 廢墟頹廢 --city 台北市
-python3 studio.py tags                    # 全部 tag 與棚數
+python3 studio.py tags                    # 全部標籤與棚數
 python3 studio.py show 斗室                # 一家店的所有棚
-python3 studio.py studios --city 台中市
-python3 studio.py changes --days 7        # 近期異動
-python3 studio.py new --days 30           # 新開的棚 / 新棚別
-python3 studio.py tag-add 想拍 --room 102  # 幫某個棚加自己的 tag
+python3 studio.py changes --days 30       # 近期異動
 ```
 
-## 每日監控
-排程「攝影棚每日巡檢」每天早上 10:00 執行：
-輪掃當天 1/7 的店家（7 天一輪）→ 官網比對棚別清單、Google 地圖確認營業狀態 →
-掃 PONPAI「最新攝影場地」找新開的棚 → 寫進 `changes` 表 → 有異動才推播。
+也可以完全不碰 SQLite，直接讀這兩份：
 
-改完資料要進版控：
-```bash
-python3 export_data.py && git add -A && git commit -m "update: 2026-09-08 巡檢"
+| 檔案 | 內容 |
+|---|---|
+| `watch/data/rooms.jsonl` | 一行一個棚：棚名、描述、標籤、所屬店家、狀態 |
+| `watch/data/studios.jsonl` | 一行一家店：地址、營業狀態、來源網址、場景照網址 |
+| `watch/data/changes.jsonl` | 異動紀錄：新棚、撤景、歇業、搬遷、價格變動 |
+| `docs/data/studios.json` | 查詢頁用的合併版（店家 + 棚 + 標籤） |
+
+## 資料來源與準確度
+
+彙整自各棚官網、線上預約平台、[PONPAI 攝影棚情報站](https://ponpai.tw/)與 Google 地圖等公開來源。標「僅 FB／IG」的店只在社群露出，需自行私訊。
+
+**營業狀態、價格與造景以各店最新公告為準，出發前請自行確認。** 標籤與部分棚名是從公開描述整理的，可能與店家自己的稱呼不同。
+
+## 回報與修正
+
+發現資料錯誤、店家已歇業、有新棚或新開的店，[開一則 issue](https://github.com/normantaipei/tw-studio-index/issues) 告訴我。
+
+**店家本人**若不希望自家資料出現在這裡，或要求修正內容，開 issue 或來信即可，我會盡快處理。場景照為直接引用各店官網／PONPAI 圖庫的原始網址，版權屬原攝影棚所有，僅作辨識用途。
+
+## 授權
+
+- 資料（`watch/data/`、`docs/data/`）：[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hant) — 取用請註明出處
+- 程式碼：MIT
+
+## 專案結構
+
 ```
-
-## 資料表
-`studios`（店家/地址/營業狀態/輪掃組）、`rooms`（棚，主體）、`room_tags`、`tags`、
-`sources`（來源網址）、`photos`、`checks`（每次檢查）、`changes`（異動事件）、
-`runs`（排程紀錄）、`feed_seen`、`rooms_fts` / `studios_fts`（trigram 全文索引）。
-
-## 注意
-- 資料來自公開來源（官網、預約平台、PONPAI、Google 地圖），僅供拍攝場地參考；營業狀態以店家公告為準。
-- 透過 Claude 的連線資料夾操作時，SQLite 檔案鎖在掛載點無法運作，需 `cp` 到本機再操作。
+docs/                 GitHub Pages 查詢頁（index.html 為單檔，資料內嵌）
+watch/
+  data/*.jsonl        資料本體（版控的來源，SQLite 由此重建）
+  build_db.py         JSONL → studios.db
+  export_data.py      studios.db → JSONL
+  build_site.py       studios.db → docs/
+  studio.py           查詢工具
+  record.py           每日巡檢寫入結果
+  feed.py             新開棚比對
+  schema.sql / schema_rooms.sql
+攝影棚場景整理.md       最初的人工彙整（資料起點）
+```

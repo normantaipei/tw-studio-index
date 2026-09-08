@@ -1,0 +1,346 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>台灣攝影棚棚景索引</title>
+<meta name="description" content="台灣 __NSTUDIOS__ 家攝影棚、__NROOMS__ 個棚景的可篩選索引，給 cosplay 與人像攝影找場地用。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&family=Noto+Serif+TC:wght@600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --ground:#e9edee; --surface:#fbfcfc; --surface-2:#f1f4f4;
+  --ink:#15242b; --ink-soft:#43585f; --ink-faint:#6f858c;
+  --line:#d3dbdc; --line-soft:#e3e9e9;
+  --tungsten:#c2761f; --tungsten-soft:#f0e0cc;
+  --key:#2f7c88; --key-soft:#dceaec;
+  --warn:#b0562c; --dead:#8a8f90;
+  --shadow:0 1px 2px rgba(21,36,43,.06), 0 8px 24px -16px rgba(21,36,43,.35);
+  --serif:"Noto Serif TC", "Songti TC", serif;
+  --sans:"Noto Sans TC", -apple-system, "PingFang TC", "Microsoft JhengHei", sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --ground:#0e1619; --surface:#151f24; --surface-2:#1b272c;
+    --ink:#dde6e7; --ink-soft:#a3b4b8; --ink-faint:#7a8d92;
+    --line:#26343a; --line-soft:#1f2b30;
+    --tungsten:#e0a057; --tungsten-soft:#3a2c1a;
+    --key:#63b3bf; --key-soft:#173236;
+    --warn:#d5804f; --dead:#6b7477;
+    --shadow:0 1px 2px rgba(0,0,0,.4), 0 12px 28px -18px rgba(0,0,0,.8);
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#0e1619; --surface:#151f24; --surface-2:#1b272c;
+  --ink:#dde6e7; --ink-soft:#a3b4b8; --ink-faint:#7a8d92;
+  --line:#26343a; --line-soft:#1f2b30;
+  --tungsten:#e0a057; --tungsten-soft:#3a2c1a;
+  --key:#63b3bf; --key-soft:#173236;
+  --warn:#d5804f; --dead:#6b7477;
+  --shadow:0 1px 2px rgba(0,0,0,.4), 0 12px 28px -18px rgba(0,0,0,.8);
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.65}
+a{color:inherit}
+button{font:inherit;color:inherit}
+
+header.top{border-bottom:1px solid var(--line);background:var(--surface)}
+.top-inner{max-width:1240px;margin:0 auto;padding:22px 20px 18px;display:flex;flex-direction:column;gap:14px}
+.brand{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+h1{font-family:var(--serif);font-weight:700;font-size:clamp(21px,3.4vw,29px);margin:0;letter-spacing:.01em;text-wrap:balance}
+.brand .sub{font-family:var(--mono);font-size:12px;color:var(--ink-faint);letter-spacing:.04em}
+.lede{margin:0;color:var(--ink-soft);max-width:62ch;font-size:14px}
+.searchrow{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.search{flex:1 1 320px;position:relative}
+.search input{width:100%;padding:11px 14px 11px 38px;border:1px solid var(--line);border-radius:3px;
+  background:var(--surface-2);color:var(--ink);font-family:var(--sans);font-size:15px}
+.search input:focus{outline:2px solid var(--key);outline-offset:1px;border-color:transparent}
+.search svg{position:absolute;left:13px;top:50%;transform:translateY(-50%);color:var(--ink-faint)}
+.count{font-family:var(--mono);font-size:12.5px;color:var(--ink-faint);white-space:nowrap}
+.count b{color:var(--tungsten);font-weight:500}
+
+.layout{max-width:1240px;margin:0 auto;padding:22px 20px 64px;display:grid;grid-template-columns:232px 1fr;gap:28px;align-items:start}
+@media (max-width:860px){.layout{grid-template-columns:1fr;gap:18px}}
+
+.rail{position:sticky;top:16px;display:flex;flex-direction:column;gap:22px}
+@media (max-width:860px){.rail{position:static}}
+.rail h2{font-family:var(--mono);font-size:11px;font-weight:500;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--ink-faint);margin:0 0 9px;padding-bottom:7px;border-bottom:1px solid var(--line-soft)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{border:1px solid var(--line);background:transparent;border-radius:2px;padding:4px 9px;font-size:13px;
+  cursor:pointer;display:inline-flex;align-items:center;gap:5px;transition:background .12s,border-color .12s}
+.chip .n{font-family:var(--mono);font-size:10.5px;color:var(--ink-faint)}
+.chip:hover{border-color:var(--key)}
+.chip[aria-pressed="true"]{background:var(--key);border-color:var(--key);color:#fff}
+.chip[aria-pressed="true"] .n{color:rgba(255,255,255,.75)}
+.chip:focus-visible{outline:2px solid var(--tungsten);outline-offset:2px}
+.hint{font-size:12px;color:var(--ink-faint);margin:8px 0 0;line-height:1.5}
+.reset{margin-top:2px;background:none;border:none;padding:0;font-size:12.5px;color:var(--key);cursor:pointer;text-decoration:underline;text-underline-offset:3px}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(268px,1fr));gap:16px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:3px;overflow:hidden;
+  display:flex;flex-direction:column;box-shadow:var(--shadow)}
+.shot{aspect-ratio:4/3;background:var(--surface-2);position:relative;overflow:hidden;border-bottom:1px solid var(--line-soft)}
+.shot img{width:100%;height:100%;object-fit:cover;display:block}
+.shot .noimg{position:absolute;inset:0;display:grid;place-items:center;font-family:var(--mono);font-size:11px;
+  color:var(--ink-faint);letter-spacing:.08em;background:
+   repeating-linear-gradient(135deg,var(--surface-2) 0 11px,var(--ground) 11px 22px)}
+.shot .credit{position:absolute;left:0;bottom:0;right:0;padding:5px 8px;font-family:var(--mono);font-size:10px;
+  color:#f2f2f2;background:linear-gradient(transparent,rgba(10,18,22,.82));text-align:right}
+.shot .credit a{color:#f2f2f2;text-decoration:none}
+.shot .credit a:hover{text-decoration:underline}
+.body{padding:13px 14px 14px;display:flex;flex-direction:column;gap:9px;flex:1}
+.roomname{font-family:var(--serif);font-weight:600;font-size:17.5px;line-height:1.35;margin:0;text-wrap:balance}
+.at{font-size:13px;color:var(--ink-soft);margin:0}
+.at .studio{font-weight:500;color:var(--ink)}
+.at .loc{font-family:var(--mono);font-size:11.5px;color:var(--ink-faint);margin-left:5px}
+.desc{font-size:13px;color:var(--ink-soft);margin:0}
+.tagline{display:flex;flex-wrap:wrap;gap:5px;margin-top:auto;padding-top:4px}
+.tag{font-size:11.5px;padding:2px 7px;border-radius:2px;background:var(--key-soft);color:var(--key);cursor:pointer;border:none}
+.tag:hover{background:var(--key);color:#fff}
+.pill{font-family:var(--mono);font-size:10px;letter-spacing:.06em;padding:2px 6px;border-radius:2px;text-transform:uppercase}
+.pill.limited{background:var(--tungsten-soft);color:var(--tungsten)}
+.pill.gone{background:var(--surface-2);color:var(--dead);text-decoration:line-through}
+.pill.suspect{background:var(--tungsten-soft);color:var(--warn)}
+.pill.closed{background:var(--surface-2);color:var(--dead)}
+.pill.fb{background:var(--surface-2);color:var(--ink-faint)}
+.links{display:flex;flex-wrap:wrap;gap:10px;font-family:var(--mono);font-size:11.5px;
+  border-top:1px solid var(--line-soft);padding-top:9px}
+.links a{color:var(--key);text-decoration:none}
+.links a:hover{text-decoration:underline;text-underline-offset:3px}
+.note{font-size:12px;color:var(--warn);margin:0}
+.addr{font-size:12px;color:var(--ink-faint);margin:0}
+
+.fbonly{margin-top:34px;padding-top:22px;border-top:1px solid var(--line)}
+.fbonly h2{font-family:var(--mono);font-size:11px;font-weight:500;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-faint);margin:0 0 6px}
+.fbonly p{margin:0 0 12px;font-size:13px;color:var(--ink-soft);max-width:62ch}
+.fbonly ul{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:8px}
+.fbonly li{font-size:13px;padding:9px 11px;background:var(--surface);border:1px solid var(--line-soft);border-radius:3px;display:flex;justify-content:space-between;gap:8px;align-items:baseline}
+.fbonly li a{font-family:var(--mono);font-size:11px;color:var(--key);text-decoration:none;white-space:nowrap}
+.fbonly li a:hover{text-decoration:underline}
+.fbonly .where{font-family:var(--mono);font-size:11px;color:var(--ink-faint)}
+.empty{padding:56px 20px;text-align:center;color:var(--ink-faint);border:1px dashed var(--line);border-radius:3px}
+footer{border-top:1px solid var(--line);background:var(--surface)}
+.foot-inner{max-width:1240px;margin:0 auto;padding:26px 20px 40px;display:grid;gap:14px;
+  grid-template-columns:repeat(auto-fit,minmax(240px,1fr));font-size:12.5px;color:var(--ink-soft)}
+.foot-inner h3{font-family:var(--mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--ink-faint);margin:0 0 6px;font-weight:500}
+.foot-inner a{color:var(--key)}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="top-inner">
+    <div class="brand">
+      <h1>台灣攝影棚棚景索引</h1>
+      <span class="sub">__NROOMS__ 個棚 · __NSTUDIOS__ 家棚 · 更新於 __GENERATED__</span>
+    </div>
+    <p class="lede">以「棚」為單位整理：一家店裡的歐風房、白棚、廢墟區各自一筆，各自標風格。給 cosplay 與人像攝影找場地、比對造景用。</p>
+    <div class="searchrow">
+      <label class="search">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="搜尋棚名、店名、造景描述、地址…（例：榻榻米、教室、廢墟）" autocomplete="off">
+      </label>
+      <span class="count" id="count"></span>
+    </div>
+  </div>
+</header>
+
+<div class="layout">
+  <aside class="rail">
+    <div>
+      <h2>縣市</h2>
+      <div class="chips" id="cities"></div>
+    </div>
+    <div>
+      <h2>風格 / 場景</h2>
+      <div class="chips" id="tags"></div>
+      <p class="hint">選多個標籤 = 要同時符合。例如「歐風 + 床景居家」只會留下歐式床景。</p>
+      <button class="reset" id="reset" type="button">清除全部篩選</button>
+    </div>
+    <div>
+      <h2>顯示</h2>
+      <div class="chips">
+        <button class="chip" id="f-open" type="button" aria-pressed="false">排除疑似/已歇業</button>
+        <button class="chip" id="f-photo" type="button" aria-pressed="false">只看有照片</button>
+      </div>
+    </div>
+  </aside>
+
+  <main>
+    <div class="grid" id="grid"></div>
+    <div class="empty" id="empty" hidden>沒有符合的棚。把標籤拿掉一兩個試試。</div>
+    <section class="fbonly" id="fbonly">
+      <h2>只在 FB／IG 露出的店</h2>
+      <p>這些店查不到官網或預約平台，棚景要自己去粉專私訊問。列在這裡是為了不讓它們從清單上消失。</p>
+      <ul id="fblist"></ul>
+    </section>
+  </main>
+</div>
+
+<footer>
+  <div class="foot-inner">
+    <div>
+      <h3>資料怎麼來的</h3>
+      彙整自各棚官網、線上預約平台、<a href="https://ponpai.tw/" target="_blank" rel="noopener">PONPAI 攝影棚情報站</a>與 Google 地圖等公開來源，並以排程每日輪流複查營業狀態與棚景異動。標「僅 FB」的店只在 Facebook／Instagram 露出，需自行私訊。
+    </div>
+    <div>
+      <h3>準確度</h3>
+      營業狀態、價格與造景以各店最新公告為準，出發前請務必自行確認。發現錯誤、店家已歇業或有新棚，歡迎開 issue 回報，也歡迎店家來信要求修正或下架自家資料。
+    </div>
+    <div>
+      <h3>圖片</h3>
+      場景照直接引用各店官網或 PONPAI 圖庫，版權屬原攝影棚所有，僅作辨識用途；點圖說可連回原始來源。
+    </div>
+    <div>
+      <h3>授權</h3>
+      資料採 CC BY 4.0、程式碼採 MIT。取用請註明出處並自行複查資料正確性。
+    </div>
+  </div>
+</footer>
+
+<script id="payload" type="application/json">__DATA__</script>
+<script>
+const DATA = JSON.parse(document.getElementById('payload').textContent);
+const TAGS = __TAGS__, CITIES = __CITIES__;
+const S = DATA.studios, R = DATA.rooms;
+
+// 每家店的棚依序輪流用不同張照片
+const seenPerStudio = {};
+R.forEach(r => { const n = seenPerStudio[r.s] = (seenPerStudio[r.s] ?? -1) + 1; r._pi = n; });
+
+const state = { q:'', city:null, tags:new Set(), openOnly:false, photoOnly:false };
+const KIND = { official:'官網', booking:'預約', ponpai:'PONPAI', blog:'介紹文', threads:'Threads', ig:'IG', fb:'FB', gmap:'地圖', other:'來源' };
+const esc = s => (s||'').replace(/[&<>"]/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
+const host = u => { try { return new URL(u).hostname.replace(/^www\./,''); } catch(e) { return '來源'; } };
+
+function mapUrl(st){ return 'https://www.google.com/maps/search/' + encodeURIComponent(st.name + ' ' + (st.city||'') + (st.district||'')); }
+
+function haystack(r){
+  const st = S[r.s];
+  return (r._h ??= [r.name, r.desc, r.tags.join(' '), st.name, st.city, st.district, st.address, st.features].join(' ').toLowerCase());
+}
+
+function match(r){
+  const st = S[r.s];
+  if (state.city && st.city !== state.city) return false;
+  if (state.openOnly && (st.status === 'closed' || st.status === 'suspect_closed')) return false;
+  if (state.photoOnly && !st.photos.length) return false;
+  for (const t of state.tags) if (!r.tags.includes(t)) return false;
+  if (state.q && !haystack(r).includes(state.q)) return false;
+  return true;
+}
+
+function card(r){
+  const st = S[r.s];
+  const photo = st.photos.length ? st.photos[r._pi % st.photos.length] : null;
+  const src = st.sources.find(x => x.kind === 'official' || x.kind === 'booking') || st.sources[0];
+  const pills = [];
+  if (r.status === 'limited') pills.push(`<span class="pill limited">期間限定${r.period ? ' ' + esc(r.period) : ''}</span>`);
+  if (r.status === 'gone') pills.push('<span class="pill gone">已撤景</span>');
+  if (st.status === 'suspect_closed') pills.push('<span class="pill suspect">疑似歇業</span>');
+  if (st.status === 'closed') pills.push('<span class="pill closed">已歇業</span>');
+  if (st.fb_only) pills.push('<span class="pill fb">僅 FB／IG</span>');
+
+  const links = [];
+  st.sources.forEach(x => links.push(`<a href="${esc(x.url)}" target="_blank" rel="noopener">${KIND[x.kind] || '來源'}</a>`));
+  links.push(`<a href="${esc(mapUrl(st))}" target="_blank" rel="noopener">Google 地圖</a>`);
+
+  const el = document.createElement('article');
+  el.className = 'card';
+  el.innerHTML = `
+    <div class="shot">
+      ${photo ? `<img loading="lazy" src="${esc(photo)}" alt="${esc(st.name)} 場景照" onerror="this.remove();this.parentNode.querySelector('.noimg').hidden=false">` : ''}
+      <div class="noimg" ${photo ? 'hidden' : ''}>NO IMAGE</div>
+      ${photo ? `<div class="credit">照片：<a href="${esc(src ? src.url : photo)}" target="_blank" rel="noopener">${esc(host(photo))}</a></div>` : ''}
+    </div>
+    <div class="body">
+      <h3 class="roomname">${esc(r.name)}</h3>
+      <p class="at"><span class="studio">${esc(st.name)}</span><span class="loc">${esc(st.city)}${esc(st.district)}</span></p>
+      ${r.desc ? `<p class="desc">${esc(r.desc)}</p>` : ''}
+      ${r.price ? `<p class="desc">價格：${esc(r.price)}</p>` : (st.price ? `<p class="desc">全店價目：${esc(st.price)}</p>` : '')}
+      ${st.address ? `<p class="addr">${esc(st.address)}</p>` : ''}
+      ${st.status_note ? `<p class="note">${esc(st.status_note)}</p>` : ''}
+      ${st.notes ? `<p class="note">${esc(st.notes)}</p>` : ''}
+      <div class="tagline">${pills.join('')}${r.tags.map(t => `<button class="tag" type="button" data-tag="${esc(t)}">${esc(t)}</button>`).join('')}</div>
+      <div class="links">${links.join('')}</div>
+    </div>`;
+  return el;
+}
+
+const grid = document.getElementById('grid'), empty = document.getElementById('empty'), countEl = document.getElementById('count');
+function render(){
+  const hits = R.filter(match);
+  grid.replaceChildren();
+  const frag = document.createDocumentFragment();
+  hits.forEach(r => frag.appendChild(card(r)));
+  grid.appendChild(frag);
+  empty.hidden = hits.length > 0;
+  const studios = new Set(hits.map(r => r.s));
+  countEl.innerHTML = `<b>${hits.length}</b> 個棚 · ${studios.size} 家店`;
+}
+
+function chip(label, count, on, handler){
+  const b = document.createElement('button');
+  b.className = 'chip'; b.type = 'button'; b.setAttribute('aria-pressed', on ? 'true' : 'false');
+  b.innerHTML = esc(label) + (count != null ? ` <span class="n">${count}</span>` : '');
+  b.addEventListener('click', handler);
+  return b;
+}
+
+function drawFilters(){
+  const cityBox = document.getElementById('cities'); cityBox.replaceChildren();
+  CITIES.forEach(city => {
+    const n = R.filter(r => S[r.s].city === city).length;
+    if (!n) return;
+    cityBox.appendChild(chip(city, n, state.city === city, () => {
+      state.city = state.city === city ? null : city; drawFilters(); render();
+    }));
+  });
+  const tagBox = document.getElementById('tags'); tagBox.replaceChildren();
+  TAGS.forEach(([t, n]) => tagBox.appendChild(chip(t, n, state.tags.has(t), () => {
+    state.tags.has(t) ? state.tags.delete(t) : state.tags.add(t); drawFilters(); render();
+  })));
+}
+
+document.getElementById('q').addEventListener('input', e => { state.q = e.target.value.trim().toLowerCase(); render(); });
+document.getElementById('reset').addEventListener('click', () => {
+  state.q = ''; state.city = null; state.tags.clear(); state.openOnly = false; state.photoOnly = false;
+  document.getElementById('q').value = '';
+  document.getElementById('f-open').setAttribute('aria-pressed','false');
+  document.getElementById('f-photo').setAttribute('aria-pressed','false');
+  drawFilters(); render();
+});
+document.getElementById('f-open').addEventListener('click', e => {
+  state.openOnly = !state.openOnly; e.currentTarget.setAttribute('aria-pressed', String(state.openOnly)); render();
+});
+document.getElementById('f-photo').addEventListener('click', e => {
+  state.photoOnly = !state.photoOnly; e.currentTarget.setAttribute('aria-pressed', String(state.photoOnly)); render();
+});
+grid.addEventListener('click', e => {
+  const t = e.target.closest('.tag'); if (!t) return;
+  const tag = t.dataset.tag;
+  state.tags.has(tag) ? state.tags.delete(tag) : state.tags.add(tag);
+  drawFilters(); render(); window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+
+// 只在 FB/IG 露出、沒有棚景資料的店
+const withRooms = new Set(R.map(r => r.s));
+const fbList = document.getElementById('fblist');
+S.forEach((st, i) => {
+  if (withRooms.has(i)) return;
+  const li = document.createElement('li');
+  li.innerHTML = `<span>${esc(st.name)}<span class="where"> ${esc(st.city)}${esc(st.district)}</span></span>` +
+    `<a href="${esc(mapUrl(st))}" target="_blank" rel="noopener">地圖</a>`;
+  fbList.appendChild(li);
+});
+if (!fbList.children.length) document.getElementById('fbonly').hidden = true;
+
+drawFilters(); render();
+</script>
+</body>
+</html>
