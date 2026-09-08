@@ -86,7 +86,8 @@ h1{font-family:var(--serif);font-weight:700;font-size:clamp(21px,3.4vw,29px);mar
 .shot{aspect-ratio:4/3;background:var(--surface-2);position:relative;overflow:hidden;border-bottom:1px solid var(--line-soft)}
 .shot img{width:100%;height:100%;object-fit:cover;display:block}
 .shot .noimg[hidden]{display:none}
-.shot .noimg{position:absolute;inset:0;display:grid;place-items:center;font-family:var(--mono);font-size:11px;
+.shot .noimg .albumlink{color:var(--key);font-size:10px;letter-spacing:0}
+.shot .noimg{position:absolute;inset:0;display:grid;place-items:center;text-align:center;line-height:1.9;font-family:var(--mono);font-size:11px;
   color:var(--ink-faint);letter-spacing:.08em;background:
    repeating-linear-gradient(135deg,var(--surface-2) 0 11px,var(--ground) 11px 22px)}
 .shot .credit{position:absolute;left:0;bottom:0;right:0;padding:5px 8px;font-family:var(--mono);font-size:10px;
@@ -242,7 +243,8 @@ function match(r){
 function card(r){
   const st = S[r.s];
   // 照片在建站時就分配好：一棚最多一張、同店不重複借用
-  const ph = r.photo || null;
+  const ph = (r.photo && r.photo.exact) ? r.photo : null;   // 只顯示確定屬於這個棚的照片
+  const album = (!ph && r.photo) ? r.photo : null;          // 店家有照片但無法確定是哪個棚
   const pool = ph ? (ph.p ? [ph.p, ph.u] : [ph.u]) : [];
   const photo = pool[0] || null;
   const creditFor = ph ? ph.u : null;
@@ -257,14 +259,15 @@ function card(r){
   const links = [];
   st.sources.forEach(x => links.push(`<a href="${esc(x.url)}" target="_blank" rel="noopener">${KIND[x.kind] || '來源'}</a>`));
   links.push(`<a href="${esc(mapUrl(st))}" target="_blank" rel="noopener">Google 地圖</a>`);
+  if (album) links.push(`<a href="${esc(album.u)}" target="_blank" rel="noopener">店家相簿照片</a>`);
 
   const el = document.createElement('article');
   el.className = 'card';
   el.innerHTML = `
     <div class="shot">
       ${photo ? `<img loading="lazy" src="${esc(photo)}" alt="${esc(st.name)} 場景照" data-pool="${esc(JSON.stringify(pool.slice(1)))}" onerror="try{const rest=JSON.parse(this.dataset.pool||'[]');if(rest.length){this.dataset.pool=JSON.stringify(rest.slice(1));this.src=rest[0];return}}catch(e){}const p=this.parentNode;p.querySelector('.noimg').hidden=false;const cr=p.querySelector('.credit');if(cr)cr.remove();this.remove()">` : ''}
-      <div class="noimg" ${photo ? 'hidden' : ''}>此棚尚無照片</div>
-      ${photo ? `<div class="credit">${ph && !ph.exact ? '店家場景照（未必為此棚）· ' : ''}<a href="${esc(/googleusercontent\.com/.test(creditFor || '') ? mapUrl(st) : (src ? src.url : (creditFor || photo)))}" target="_blank" rel="noopener">${esc(host(creditFor || photo))}</a></div>` : ''}
+      <div class="noimg" ${photo ? 'hidden' : ''}>${album ? '此棚無實拍照<br><span class="albumlink">店家相簿有照片</span>' : '此棚尚無照片'}</div>
+      ${photo ? `<div class="credit"><a href="${esc(/googleusercontent\.com/.test(creditFor || '') ? mapUrl(st) : (src ? src.url : (creditFor || photo)))}" target="_blank" rel="noopener">${esc(host(creditFor || photo))}</a></div>` : ''}
     </div>
     <div class="body">
       <h3 class="roomname">${esc(r.name)}</h3>
