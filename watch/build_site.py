@@ -33,7 +33,8 @@ for r in _rows:
         period=r["period"] or "", price=r["price_note"] or "", studio=st["name"],
         city=st["city"], district=st["district"],
         tags=sorted(x[0] for x in c.execute(
-            "SELECT t.name FROM room_tags rt JOIN tags t ON t.id=rt.tag_id WHERE rt.room_id=?", (r["id"],)).fetchall())))
+            "SELECT t.name FROM room_tags rt JOIN tags t ON t.id=rt.tag_id WHERE rt.room_id=?", (r["id"],)).fetchall()),
+        photos=[x[0] for x in c.execute("SELECT url FROM photos WHERE room_id=? ORDER BY id", (r["id"],)).fetchall()]))
 
 data = {"generated": datetime.date.today().isoformat(),
         "studios": list(studios.values()), "rooms": rooms}
