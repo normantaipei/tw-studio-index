@@ -241,9 +241,12 @@ function match(r){
 
 function card(r){
   const st = S[r.s];
-  const pool = (r.photos && r.photos.length) ? r.photos
-             : (st.photos.length ? st.photos.slice(r._pi % st.photos.length).concat(st.photos.slice(0, r._pi % st.photos.length)) : []);
+  const raw = (r.photos && r.photos.length) ? r.photos
+            : (st.photos.length ? st.photos.slice(r._pi % st.photos.length).concat(st.photos.slice(0, r._pi % st.photos.length)) : []);
+  // 每張圖先試本地壓縮檔，失敗再退回原始網址
+  const pool = raw.flatMap(x => x.p ? [x.p, x.u] : [x.u]);
   const photo = pool[0] || null;
+  const creditFor = raw[0] ? raw[0].u : null;
   const src = st.sources.find(x => x.kind === 'official' || x.kind === 'booking') || st.sources[0];
   const pills = [];
   if (r.status === 'limited') pills.push(`<span class="pill limited">期間限定${r.period ? ' ' + esc(r.period) : ''}</span>`);
@@ -262,7 +265,7 @@ function card(r){
     <div class="shot">
       ${photo ? `<img loading="lazy" src="${esc(photo)}" alt="${esc(st.name)} 場景照" data-pool="${esc(JSON.stringify(pool.slice(1)))}" onerror="try{const rest=JSON.parse(this.dataset.pool||'[]');if(rest.length){this.dataset.pool=JSON.stringify(rest.slice(1));this.src=rest[0];return}}catch(e){}const p=this.parentNode;p.querySelector('.noimg').hidden=false;const cr=p.querySelector('.credit');if(cr)cr.remove();this.remove()">` : ''}
       <div class="noimg" ${photo ? 'hidden' : ''}>NO IMAGE</div>
-      ${photo ? `<div class="credit">照片：<a href="${esc(/googleusercontent\.com/.test(photo) ? mapUrl(st) : (src ? src.url : photo))}" target="_blank" rel="noopener">${esc(host(photo))}</a></div>` : ''}
+      ${photo ? `<div class="credit">照片：<a href="${esc(/googleusercontent\.com/.test(creditFor || '') ? mapUrl(st) : (src ? src.url : (creditFor || photo)))}" target="_blank" rel="noopener">${esc(host(creditFor || photo))}</a></div>` : ''}
     </div>
     <div class="body">
       <h3 class="roomname">${esc(r.name)}</h3>

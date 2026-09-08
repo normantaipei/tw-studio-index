@@ -34,6 +34,14 @@ python3 studio.py changes --days 30       # 近期異動
 | `watch/data/changes.jsonl` | 異動紀錄：新棚、撤景、歇業、搬遷、價格變動 |
 | `docs/data/studios.json` | 查詢頁用的合併版（店家 + 棚 + 標籤） |
 
+## 圖片
+
+`docs/img/` 下是各攝影棚官網／PONPAI 場景照的**縮圖快取**（長邊 640px、WebP q72，約為網頁顯示尺寸的兩倍），
+用途是讓這個索引頁能穩定顯示、不消耗各店伺服器頻寬。**這些照片的著作權屬於各攝影棚，不在本專案的授權範圍內**，
+每張圖的圖說都連回原始來源。Google 地圖上的商家照片屬於個別上傳者，本專案不轉存，一律維持外連。
+
+**店家若不希望自家照片出現在這裡**，開一則 issue 或來信告知，我會立即移除。
+
 ## 資料來源與準確度
 
 彙整自各棚官網、線上預約平台、[PONPAI 攝影棚情報站](https://ponpai.tw/)與 Google 地圖等公開來源。標「僅 FB／IG」的店只在社群露出，需自行私訊。
@@ -50,6 +58,7 @@ python3 studio.py changes --days 30       # 近期異動
 
 - 資料（`watch/data/`、`docs/data/`）：[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hant) — 取用請註明出處
 - 程式碼：MIT
+- **圖片（`docs/img/`）不適用上述授權**：著作權屬各攝影棚，僅作索引辨識用途，請勿另作商業使用
 
 ## 專案結構
 

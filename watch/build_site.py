@@ -18,8 +18,9 @@ for s in c.execute("SELECT * FROM studios ORDER BY city, district, name").fetcha
         last_checked=s["last_checked"] or "", sources=[], photos=[])
 for x in c.execute("SELECT studio_id,kind,url FROM sources ORDER BY is_primary DESC, id").fetchall():
     if x["studio_id"] in studios: studios[x["studio_id"]]["sources"].append({"kind": x["kind"], "url": x["url"]})
-for x in c.execute("SELECT studio_id,url FROM photos ORDER BY id").fetchall():
-    if x["studio_id"] in studios: studios[x["studio_id"]]["photos"].append(x["url"])
+for x in c.execute("SELECT studio_id,url,local_path FROM photos ORDER BY id").fetchall():
+    if x["studio_id"] in studios:
+        studios[x["studio_id"]]["photos"].append({"u": x["url"], "p": x["local_path"] or None})
 
 ORDER_CITY = ["台北市","新北市","桃園市","苗栗縣","彰化縣","台中市","台南市","高雄市","屏東縣","嘉義市"]
 rooms = []
@@ -34,7 +35,8 @@ for r in _rows:
         city=st["city"], district=st["district"],
         tags=sorted(x[0] for x in c.execute(
             "SELECT t.name FROM room_tags rt JOIN tags t ON t.id=rt.tag_id WHERE rt.room_id=?", (r["id"],)).fetchall()),
-        photos=[x[0] for x in c.execute("SELECT url FROM photos WHERE room_id=? ORDER BY id", (r["id"],)).fetchall()]))
+        photos=[{"u": x[0], "p": x[1] or None} for x in
+                c.execute("SELECT url, local_path FROM photos WHERE room_id=? ORDER BY id", (r["id"],)).fetchall()]))
 
 data = {"generated": datetime.date.today().isoformat(),
         "studios": list(studios.values()), "rooms": rooms}

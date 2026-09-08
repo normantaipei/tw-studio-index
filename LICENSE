@@ -25,5 +25,7 @@ SOFTWARE.
 資料部分（watch/data/、docs/data/）採 Creative Commons Attribution 4.0
 International (CC BY 4.0)：https://creativecommons.org/licenses/by/4.0/
 
-場景照片網址所指向的影像版權屬各攝影棚所有，本專案僅引用其公開網址作辨識用途，
-不主張任何權利。
+圖片（docs/img/ 下的縮圖快取，以及資料中的照片網址所指向的影像）**不適用上述授權**：
+著作權屬各攝影棚或原上傳者所有。本專案僅為建立可查詢的場地索引而保存縮圖並標註來源，
+不主張任何權利，亦不授權他人再散布。權利人要求移除時將立即照辦。
+Google 地圖上的商家照片不轉存，僅以連結指向 Google 地圖。

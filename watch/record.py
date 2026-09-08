@@ -16,6 +16,7 @@ JSON 格式：
     "gmap_url": "https://www.google.com/maps/place/...",  // 解析到的 Google 地圖頁（選填）
     "rooms": [{"name":"歐式書房","desc":"...","tags":["歐風","書房"],"url":"該棚所在頁面（選填）"}],
     "rooms_complete": true,                   // 是否為該店完整棚別清單（true 才會判斷棚被撤掉）
+    "photos": [{"url":"https://.../scene1.jpg","room":"歐式書房（選填）"}],   // 這次在頁面上看到的新場景照
     "new_sources": [{"kind":"official","url":"https://..."}],
     "changes": [{"type":"price","summary":"...","detail":"...","source_url":"..."}]  // 額外異動
    }
@@ -119,6 +120,18 @@ for r in data.get("results", []):
             add_change(sid, name, "source_found", f"{name} 的巡檢網址換成更好的來源", f"舊：{old_cu}\n新：{r['check_url']}", r["check_url"])
     if r.get("gmap_url"):
         c.execute("UPDATE studios SET gmap_url=? WHERE id=?", (r["gmap_url"], sid))
+
+    for ph in r.get("photos", []):
+        purl = (ph.get("url") if isinstance(ph, dict) else ph) or ""
+        if not purl.startswith("http"): continue
+        prid = None
+        if isinstance(ph, dict) and ph.get("room"):
+            got = c.execute("SELECT id FROM rooms WHERE studio_id=? AND name=?", (sid, ph["room"])).fetchone()
+            prid = got["id"] if got else None
+        if not c.execute("SELECT 1 FROM photos WHERE studio_id=? AND url=?", (sid, purl)).fetchone():
+            c.execute("INSERT INTO photos(studio_id,room_id,url) VALUES(?,?,?)", (sid, prid, purl))
+        elif prid:
+            c.execute("UPDATE photos SET room_id=? WHERE studio_id=? AND url=? AND room_id IS NULL", (prid, sid, purl))
 
     for ns in r.get("new_sources", []):
         exists = c.execute("SELECT 1 FROM sources WHERE studio_id=? AND url=?", (sid, ns["url"])).fetchone()
