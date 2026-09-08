@@ -53,6 +53,10 @@ CREATE TABLE IF NOT EXISTS photos (
   scene_id      INTEGER REFERENCES scenes(id) ON DELETE SET NULL,
   url           TEXT NOT NULL,
   added_at      TEXT DEFAULT (date('now','localtime')),
+  room_id       INTEGER,                      -- 屬於哪個棚（可空）
+  local_path    TEXT,                         -- docs/ 下的本地 webp 相對路徑
+  fetched_at    TEXT,
+  fetch_error   TEXT,
   UNIQUE(studio_id, url)
 );
 

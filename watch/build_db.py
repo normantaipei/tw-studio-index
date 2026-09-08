@@ -22,6 +22,7 @@ def tag_id(name):
     return c.execute("SELECT id FROM tags WHERE name=?", (name,)).fetchone()[0]
 
 sid_by_name = {}
+photo_links = []
 for s in rows("studios.jsonl"):
     srcs, photos, tags = s.pop("sources", []), s.pop("photos", []), s.pop("tags", [])
     cols = ",".join(s.keys()); ph = ",".join("?" * len(s))
@@ -30,8 +31,14 @@ for s in rows("studios.jsonl"):
     for x in srcs:
         c.execute("INSERT OR IGNORE INTO sources(studio_id,kind,url,is_primary) VALUES(?,?,?,?)",
                   (sid, x.get("kind"), x["url"], x.get("is_primary", 0)))
-    for u in photos:
-        c.execute("INSERT OR IGNORE INTO photos(studio_id,url) VALUES(?,?)", (sid, u))
+    for ph in photos:
+        if isinstance(ph, str):
+            c.execute("INSERT OR IGNORE INTO photos(studio_id,url) VALUES(?,?)", (sid, ph))
+        else:
+            c.execute("INSERT OR IGNORE INTO photos(studio_id,url,local_path) VALUES(?,?,?)",
+                      (sid, ph["url"], ph.get("local_path")))
+            if ph.get("room"):
+                photo_links.append((sid, ph["room"], ph["url"]))   # 棚還沒建，稍後再連
     for t in tags:
         c.execute("INSERT OR IGNORE INTO studio_tags(studio_id,tag_id,origin) VALUES(?,?,'manual')", (sid, tag_id(t)))
 
@@ -45,6 +52,11 @@ for r in rows("rooms.jsonl"):
     rid = c.lastrowid
     for t in tags:
         c.execute("INSERT OR IGNORE INTO room_tags(room_id,tag_id) VALUES(?,?)", (rid, tag_id(t)))
+
+# 棚都建好之後，再把照片連到棚
+for sid, room_name, url in photo_links:
+    c.execute("""UPDATE photos SET room_id=(SELECT id FROM rooms WHERE studio_id=? AND name=?)
+                 WHERE studio_id=? AND url=?""", (sid, room_name, sid, url))
 
 for ch in rows("changes.jsonl"):
     studio = ch.pop("studio", None)

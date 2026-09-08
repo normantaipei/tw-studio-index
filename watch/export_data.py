@@ -20,7 +20,9 @@ for s in c.execute("SELECT * FROM studios ORDER BY name").fetchall():
     d.pop("id", None)
     d["sources"] = [dict(kind=x["kind"], url=x["url"], is_primary=x["is_primary"])
                     for x in c.execute("SELECT kind,url,is_primary FROM sources WHERE studio_id=? ORDER BY url", (s["id"],))]
-    d["photos"] = [x[0] for x in c.execute("SELECT url FROM photos WHERE studio_id=? ORDER BY url", (s["id"],))]
+    d["photos"] = [dict(url=x["url"], room=x["room"], local_path=x["local_path"]) for x in c.execute(
+        """SELECT p.url, p.local_path, r.name room FROM photos p LEFT JOIN rooms r ON r.id=p.room_id
+           WHERE p.studio_id=? ORDER BY p.url""", (s["id"],)).fetchall()]
     d["tags"] = sorted(x[0] for x in c.execute(
         "SELECT t.name FROM studio_tags st JOIN tags t ON t.id=st.tag_id WHERE st.studio_id=? AND st.origin='manual'", (s["id"],)))
     studios.append(d)
