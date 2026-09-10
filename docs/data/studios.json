@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09",
+ "generated": "2026-09-10",
  "studios": [
   {
    "name": "光棚 Chic Light",
@@ -214,11 +214,11 @@
    "address": "台中市南屯區龍富十一街58號;0905-284476",
    "features": "近600坪兩層樓大型基地。南洋風溫室花園、天井自然光、歐式書房、復古門牆、禪風磚牆、旅行主題。歐/美/韓/南洋。婚紗/工商/藝術照/孕婦/全家福/Cosplay/Lolita/課程。",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "官網場景一覽頁正常，營業時間週五～週三 10:00-19:00、週四公休；頁面未逐棚列名，僅列服務項目與場景照",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-10",
    "sources": [
     {
      "kind": "official",
@@ -257,6 +257,26 @@
     {
      "u": "https://img.sayyes.com.tw/image-in/wp-content/uploads/2025/06/2025060309343585.jpg",
      "p": "img/影相視務所/e9d747fd74cb.webp"
+    },
+    {
+     "u": "https://img.sayyes.com.tw/image-in/wp-content/uploads/2025/06/2025060309302883.jpg",
+     "p": null
+    },
+    {
+     "u": "https://img.sayyes.com.tw/image-in/wp-content/uploads/2025/06/2025060309303147.jpg",
+     "p": null
+    },
+    {
+     "u": "https://img.sayyes.com.tw/image-in/wp-content/uploads/2025/06/2025060309303459.jpg",
+     "p": null
+    },
+    {
+     "u": "https://img.sayyes.com.tw/image-in/wp-content/uploads/2025/06/202506030930452.jpg",
+     "p": null
+    },
+    {
+     "u": "https://img.sayyes.com.tw/image-in/wp-content/uploads/2025/06/2025060309335652.jpg",
+     "p": null
     }
    ]
   },
@@ -619,12 +639,12 @@
    "district": "豐原區",
    "address": "台中市豐原區中正路926號;0987981017,LINE @077kzywd",
    "features": "多主題實景棚,適合 Cosplay/人像/婚紗,網美打卡,全預約制。日式和風/台灣風/蘿莉塔/科技/復古。夢棚、粉紅娃娃機電競棚、港風棚、日系復古棚、韓風植栽棚、球池雲棚(各約6坪上限3人)。老件、書房、白/黑棚、黑白地板。Godox 燈具。",
-   "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "price": "夢棚/港風棚/韓風植栽棚/球池雲棚 1H 1000、2H 1800、3H 2500；粉紅娃娃機電競棚/日式棚景 1H 1200、2H 2100、3H 2800；三樓包棚(夢棚+球池雲棚) 1H 1500、2H 2800、3H 3200",
+   "status": "open",
+   "status_note": "PONPAI 頁面列出各棚價目，無休棚或停業公告；新增「日式漫畫棚」",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-10",
    "sources": [
     {
      "kind": "ponpai",
@@ -658,6 +678,34 @@
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/60f8425b-fd7e-485b-8ee1-7d33afa42265",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/6b57a5da-1bfa-4421-99d7-36602cc3b913?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/967e71e2-31a1-43be-9403-3afde0b45544?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/8f04187a-0fda-4858-b8b2-956cfec0d1ed?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/3e1f1a5d-5c84-44b0-8c0d-4006b0bc04f0?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/0870c678-d1b6-493a-80e8-35a35a48926b?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/8839ae94-226b-412d-9400-b3aa7288c218?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/60f8425b-fd7e-485b-8ee1-7d33afa42265?img_resize_type=high",
      "p": null
     }
    ]
@@ -996,12 +1044,12 @@
    "district": "大同區",
    "address": "台北市大同區錦西街80號4樓(酒吧棚在長安西路101號1樓)",
    "features": "主題實景,號稱「台灣唯一日式祭典攝影棚」。日式和風/中國風/奇幻/復古歐風;泳池水景、監獄牢房、教堂神社城堡、酒吧,約100坪容50-70人。漢服/浴衣/和服租借。日式祭典為戶外景。",
-   "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "price": "雪映月華1200/hr、月夜花語SP 800/hr、同位素1800/hr、夢鏡800/hr、日式祭典1200/hr；單租棚景折200/hr",
+   "status": "open",
+   "status_note": "官網棚景頁列出現行 5 個棚（雪映月華、月夜花語SP、同位素酒吧、夢鏡、日式祭典），營業時間09:00-22:00；原紀錄的教堂神社城堡、泳池水景、監獄牢房已不在清單上",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-10",
    "sources": [
     {
      "kind": "official",
@@ -1043,6 +1091,70 @@
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/89c31e14-ead0-4b15-970f-5711d5464b41?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/img-9714.jpg",
+     "p": null
+    },
+    {
+     "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/img-9715.jpg",
+     "p": null
+    },
+    {
+     "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/img-9716.jpg",
+     "p": null
+    },
+    {
+     "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/img-9718.jpg",
+     "p": null
+    },
+    {
+     "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/img-9543.jpg",
+     "p": null
+    },
+    {
+     "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/img-9705.jpg",
+     "p": null
+    },
+    {
+     "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/438039415-399269162862195-4164862878634467325-n_orig.jpg",
+     "p": null
+    },
+    {
+     "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/511152500-698066589649116-5514468656125718916-n.jpg",
+     "p": null
+    },
+    {
+     "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/511874071-698066442982464-921571074019084756-n.jpg",
+     "p": null
+    },
+    {
+     "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/511906970-698066296315812-4111515495067550445-n.jpg",
+     "p": null
+    },
+    {
+     "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/512129227-698066139649161-553213954633983327-n.jpg",
+     "p": null
+    },
+    {
+     "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/512192686-698066579649117-846829631224335153-n.jpg",
+     "p": null
+    },
+    {
+     "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/512390477-698066432982465-4150641848830689285-n.jpg",
+     "p": null
+    },
+    {
+     "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/dsc-4189.jpg",
+     "p": null
+    },
+    {
+     "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/dsc-4219.jpg",
+     "p": null
+    },
+    {
+     "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/dsc-4284.jpg",
      "p": null
     }
    ]
@@ -1332,12 +1444,12 @@
    "district": "新生南路",
    "address": "台北市新生南路一段145巷15號1樓(近大安森林公園站)",
    "features": "Cosplay 專門棚。多功能背景棚(黑/白/綠+可換色紙)、中式棚(多寶格)、日式棚(榻榻米+室外區),另有夢幻花藤白棚、Live house黑棚、巴洛克歐風。平日650/hr起、假日850/hr起,週三公休。",
-   "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "price": "多功能背景棚 平日800/hr 假日900/hr；中式棚、日式棚 平日900/hr 假日1000/hr；加購每人200/hr",
+   "status": "open",
+   "status_note": "官網棚景介紹頁現行僅列多功能背景棚、中式棚、日式棚三棚並附完整價目；原紀錄的 Live house黑棚、夢幻花藤白棚、巴洛克歐風已不在頁面上",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-10",
    "sources": [
     {
      "kind": "official",
@@ -1620,7 +1732,7 @@
    "status_note": "",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-10",
    "sources": [
     {
      "kind": "official",
@@ -1629,6 +1741,10 @@
     {
      "kind": "ponpai",
      "url": "https://ponpai.tw/studio/twilight-photography"
+    },
+    {
+     "kind": "other",
+     "url": "https://www.instagram.com/tainan_twilight_studio/"
     }
    ],
    "photos": [
@@ -1941,11 +2057,11 @@
    "address": "嘉義市西區西榮街213號",
    "features": "2015創立的 Cosplay 主題實景棚,裝潢擺設皆棚主手工打造。4主題場景:總督書房、愛麗絲的宴會廳、龍鳳閣(中式)、中東棚。歐式書房/歐風宴會廳/中式古典。距嘉義火車站後站步行約6分。",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "官網正常，營業時間 09:00-20:00 預約制，四個主題棚各有專頁，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-10",
    "sources": [
     {
      "kind": "official",
@@ -2075,17 +2191,26 @@
    "features": "65坪實景攝影棚，2500元/時、低消3小時。場景含自然光、家景客廳、磚牆、綠色植物、浴室、咖啡廳、廚房、酒吧、床景。頁面未列地址。",
    "price": "",
    "status": "open",
-   "status_note": "",
+   "status_note": "Google 地圖以此名查無商家，但 PONPAI 有現行刊登頁（全區400坪、室內2層樓各35坪、大面採光，歡迎商業平面動態洽詢），判定仍在營運",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-09-09",
+   "last_checked": "2026-09-10",
    "sources": [
     {
      "kind": "ponpai",
      "url": "https://ponpai.tw/studio/ontime3"
+    },
+    {
+     "kind": "ponpai",
+     "url": "https://ponpai.tw/studio/ontime-studio"
     }
    ],
-   "photos": []
+   "photos": [
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/f5881316-9168-4644-9cae-d8019e29457a",
+     "p": null
+    }
+   ]
   },
   {
    "name": "海寓",
@@ -2244,14 +2369,14 @@
    "name": "不醒人室",
    "city": "新北市",
    "district": "三重區",
-   "address": "",
+   "address": "241新北市三重區重新路五段661巷2號",
    "features": "",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "Google 地圖有此商家（攝影工作室，5.0/2則評論，4個月前仍有新評論），無歇業標記",
    "notes": "完全找不到 FB 以外公開來源。",
    "fb_only": true,
-   "last_checked": "",
+   "last_checked": "2026-09-10",
    "sources": [],
    "photos": []
   },
@@ -2659,12 +2784,12 @@
    "district": "中和區",
    "address": "新北市中和區華順街63號+65號",
    "features": "3層約200坪、50+角度。工業/韓風/華麗宮廷歐風/中東風/居家;拱門、床景、酒吧、書房、壁爐、乾燥花、白/黑棚/背景紙。婚紗/寫真/網拍/Cosplay。",
-   "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "price": "一般攝影 2H 3000/4H 4500/8H 7000；工商 2500-3500/hr；包棚 4000-5000/hr",
+   "status": "open",
+   "status_note": "PONPAI 頁面顯示營業中，10:00-21:00、週三公休，200坪三層樓，價目完整",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-10",
    "sources": [
     {
      "kind": "ponpai",
@@ -2727,6 +2852,66 @@
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/e8e89e53-f432-4ffd-8810-1a84c31d4146",
      "p": "img/巷子內攝影棚/288a5a2e6ef7.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/22873754-486f-4e7a-8633-63de39e98423",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/66525227-f008-4127-86d1-c195d67d6633",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/e1f4e354-9059-4046-96e2-0a959bfc03bf",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/0dc4e0be-6c07-4b1a-9258-2d4025b0f1bf",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/c6ba95cd-4383-4b1f-bd73-a115fb763c07",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/75ad5be9-b727-4c73-96e1-77c256e97a37",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/86ad2a0e-635e-4064-bbc2-474a1d701be8",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/5d86ff86-e200-45a2-b59d-bb6cd01d6788",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/3d2678e0-73b0-4e02-afd0-fa922cf78e63",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/33a0ab73-d342-4aa6-8e7b-523e5a3a7d65",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/8085a577-eea8-4767-936a-d17633319da8",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/01db3951-1fc8-4117-824b-7cc58bbb292d",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/6f695d0e-ab41-4f4b-b62b-a8830ef0f189",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/ea191754-d9fe-4b65-a4f2-1be968bfe5f6",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/37ff796d-e7ed-4f40-9f97-caebca2231c5",
+     "p": null
     }
    ]
   },
@@ -3129,11 +3314,11 @@
    "address": "",
    "features": "",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "suspect_closed",
+   "status_note": "Google 地圖查無此商家（僅回傳廣告與其他店家），網路搜尋亦查無任何現存頁面。無明確歇業公告，需人工確認",
    "notes": "完全找不到 FB 以外公開來源(搜尋僅命中名稱相近的其他業者)。",
    "fb_only": true,
-   "last_checked": "",
+   "last_checked": "2026-09-10",
    "sources": [],
    "photos": []
   },
@@ -3432,14 +3617,14 @@
    "name": "霜觀雨 studio",
    "city": "新北市",
    "district": "板橋區",
-   "address": "",
+   "address": "220新北市板橋區中山路一段293之1號久揚天廈14樓",
    "features": "",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "Google 地圖顯示營業中（打烊23:00，9天前仍有新照片）；官方預約站列出室內主題棚景約22坪與純白高樓天台約50坪，營業時間09:00-23:00",
    "notes": "完全找不到 FB 以外公開來源。",
    "fb_only": true,
-   "last_checked": "",
+   "last_checked": "2026-09-10",
    "sources": [],
    "photos": []
   },
@@ -3774,14 +3959,14 @@
    "name": "龍殿攝影棚",
    "city": "桃園市",
    "district": "NightWing",
-   "address": "疑為桃園市平鎮區金陵路三段177號(來源為搜尋摘要,無法二次驗證)",
+   "address": "324桃園市平鎮區金陵路三段177號",
    "features": "Cosplay 與創作主題棚,多主題場景、休憩創作空間。",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "Google 地圖有此商家（NightWing 龍殿攝影棚，5.0/11則，24小時營業），地址已可二次驗證",
    "notes": "",
    "fb_only": true,
-   "last_checked": "",
+   "last_checked": "2026-09-10",
    "sources": [],
    "photos": [
     {
@@ -4039,11 +4224,11 @@
    "address": "",
    "features": "",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "suspect_closed",
+   "status_note": "Google 地圖以此名查無對應商家（回傳的是木木空間等其他店家），網路搜尋亦無 Q.lab 高雄攝影棚的現存頁面。無明確歇業公告，需人工確認",
    "notes": "完全找不到對應公開來源(同名者皆為不相關的建築事務所/後製公司)。",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-10",
    "sources": [],
    "photos": []
   },
@@ -4341,14 +4526,14 @@
    "name": "錄戰隊攝影棚",
    "city": "高雄市",
    "district": "直播棚 / CAMARINE,鹽埕區",
-   "address": "",
+   "address": "803高雄市鹽埕區富野路22號3樓（第六集中商場）",
    "features": "",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "Google 地圖顯示營業中（打烊22:00，4.8/19則），為商用無影棚/直播棚",
    "notes": "2015成立影像團隊,協助品牌企劃與廣告製作。僅 FB,無官網、無公開場景照。(勿與名稱相近的 KAMERA Studios 混淆)",
    "fb_only": true,
-   "last_checked": "",
+   "last_checked": "2026-09-10",
    "sources": [],
    "photos": []
   },
@@ -5154,10 +5339,44 @@
    "s": 19
   },
   {
+   "id": 395,
+   "name": "同位素（酒吧）",
+   "desc": "營業用酒吧場景，台北市長安西路101號1F，白天限定 09:00-16:00",
+   "status": "open",
+   "period": "",
+   "price": "1800/hr",
+   "tags": [
+    "酒吧舞台"
+   ],
+   "photo": {
+    "p": null,
+    "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/438039415-399269162862195-4164862878634467325-n_orig.jpg",
+    "exact": true
+   },
+   "s": 20
+  },
+  {
+   "id": 396,
+   "name": "夢鏡",
+   "desc": "寫真型主題佈景區",
+   "status": "open",
+   "period": "",
+   "price": "800/hr",
+   "tags": [
+    "奇幻"
+   ],
+   "photo": {
+    "p": null,
+    "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/511152500-698066589649116-5514468656125718916-n.jpg",
+    "exact": true
+   },
+   "s": 20
+  },
+  {
    "id": 336,
    "name": "教堂神社城堡",
    "desc": "教堂、神社、城堡實景,含日式和風/中國風/奇幻/復古歐風元素",
-   "status": "active",
+   "status": "gone",
    "period": "",
    "price": "",
    "tags": [
@@ -5174,10 +5393,27 @@
    "s": 20
   },
   {
+   "id": 397,
+   "name": "日式祭典",
+   "desc": "日本祭典主題，含道具及互動設施",
+   "status": "open",
+   "period": "",
+   "price": "1200/hr",
+   "tags": [
+    "日式和風"
+   ],
+   "photo": {
+    "p": null,
+    "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/dsc-4189.jpg",
+    "exact": true
+   },
+   "s": 20
+  },
+  {
    "id": 338,
    "name": "日式祭典棚",
    "desc": "號稱台灣唯一日式祭典攝影棚,為戶外景;提供漢服/浴衣/和服租借",
-   "status": "active",
+   "status": "gone",
    "period": "",
    "price": "",
    "tags": [
@@ -5193,10 +5429,28 @@
    "s": 20
   },
   {
+   "id": 394,
+   "name": "月夜花語SP",
+   "desc": "靜謐月夜花卉主題，與雪映月華共用場地",
+   "status": "open",
+   "period": "",
+   "price": "800/hr",
+   "tags": [
+    "奇幻",
+    "花景"
+   ],
+   "photo": {
+    "p": null,
+    "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/img-9718.jpg",
+    "exact": true
+   },
+   "s": 20
+  },
+  {
    "id": 334,
    "name": "泳池水景",
    "desc": "泳池水景實景",
-   "status": "active",
+   "status": "gone",
    "period": "",
    "price": "",
    "tags": [
@@ -5213,7 +5467,7 @@
    "id": 335,
    "name": "監獄牢房",
    "desc": "監獄牢房實景",
-   "status": "active",
+   "status": "gone",
    "period": "",
    "price": "",
    "tags": [
@@ -5230,7 +5484,7 @@
    "id": 337,
    "name": "酒吧棚",
    "desc": "酒吧場景,位於長安西路101號1樓(與主棚不同址)",
-   "status": "active",
+   "status": "gone",
    "period": "",
    "price": "",
    "tags": [
@@ -5244,10 +5498,27 @@
    "s": 20
   },
   {
+   "id": 393,
+   "name": "雪映月華",
+   "desc": "獨立半開放式月下雪景，配備可升降月亮、水波燈",
+   "status": "open",
+   "period": "",
+   "price": "1200/hr",
+   "tags": [
+    "奇幻"
+   ],
+   "photo": {
+    "p": null,
+    "u": "https://ethereal-studio.weebly.com/uploads/1/3/2/8/132804524/img-9714.jpg",
+    "exact": true
+   },
+   "s": 20
+  },
+  {
    "id": 344,
    "name": "Live house黑棚",
    "desc": "Live house 風格黑棚",
-   "status": "active",
+   "status": "gone",
    "period": "",
    "price": "",
    "tags": [
@@ -5270,7 +5541,8 @@
    "price": "",
    "tags": [
     "Cosplay友善",
-    "中式古風"
+    "中式古風",
+    "復古老件"
    ],
    "photo": {
     "p": null,
@@ -5288,6 +5560,7 @@
    "price": "",
    "tags": [
     "Cosplay友善",
+    "單色背景",
     "白棚",
     "黑棚"
    ],
@@ -5302,7 +5575,7 @@
    "id": 343,
    "name": "夢幻花藤白棚",
    "desc": "夢幻花藤佈景白棚",
-   "status": "active",
+   "status": "gone",
    "period": "",
    "price": "",
    "tags": [
@@ -5316,7 +5589,7 @@
    "id": 345,
    "name": "巴洛克歐風",
    "desc": "巴洛克歐風場景",
-   "status": "active",
+   "status": "gone",
    "period": "",
    "price": "",
    "tags": [
@@ -5334,6 +5607,7 @@
    "price": "",
    "tags": [
     "Cosplay友善",
+    "庭園",
     "戶外實景",
     "日式和風"
    ],
@@ -8537,6 +8811,40 @@
    "s": 11
   },
   {
+   "id": 398,
+   "name": "日式棚景",
+   "desc": "日式風格",
+   "status": "open",
+   "period": "",
+   "price": "1H 1200/2H 2100/3H 2800",
+   "tags": [
+    "日式和風"
+   ],
+   "photo": {
+    "p": "img/夢裏/4bd6e0207696.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/967e71e2-31a1-43be-9403-3afde0b45544",
+    "exact": false
+   },
+   "s": 11
+  },
+  {
+   "id": 399,
+   "name": "日式漫畫棚",
+   "desc": "漫畫主題，凡租棚皆開放在預約時間內免費拍攝",
+   "status": "open",
+   "period": "",
+   "price": "",
+   "tags": [
+    "日式和風"
+   ],
+   "photo": {
+    "p": "img/夢裏/675bffae9390.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/8f04187a-0fda-4858-b8b2-956cfec0d1ed",
+    "exact": false
+   },
+   "s": 11
+  },
+  {
    "id": 93,
    "name": "日系復古棚",
    "desc": "各約6坪上限3人;館內有老件、書房、白/黑棚、黑白地板",
@@ -8548,8 +8856,8 @@
     "日式和風"
    ],
    "photo": {
-    "p": "img/夢裏/4bd6e0207696.webp",
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/967e71e2-31a1-43be-9403-3afde0b45544",
+    "p": null,
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/3e1f1a5d-5c84-44b0-8c0d-4006b0bc04f0",
     "exact": false
    },
    "s": 11
@@ -8566,8 +8874,8 @@
     "異國風"
    ],
    "photo": {
-    "p": "img/夢裏/675bffae9390.webp",
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/8f04187a-0fda-4858-b8b2-956cfec0d1ed",
+    "p": null,
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/0870c678-d1b6-493a-80e8-35a35a48926b",
     "exact": false
    },
    "s": 11
@@ -8581,11 +8889,12 @@
    "price": "",
    "tags": [
     "奇幻",
-    "白棚"
+    "白棚",
+    "網美風"
    ],
    "photo": {
     "p": null,
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/3e1f1a5d-5c84-44b0-8c0d-4006b0bc04f0",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/8839ae94-226b-412d-9400-b3aa7288c218",
     "exact": false
    },
    "s": 11
@@ -8598,12 +8907,13 @@
    "period": "",
    "price": "",
    "tags": [
+    "科技未來",
     "網美風",
     "電競直播"
    ],
    "photo": {
     "p": null,
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/0870c678-d1b6-493a-80e8-35a35a48926b",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/60f8425b-fd7e-485b-8ee1-7d33afa42265",
     "exact": false
    },
    "s": 11
@@ -8617,11 +8927,12 @@
    "price": "",
    "tags": [
     "森林系",
+    "花景",
     "韓系"
    ],
    "photo": {
     "p": null,
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/8839ae94-226b-412d-9400-b3aa7288c218",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/6b57a5da-1bfa-4421-99d7-36602cc3b913?img_resize_type=high",
     "exact": false
    },
    "s": 11
