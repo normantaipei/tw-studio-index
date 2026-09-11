@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10",
+ "generated": "2026-09-11",
  "studios": [
   {
    "name": "光棚 Chic Light",
@@ -284,14 +284,14 @@
    "name": "藍仕館",
    "city": "台中市",
    "district": "大里區",
-   "address": "台中市大里區甲堤南路113號",
+   "address": "台中市大里區甲提南路113號",
    "features": "自然光棚約80坪容15人,一時段一組獨享。居家/韓風/南洋/復古歐風/日式/北歐;客廳、綠植、臥室、書房、教室、庭園、廚房吧檯。電動背景紙、Aputure/Godox 燈具。近萬隆站。約600-850,租棚時數買一送一。(偏形象照/西裝形象照)",
-   "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "price": "NT$600～NT$850",
+   "status": "open",
+   "status_note": "PONPAI 頁面正常，藍仕館 80 坪、可容 15 人，地址台中市大里區甲提南路113號，價格 NT$600~850。頁面列出教室棚、凜冬之森、居家棚、多景素棚（含歐式書房與三米寬多色背景紙）、植光、黑棚，並註明不定時更換主題性棚景。適用 Cosplay、時裝、婚紗。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-11",
    "sources": [
     {
      "kind": "ponpai",
@@ -717,11 +717,11 @@
    "address": "台北市中山區新生北路二段127巷31號3樓(近行天宮站)",
    "features": "「拾光」系列之一。2層樓25+15坪、9種造景,每次限一組。平日1000/hr、假日1100/hr,密碼鎖自助。",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "官方預約頁仍列出「拾光入夢」台北市中山區新生北路二段127巷31號3樓，標示線上預約、密碼鎖自助進出、24h 開放。同頁另列拾光有影、拾光有居、拾光書屋、拾光迪化等同系列分館。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-11",
    "sources": [
     {
      "kind": "booking",
@@ -1163,14 +1163,14 @@
    "name": "今天不想拍照-Lazy Studio",
    "city": "台北市",
    "district": "大同區",
-   "address": "",
+   "address": "台北市大同區重慶北路三段31-1號3樓",
    "features": "",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "Google 地圖有此商家「今天不想拍照攝影棚 Lazy Studio」，未標示歇業，地址 103台北市大同區重慶北路三段31-1號3樓，連結 facebook.com。列表未顯示營業時間。",
    "notes": "僅有 FB/IG(https://www.instagram.com/p/C62tsCPOn9R/),無官網/預約平台/地址/可直連場景照。",
    "fb_only": true,
-   "last_checked": "",
+   "last_checked": "2026-09-11",
    "sources": [
     {
      "kind": "ig",
@@ -1482,11 +1482,11 @@
    "address": "台北市松山區八德路四段166號3F(原京華城旁)",
    "features": "Cosplay 專用歐式實景,期間限定主題輪換。走廊(南歐鄉村)、酒館棚、教堂棚(星空迴廊)、書房棚、黑棚(海底廢墟)。平日5000/3hr起、假日7000/3hr起。",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "Google 地圖「Camino攝影棚」4.9（99 則評論）顯示營業中、打烊 22:00，地址 105台北市松山區八德路四段166號3樓，官網 caminostudio.weebly.com。相片標示 10 天前更新。官網 weebly 被 robots.txt 擋住無法抓取內容。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-11",
    "sources": [
     {
      "kind": "official",
@@ -1773,7 +1773,7 @@
    "status_note": "",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-11",
    "sources": [
     {
      "kind": "other",
@@ -2102,11 +2102,11 @@
    "address": "嘉義市西區竹圍路136號(VOCO 福容飯店往竹圍路直走)",
    "features": "全黑棚(純黑背景)Cosplay 棚,空間寬敞不壓迫,CP值高。棚主本身是專業道具師,提供刀劍類角色道具租借,可加租煙霧機。(與嘉義另一家婚紗棚「KOSIR 攝影棚」不同,勿混淆)",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "Google 地圖「狐之間攝影棚」顯示營業中、打烊 20:00，地址 600嘉義市西區竹圍路136號，並標示「這個商家在 6 週前更新過」。原 check_url 為 Threads 貼文，受 robots.txt 限制無法抓取。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-11",
    "sources": [
     {
      "kind": "threads",
@@ -2384,14 +2384,14 @@
    "name": "光與樹．studio",
    "city": "新北市",
    "district": "三重區",
-   "address": "未找到明確門牌。",
+   "address": "新北市三重區大同北路63號4樓",
    "features": "自然光棚,大面窗自然光、樹景、無縫白背景牆。位於大同北路一帶。私訊預約。",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "Google 地圖「光與樹.studio」5.0（10 則評論）有此商家、未標示歇業，地址 241新北市三重區大同北路63號4樓，連結 instagram.com。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-11",
    "sources": [
     {
      "kind": "ig",
@@ -2919,14 +2919,14 @@
    "name": "MOMO+ Studio",
    "city": "新北市",
    "district": "中山區,實為台北市",
-   "address": "台北市中山區新生北路三段11巷47號1樓(註:實為台北市中山區,非新北)",
+   "address": "台北市中山區新生北路三段11巷47號",
    "features": "奇幻/復古歐風/現代簡約/日式和風;白棚、黑棚、書房、壁爐、洛可可歐風、庭園。Cosplay/Lolita 平日2hr/1500、假日2hr/1700起。",
-   "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "price": "假日 2hr/1700、3hr/2450、4hr/3250；平日 2hr/1500、3hr/2150、4hr/2850",
+   "status": "open",
+   "status_note": "官網棚景頁列出自然光白棚、洛可可歐風棚、日式緣側棚、純黑棚四個主題；首頁標示營業時間 10:00~21:30（預約制）、地址台北市中山區新生北路三段11巷47號、以 Facebook 私訊預約。純黑棚標註「暫時僅開放期間限定棚景」。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-11",
    "sources": [
     {
      "kind": "official",
@@ -2956,6 +2956,158 @@
     },
     {
      "u": "https://static.wixstatic.com/media/14bb71_c89fde6ac31546edba536b2dab6a6ed2~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_ebdd92e1f3ed40fbb1fa5ba744782ad9~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_a9be06261e9a45f780f4bd4d39172dd3~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_cd9a4eeaccd442429646ca30cecd26de~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_ff141e2234c74c15beff8766993fb3cd~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_b26cb147ce584facaa0d8c6c532f3624~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_40abb59fff1a45fe88ff29f99d22de92~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_b69977a5245c4c94a5ce362b5b0fcea5~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_27874bc62fae4a188ef0c6a13ebe1f0c~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_9430f0da723940e59cc7797e9edf0c3b~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_67c4aa576f5845d48a9cf7ba0ede8e59~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_29095202bbd94b3594dccfa6058dc4ae~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_965d2abaf88945b5a21d8b5cbe4181e1~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_37b1b859526d4e309abfc423f03a1529~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_272afb52f0864e7f9e93778f6061de94~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_a77fe9e97cff49fdafb3c1c801f797ae~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_626bcc46f8214211ad0c7fbd98b74cad~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_0bdc7929a1624357a5f351ed6f2d4d3d~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_16b45984039e485daca720b381957619~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_a4c7531c875d406885f6264f24be9e44~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_b93d50c78eb349d4b6d7fc21a3cd9a08~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_fdf07243b6b044a885d74024eb3f6d42~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_d379258e1c4b4503975378732bff21d0~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_c1bbb3d956b24167a8bb672b8b663028~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_c156e47ca0544b5287c166d6fc271c5a~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_fa5d9624ed394e5a9fbc518f0a9ff5b2~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_4ed07155bc614f7abfd8f83a9a3399e2~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_a4ecc9338b1e408ea1f870df1237a423~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_3c5c15a7b85149cb804e0652444cef47~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_a62a6025095049d382f3cdb3fbc28e5b~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_90ff669800f04f6daad37aaae63c2ec1~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_2837b2f67ae741269040ebc6242ca561~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_0cf4c97007ac400a9fbc1d9d37a1b7ce~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_a83cac4f94944a05a6c8b933bda32fdf~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_179d56f45f92493aa34c9cec0a11354c~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_37338b379bf44b63bd433c1af930c972~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_e113373033394051a0106b50b37a5f32~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_16e99de0440a4bd49b2babaad440e123~mv2.jpg",
+     "p": null
+    },
+    {
+     "u": "https://static.wixstatic.com/media/14bb71_b0bf3eec71ad46bd9a2efd69af22a15c~mv2.jpg",
      "p": null
     }
    ]
@@ -3328,12 +3480,12 @@
    "district": "板橋區",
    "address": "新北市板橋區重慶路65號3樓",
    "features": "府中商業棚拍/場地租借/共享空間。波希米亞/南洋/侘寂/現代簡約/復古歐風/居家;乾燥花、家景客廳、梳化間、水泥牆、自然光、白/黑棚背景紙、綠植。約18坪容10人,Aputure/Godox 燈具、電動背景紙14色、200+配件。",
-   "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "price": "實景+素棚 平日12-22時 800/hr、假日9-22時 850/hr、加班 900-1000/hr；白棚素棚 平日 700/hr、假日 750/hr",
+   "status": "open",
+   "status_note": "官網攝影棚租借頁正常運作，列出實景+素棚與白棚素棚兩區及各主題景，標示 2025 年價格、頁面更新至 2025 年 10 月。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-11",
    "sources": [
     {
      "kind": "official",
@@ -3379,6 +3531,34 @@
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/103caba1-dab5-418b-a5e0-0ae61d89e8e6",
+     "p": null
+    },
+    {
+     "u": "https://www.shelflife-studio.com/wp-content/uploads/2025/09/01-1-波希米亞.jpg",
+     "p": null
+    },
+    {
+     "u": "https://www.shelflife-studio.com/wp-content/uploads/2025/09/02-1-英國老公寓.jpg",
+     "p": null
+    },
+    {
+     "u": "https://www.shelflife-studio.com/wp-content/uploads/2025/09/03-1-無印風.jpg",
+     "p": null
+    },
+    {
+     "u": "https://www.shelflife-studio.com/wp-content/uploads/2025/09/04-1-鋼琴植栽.jpg",
+     "p": null
+    },
+    {
+     "u": "https://www.shelflife-studio.com/wp-content/uploads/2025/09/05-2-髮妝區.jpg",
+     "p": null
+    },
+    {
+     "u": "https://www.shelflife-studio.com/wp-content/uploads/2025/09/07-1-商品攝影.jpg",
+     "p": null
+    },
+    {
+     "u": "https://www.shelflife-studio.com/wp-content/uploads/2025/09/08-1-人像背景.jpg",
      "p": null
     }
    ]
@@ -3464,10 +3644,10 @@
    "features": "40坪實景攝影棚。拍照2000元/時、錄影2500元/時，低消3小時。場景含廚房吧檯、自然光區、客廳、辦公室、庭園、床景；學生憑證5折。",
    "price": "",
    "status": "open",
-   "status_note": "",
+   "status_note": "Google 地圖「板橋強光壹號片場 glarestudio2021」5.0（8 則評論）顯示 24 小時營業，地址 220新北市板橋區重慶里國慶路39號3樓，電話 +886 918 960 512，連結 facebook.com。今日 PONPAI 首頁「特別推薦」區塊亦有列此棚。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-09-09",
+   "last_checked": "2026-09-11",
    "sources": [
     {
      "kind": "ponpai",
@@ -3634,12 +3814,12 @@
    "district": "樹林區",
    "address": "新北市樹林區國凱街71號9樓",
    "features": "自然光實景,約35坪容15人。現代簡約/北歐/韓風/居家;自然光、床景、單色撞色、浴室、家景客廳、書房。適合婚紗、抓周。平面1400/時、動態1800/時。含投影機、掛燙機。",
-   "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "price": "平面拍攝 1400/hr、動態拍攝 1800/hr，最低租用 2 小時",
+   "status": "open",
+   "status_note": "PONPAI 頁面正常，列出森沐影像空間 35 坪實景攝影棚、可容 15 人，地址新北市樹林區國凱街71號9樓，平面 1400/hr、動態 1800/hr、最低 2 小時。風格含自然光、現代簡約、北歐、韓系、居家，場景有臥室、浴室、客廳、書房。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-11",
    "sources": [
     {
      "kind": "ponpai",
@@ -3989,12 +4169,12 @@
    "district": "Station Studio 2.0",
    "address": "桃園市桃園區大同路11號5樓之1(站前金幹線大樓,火車站萬壽路出口步行3分)",
    "features": "桃園火車站前自助棚拍,沉浸式實景。古風竹蓮居、站前快餐店、日系客廳、浪漫花園房;12套服裝可加租(每套約400元)。10:00-22:00。",
-   "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "price": "梳妝區非預約時段 150元/半小時或 250元/小時",
+   "status": "open",
+   "status_note": "官網棚景主題頁列出古風竹蓮居、站前快餐店、日系風客廳；並公告「浪漫花園房已撤景」。全站標示預約制、無預約時不開放營業，營業時間 10:00~22:00，地址桃園市桃園區大同路11號5樓之1。梳妝區非預約時段 150元/半小時、250元/小時。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-11",
    "sources": [
     {
      "kind": "official",
@@ -4004,6 +4184,14 @@
    "photos": [
     {
      "u": "https://stationstudio.weebly.com/uploads/1/0/0/8/100851098/s-3811741522_orig.jpg",
+     "p": null
+    },
+    {
+     "u": "https://stationstudio.weebly.com/uploads/1/0/0/8/100851098/444_orig.jpg",
+     "p": null
+    },
+    {
+     "u": "https://stationstudio.weebly.com/uploads/1/0/0/8/100851098/44444_orig.jpg",
      "p": null
     }
    ]
@@ -4236,14 +4424,14 @@
    "name": "梵帝雅",
    "city": "高雄市",
    "district": "VANDIA,新興區",
-   "address": "高雄市新興區中東街(門牌不一:97號/99號);0989-792-176",
+   "address": "高雄市新興區中東街99號",
    "features": "攝影棚出租/場地租借/造型教室/婚紗棚規劃,主打場地大、場景多元,造型桌與大型更衣室,單場最多5人。",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "原 check_url https://ponpai.tw/shop/梵帝雅影棚規劃 已 404。改查 Google 地圖「梵帝雅影棚規劃 高雄攝影棚出租」4.2（55 則評論）顯示營業中、打烊 22:00，地址 800高雄市新興區中東街99號，電話 +886 989 792 176，連結 facebook.com。評論提及空間約一到三樓、每層 5-6 坪。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-11",
    "sources": [
     {
      "kind": "ponpai",
@@ -4541,14 +4729,14 @@
    "name": "阿魯的攝影空間",
    "city": "高雄市",
    "district": "電競棚",
-   "address": "",
+   "address": "高雄市苓雅區光華一路131號10樓",
    "features": "",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "Google 地圖「RLU STUDIO阿魯的攝影空間」顯示營業中、打烊 00:00，地址 802高雄市苓雅區光華一路131號10樓，電話 0928-774-405，連結 instagram.com。",
    "notes": "僅一個未確認疑似 IG @studio.aru,無公開文字佐證。",
    "fb_only": true,
-   "last_checked": "",
+   "last_checked": "2026-09-11",
    "sources": [],
    "photos": []
   },
@@ -6512,6 +6700,24 @@
    "s": 61
   },
   {
+   "id": 412,
+   "name": "日式緣側棚",
+   "desc": "Japanese Theme：屋簷下的長廊，非室內也非室外，含室內榻榻米區與日式拉門。建議4人、加價上限7人",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "日式和風",
+    "自然光"
+   ],
+   "photo": {
+    "p": null,
+    "u": "https://static.wixstatic.com/media/14bb71_c89fde6ac31546edba536b2dab6a6ed2~mv2.jpg",
+    "exact": true
+   },
+   "s": 61
+  },
+  {
    "id": 174,
    "name": "書房",
    "desc": "店內場景之一",
@@ -6523,7 +6729,7 @@
    ],
    "photo": {
     "p": null,
-    "u": "https://static.wixstatic.com/media/14bb71_2ef6c14138f94e5db1d8c727c97d1bd6~mv2.jpg",
+    "u": "https://static.wixstatic.com/media/14bb71_ebdd92e1f3ed40fbb1fa5ba744782ad9~mv2.jpg",
     "exact": false
    },
    "s": 61
@@ -6537,12 +6743,13 @@
    "price": "",
    "tags": [
     "宮廷",
+    "復古老件",
     "歐風"
    ],
    "photo": {
     "p": null,
-    "u": "https://static.wixstatic.com/media/14bb71_c89fde6ac31546edba536b2dab6a6ed2~mv2.jpg",
-    "exact": false
+    "u": "https://static.wixstatic.com/media/14bb71_2ef6c14138f94e5db1d8c727c97d1bd6~mv2.jpg",
+    "exact": true
    },
    "s": 61
   },
@@ -6556,6 +6763,7 @@
    "tags": [
     "Cosplay友善",
     "白棚",
+    "自然光",
     "蘿莉塔"
    ],
    "photo": {
@@ -6573,9 +6781,14 @@
    "period": "",
    "price": "",
    "tags": [
+    "單色背景",
     "黑棚"
    ],
-   "photo": null,
+   "photo": {
+    "p": null,
+    "u": "https://static.wixstatic.com/media/14bb71_16e99de0440a4bd49b2babaad440e123~mv2.jpg",
+    "exact": true
+   },
    "s": 61
   },
   {
@@ -7251,10 +7464,28 @@
    "s": 60
   },
   {
+   "id": 402,
+   "name": "Ins風白色角落景",
+   "desc": "Ins 風白色角落",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "單色背景",
+    "網美風"
+   ],
+   "photo": {
+    "p": "img/拾歲影像/a7fc65596760.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/22397dac-3c2e-4330-a0c5-cfe9d82f3eb3",
+    "exact": false
+   },
+   "s": 68
+  },
+  {
    "id": 165,
    "name": "共享空間棚(未命名)",
    "desc": "約18坪容10人;乾燥花、家景客廳、梳化間、水泥牆、自然光、白/黑棚背景紙、綠植;風格波希米亞/南洋/侘寂/現代簡約/復古歐風/居家。Aputure/Godox 燈具、電動背景紙14色、200+配件",
-   "status": "active",
+   "status": "gone",
    "period": "",
    "price": "",
    "tags": [
@@ -7268,9 +7499,206 @@
     "黑棚"
    ],
    "photo": {
-    "p": "img/拾歲影像/a7fc65596760.webp",
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/22397dac-3c2e-4330-a0c5-cfe9d82f3eb3",
+    "p": "img/拾歲影像/41175f6f4168.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/9ce25da9-5e6c-4b58-804c-96e00b4f6ada",
     "exact": false
+   },
+   "s": 68
+  },
+  {
+   "id": 406,
+   "name": "古典歐風景",
+   "desc": "古典歐風",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "復古老件",
+    "歐風"
+   ],
+   "photo": {
+    "p": null,
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/7d5a4251-899f-433d-881e-18b9ef9ca287",
+    "exact": false
+   },
+   "s": 68
+  },
+  {
+   "id": 400,
+   "name": "實景+素棚（全區）",
+   "desc": "實景和素棚同時開拍，最適合商業拍攝、高CP值",
+   "status": "active",
+   "period": "",
+   "price": "平日800/hr 假日850/hr",
+   "tags": [
+    "大空間",
+    "自然光"
+   ],
+   "photo": {
+    "p": null,
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/70518cd3-4ca9-492b-89cf-01053b711680",
+    "exact": false
+   },
+   "s": 68
+  },
+  {
+   "id": 403,
+   "name": "日式侘寂風牆景",
+   "desc": "日式侘寂風牆面",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "日式和風"
+   ],
+   "photo": {
+    "p": null,
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/0bf98f59-bb8d-42d7-b7c7-75a051cafdc6",
+    "exact": false
+   },
+   "s": 68
+  },
+  {
+   "id": 407,
+   "name": "波希米亞風室內花園",
+   "desc": "波西米亞風室內花園風",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "森林系",
+    "異國風",
+    "花景"
+   ],
+   "photo": {
+    "p": null,
+    "u": "https://www.shelflife-studio.com/wp-content/uploads/2025/09/01-1-波希米亞.jpg",
+    "exact": true
+   },
+   "s": 68
+  },
+  {
+   "id": 409,
+   "name": "無印風",
+   "desc": "無印風場景",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "床景居家",
+    "日式和風"
+   ],
+   "photo": {
+    "p": null,
+    "u": "https://www.shelflife-studio.com/wp-content/uploads/2025/09/03-1-無印風.jpg",
+    "exact": true
+   },
+   "s": 68
+  },
+  {
+   "id": 401,
+   "name": "白棚素棚",
+   "desc": "素棚，適合學生作品、畢業製作；含電動背景紙14色、背景布15色、背景板25款",
+   "status": "active",
+   "period": "",
+   "price": "平日700/hr 假日750/hr",
+   "tags": [
+    "單色背景",
+    "白棚",
+    "自助棚"
+   ],
+   "photo": {
+    "p": null,
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/fc0c8c92-0e26-4445-92c9-6941de296229",
+    "exact": false
+   },
+   "s": 68
+  },
+  {
+   "id": 404,
+   "name": "米色棉麻窗簾自然光景",
+   "desc": "米色棉麻窗簾，自然光",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "自然光"
+   ],
+   "photo": {
+    "p": null,
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/c45dddaf-4081-4466-84c7-8cc09b11587f",
+    "exact": false
+   },
+   "s": 68
+  },
+  {
+   "id": 405,
+   "name": "純白窗簾自然光景",
+   "desc": "純白窗簾，自然光",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "白棚",
+    "自然光"
+   ],
+   "photo": {
+    "p": null,
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/103caba1-dab5-418b-a5e0-0ae61d89e8e6",
+    "exact": false
+   },
+   "s": 68
+  },
+  {
+   "id": 408,
+   "name": "英國老公寓",
+   "desc": "英國老公寓風格場景",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "復古老件",
+    "歐風"
+   ],
+   "photo": {
+    "p": null,
+    "u": "https://www.shelflife-studio.com/wp-content/uploads/2025/09/02-1-英國老公寓.jpg",
+    "exact": true
+   },
+   "s": 68
+  },
+  {
+   "id": 410,
+   "name": "鋼琴植栽",
+   "desc": "鋼琴與植栽場景",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "復古老件",
+    "森林系"
+   ],
+   "photo": {
+    "p": null,
+    "u": "https://www.shelflife-studio.com/wp-content/uploads/2025/09/04-1-鋼琴植栽.jpg",
+    "exact": true
+   },
+   "s": 68
+  },
+  {
+   "id": 411,
+   "name": "髮妝區",
+   "desc": "梳化髮妝區",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "梳化間"
+   ],
+   "photo": {
+    "p": null,
+    "u": "https://www.shelflife-studio.com/wp-content/uploads/2025/09/05-2-髮妝區.jpg",
+    "exact": true
    },
    "s": 68
   },
@@ -7449,6 +7877,7 @@
    "price": "",
    "tags": [
     "單色背景",
+    "大空間",
     "床景居家",
     "書房",
     "浴室",
@@ -7878,8 +8307,8 @@
    ],
    "photo": {
     "p": null,
-    "u": "https://stationstudio.weebly.com/uploads/1/0/0/8/100851098/s-3811741522_orig.jpg",
-    "exact": false
+    "u": "https://stationstudio.weebly.com/uploads/1/0/0/8/100851098/444_orig.jpg",
+    "exact": true
    },
    "s": 83
   },
@@ -7895,14 +8324,18 @@
     "日式和風",
     "自助棚"
    ],
-   "photo": null,
+   "photo": {
+    "p": null,
+    "u": "https://stationstudio.weebly.com/uploads/1/0/0/8/100851098/s-3811741522_orig.jpg",
+    "exact": false
+   },
    "s": 83
   },
   {
    "id": 11,
    "name": "浪漫花園房",
    "desc": "沉浸式實景場景",
-   "status": "active",
+   "status": "gone",
    "period": "",
    "price": "",
    "tags": [
@@ -7920,11 +8353,16 @@
    "period": "",
    "price": "",
    "tags": [
+    "復古老件",
     "異國風",
     "自助棚",
     "餐廳"
    ],
-   "photo": null,
+   "photo": {
+    "p": null,
+    "u": "https://stationstudio.weebly.com/uploads/1/0/0/8/100851098/44444_orig.jpg",
+    "exact": true
+   },
    "s": 83
   },
   {
@@ -9431,6 +9869,43 @@
    "s": 2
   },
   {
+   "id": 413,
+   "name": "凜冬之森",
+   "desc": "主題場景（不定時更換的主題性棚景之一）",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "奇幻",
+    "森林系"
+   ],
+   "photo": {
+    "p": "img/藍仕館/a8628d12946a.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/b6577798-46c7-4391-b2b9-1d38a89bc1f3",
+    "exact": false
+   },
+   "s": 5
+  },
+  {
+   "id": 414,
+   "name": "多景素棚",
+   "desc": "內含歐式書房與三米寬多色背景紙",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "單色背景",
+    "書房",
+    "歐風"
+   ],
+   "photo": {
+    "p": "img/藍仕館/73088c776202.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/84d0805d-781a-4c7d-a38a-685094154e49",
+    "exact": false
+   },
+   "s": 5
+  },
+  {
    "id": 63,
    "name": "客廳",
    "desc": "自然光棚約80坪容15人,一時段一組獨享;電動背景紙、Aputure/Godox 燈具",
@@ -9442,8 +9917,8 @@
     "自然光"
    ],
    "photo": {
-    "p": "img/藍仕館/a8628d12946a.webp",
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/b6577798-46c7-4391-b2b9-1d38a89bc1f3",
+    "p": "img/藍仕館/1db7e7fe1f30.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/88ff13ff-5a0c-4178-9c6d-cb3883ee54ae",
     "exact": false
    },
    "s": 5
@@ -9459,8 +9934,8 @@
     "庭園"
    ],
    "photo": {
-    "p": "img/藍仕館/73088c776202.webp",
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/84d0805d-781a-4c7d-a38a-685094154e49",
+    "p": null,
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/b6577798-46c7-4391-b2b9-1d38a89bc1f3?img_resize_type=high",
     "exact": false
    },
    "s": 5
@@ -9477,8 +9952,8 @@
     "廚房"
    ],
    "photo": {
-    "p": "img/藍仕館/1db7e7fe1f30.webp",
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/88ff13ff-5a0c-4178-9c6d-cb3883ee54ae",
+    "p": null,
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/84d0805d-781a-4c7d-a38a-685094154e49?img_resize_type=high",
     "exact": false
    },
    "s": 5
@@ -9495,7 +9970,7 @@
    ],
    "photo": {
     "p": null,
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/b6577798-46c7-4391-b2b9-1d38a89bc1f3?img_resize_type=high",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/88ff13ff-5a0c-4178-9c6d-cb3883ee54ae?img_resize_type=high",
     "exact": false
    },
    "s": 5
@@ -9512,7 +9987,7 @@
    ],
    "photo": {
     "p": null,
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/84d0805d-781a-4c7d-a38a-685094154e49?img_resize_type=high",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/265d2d28-d927-4a5b-8aa4-f4c4d3f9df6a?img_resize_type=high",
     "exact": false
    },
    "s": 5
@@ -9530,7 +10005,7 @@
    ],
    "photo": {
     "p": null,
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/88ff13ff-5a0c-4178-9c6d-cb3883ee54ae?img_resize_type=high",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/e37357f2-b325-4ced-a553-355e3bdb9ea2?img_resize_type=high",
     "exact": false
    },
    "s": 5
@@ -9547,7 +10022,25 @@
    ],
    "photo": {
     "p": null,
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/265d2d28-d927-4a5b-8aa4-f4c4d3f9df6a?img_resize_type=high",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/198b77a2-cceb-43ac-8470-5fc70ef39084?img_resize_type=high",
+    "exact": false
+   },
+   "s": 5
+  },
+  {
+   "id": 415,
+   "name": "黑棚",
+   "desc": "素棚選項",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "單色背景",
+    "黑棚"
+   ],
+   "photo": {
+    "p": null,
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/e4ccd2d7-29ec-4298-a430-8d2cf9763a3a?img_resize_type=high",
     "exact": false
    },
    "s": 5
