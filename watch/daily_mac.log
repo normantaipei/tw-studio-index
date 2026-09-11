@@ -437,3 +437,14 @@ To github-personal:normantaipei/tw-studio-index.git
    bc6a0ca..f9a5c6a  main -> main
 push 成功
 ===== 結束 =====
+===== 2026-09-11 10:30:03 開始 =====
+要處理 120 張…
+
+完成：成功 120、失敗 0｜資料庫中已本地化 343 張
+docs/img 目前 8.9 MB
+docs/index.html 產生完成：413 棚 / 102 家 / 43 tag
+studios.jsonl: 102 筆
+rooms.jsonl: 413 筆
+changes.jsonl: 34 筆
+feed_seen.jsonl: 26 筆
+tags.jsonl: 43 筆
