@@ -583,3 +583,141 @@ rooms.jsonl: 413 筆
 changes.jsonl: 34 筆
 feed_seen.jsonl: 26 筆
 tags.jsonl: 43 筆
+ssh: connect to host github.com port 22: Undefined error: 0
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+push 失敗（檢查 ssh -T git@github-personal）
+===== 結束 =====
+===== 2026-09-13 10:40:27 開始 =====
+要處理 120 張…
+  [1/120] ✗ JP studio 攝影工作室2.0：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [2/120] ✗ JP studio 攝影工作室2.0：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [3/120] ✗ JP studio 攝影工作室2.0：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [4/120] ✗ JP studio 攝影工作室2.0：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [5/120] ✗ JP studio 攝影工作室2.0：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [6/120] ✗ JP studio 攝影工作室2.0：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [7/120] ✗ JP studio 攝影工作室2.0：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [8/120] ✗ JP studio 攝影工作室2.0：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [9/120] ✗ JP studio 攝影工作室2.0：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [10/120] ✗ JP studio 攝影工作室2.0：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [11/120] ✗ JP studio 攝影工作室2.0：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [12/120] ✗ JP studio 攝影工作室2.0：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [13/120] ✗ JP studio 攝影工作室2.0：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [14/120] ✗ JP studio 攝影工作室2.0：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [15/120] ✗ JP studio 攝影工作室2.0：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [16/120] ✗ JP studio 攝影工作室2.0：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [17/120] ✗ JP studio 攝影工作室2.0：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [18/120] ✗ JP studio 攝影工作室2.0：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [19/120] ✗ JP studio 攝影工作室2.0：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [20/120] ✗ 森日棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [21/120] ✗ 森日棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [22/120] ✗ 森日棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [23/120] ✗ 森日棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [24/120] ✗ 森日棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [25/120] ✗ 森日棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [26/120] ✗ 森日棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [27/120] ✗ 森日棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [28/120] ✗ 森日棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [29/120] ✗ 森日棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [30/120] ✗ 森日棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [31/120] ✗ 森日棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [32/120] ✗ 森日棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [33/120] ✗ 森日棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [34/120] ✗ 森日棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [35/120] ✗ 森日棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [36/120] ✗ 森日棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [37/120] ✗ 森日棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [38/120] ✗ 森日棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [39/120] ✗ Studio Ethereal 實景攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [40/120] ✗ Studio Ethereal 實景攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [41/120] ✗ Studio Ethereal 實景攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [42/120] ✗ Studio Ethereal 實景攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [43/120] ✗ Studio Ethereal 實景攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [44/120] ✗ Studio Ethereal 實景攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [45/120] ✗ Studio Ethereal 實景攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [46/120] ✗ Studio Ethereal 實景攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [47/120] ✗ Studio Ethereal 實景攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [48/120] ✗ Studio Ethereal 實景攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [49/120] ✗ Studio Ethereal 實景攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [50/120] ✗ Studio Ethereal 實景攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [51/120] ✗ Studio Ethereal 實景攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [52/120] ✗ Studio Ethereal 實景攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [53/120] ✗ Studio Ethereal 實景攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [54/120] ✗ Studio Ethereal 實景攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [55/120] ✗ 巷子內攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [56/120] ✗ 巷子內攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [57/120] ✗ 巷子內攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [58/120] ✗ 巷子內攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [59/120] ✗ 巷子內攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [60/120] ✗ 巷子內攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [61/120] ✗ 巷子內攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [62/120] ✗ 巷子內攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [63/120] ✗ 巷子內攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [64/120] ✗ 巷子內攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [65/120] ✗ 巷子內攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [66/120] ✗ 巷子內攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [67/120] ✗ 巷子內攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [68/120] ✗ 巷子內攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [69/120] ✗ 巷子內攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [70/120] ✗ 影相視務所：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [71/120] ✗ 影相視務所：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [72/120] ✗ 影相視務所：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [73/120] ✗ 影相視務所：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [74/120] ✗ 影相視務所：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [75/120] ✗ 夢裏：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [76/120] ✗ 夢裏：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [77/120] ✗ 夢裏：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [78/120] ✗ 夢裏：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [79/120] ✗ 夢裏：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [80/120] ✗ 夢裏：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [81/120] ✗ 夢裏：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [82/120] ✗ On Time 3：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [83/120] ✗ 拾歲影像：'ascii' codec can't encode characters in position 37-40: ordinal not in range(12
+  [84/120] ✗ 拾歲影像：'ascii' codec can't encode characters in position 37-41: ordinal not in range(12
+  [85/120] ✗ 拾歲影像：'ascii' codec can't encode characters in position 37-39: ordinal not in range(12
+  [86/120] ✗ 拾歲影像：'ascii' codec can't encode characters in position 37-40: ordinal not in range(12
+  [87/120] ✗ 拾歲影像：'ascii' codec can't encode characters in position 37-39: ordinal not in range(12
+  [88/120] ✗ 拾歲影像：'ascii' codec can't encode characters in position 37-40: ordinal not in range(12
+  [89/120] ✗ 拾歲影像：'ascii' codec can't encode characters in position 37-40: ordinal not in range(12
+  [90/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [91/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [92/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [93/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [94/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [95/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [96/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [97/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [98/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [99/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [100/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [101/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [102/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [103/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [104/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [105/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [106/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [107/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [108/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [109/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [110/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [111/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [112/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [113/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [114/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [115/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [116/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [117/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [118/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [119/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [120/120] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+完成：成功 0、失敗 120｜資料庫中已本地化 343 張
+docs/img 目前 8.9 MB
+docs/index.html 產生完成：413 棚 / 102 家 / 43 tag
+studios.jsonl: 102 筆
+rooms.jsonl: 413 筆
+changes.jsonl: 34 筆
+feed_seen.jsonl: 26 筆
+tags.jsonl: 43 筆
