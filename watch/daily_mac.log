@@ -721,3 +721,30 @@ rooms.jsonl: 413 筆
 changes.jsonl: 34 筆
 feed_seen.jsonl: 26 筆
 tags.jsonl: 43 筆
+ssh: connect to host github.com port 22: Undefined error: 0
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+push 失敗（檢查 ssh -T git@github-personal）
+===== 結束 =====
+===== 2026-09-14 10:45:25 開始 =====
+要處理 9 張…
+  [1/9] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [2/9] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [3/9] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [4/9] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [5/9] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [6/9] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [7/9] ✗ MOMO+ Studio：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [8/9] ✗ 站前攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+  [9/9] ✗ 站前攝影棚：<urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+完成：成功 0、失敗 9｜資料庫中已本地化 343 張
+docs/img 目前 8.9 MB
+docs/index.html 產生完成：413 棚 / 102 家 / 43 tag
+studios.jsonl: 102 筆
+rooms.jsonl: 413 筆
+changes.jsonl: 34 筆
+feed_seen.jsonl: 26 筆
+tags.jsonl: 43 筆
