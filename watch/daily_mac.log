@@ -833,3 +833,20 @@ Please make sure you have the correct access rights
 and the repository exists.
 push 失敗（檢查 ssh -T git@github-personal）
 ===== 結束 =====
+===== 2026-09-21 10:30:01 開始 =====
+要處理 6 張…
+  [1/6] Faser Taipei → img/Faser-Taipei/aa56ba67f1ee.webp (12KB)
+  [2/6] Faser Taipei → img/Faser-Taipei/7f138e5e6729.webp (22KB)
+  [3/6] Faser Taipei → img/Faser-Taipei/3be37b4f423f.webp (17KB)
+  [4/6] Faser Taipei → img/Faser-Taipei/0d8604d1e7ca.webp (15KB)
+  [5/6] Faser Taipei → img/Faser-Taipei/294e296ec38b.webp (13KB)
+  [6/6] Faser Taipei → img/Faser-Taipei/340771d1f1cb.webp (15KB)
+
+完成：成功 6、失敗 0｜資料庫中已本地化 349 張
+docs/img 目前 9.0 MB
+docs/index.html 產生完成：431 棚 / 106 家 / 43 tag
+studios.jsonl: 106 筆
+rooms.jsonl: 431 筆
+changes.jsonl: 48 筆
+feed_seen.jsonl: 30 筆
+tags.jsonl: 43 筆
