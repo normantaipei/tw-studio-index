@@ -826,3 +826,10 @@ rooms.jsonl: 413 筆
 changes.jsonl: 34 筆
 feed_seen.jsonl: 26 筆
 tags.jsonl: 43 筆
+ssh: connect to host github.com port 22: Undefined error: 0
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+push 失敗（檢查 ssh -T git@github-personal）
+===== 結束 =====
