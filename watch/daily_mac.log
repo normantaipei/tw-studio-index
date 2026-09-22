@@ -854,3 +854,46 @@ To github-personal:normantaipei/tw-studio-index.git
    89d823a..e6aa87b  main -> main
 push 成功
 ===== 結束 =====
+===== 2026-09-22 10:30:05 開始 =====
+要處理 32 張…
+  [1/32] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/7916f645434c.webp (20KB)
+  [2/32] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/ffc041bede4e.webp (13KB)
+  [3/32] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/47079dbe87a3.webp (9KB)
+  [4/32] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/c761be78eafe.webp (11KB)
+  [5/32] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/21ae66093753.webp (41KB)
+  [6/32] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/6bd61664dbbb.webp (45KB)
+  [7/32] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/e4f9760faaeb.webp (21KB)
+  [8/32] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/b9d405958b66.webp (31KB)
+  [9/32] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/7c8bb8244d07.webp (48KB)
+  [10/32] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/1fba1b4f3223.webp (29KB)
+  [11/32] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/914bcb15ee6f.webp (38KB)
+  [12/32] ✗ 滴棚 Drop Pon：HTTP Error 403: Forbidden
+  [13/32] ✗ 滴棚 Drop Pon：HTTP Error 403: Forbidden
+  [14/32] ✗ 滴棚 Drop Pon：HTTP Error 403: Forbidden
+  [15/32] ✗ 滴棚 Drop Pon：HTTP Error 403: Forbidden
+  [16/32] 可以澀澀 台北攝影棚 → img/可以澀澀-台北攝影棚/9c42f11129d2.webp (26KB)
+  [17/32] 可以澀澀 台北攝影棚 → img/可以澀澀-台北攝影棚/88efc0c7cae0.webp (34KB)
+  [18/32] 可以澀澀 台北攝影棚 → img/可以澀澀-台北攝影棚/cfe4c3864d5a.webp (24KB)
+  [19/32] 可以澀澀 台北攝影棚 → img/可以澀澀-台北攝影棚/428de7e89585.webp (18KB)
+  [20/32] Image Park 攝影棚 → img/Image-Park-攝影棚/49d515e742c3.webp (41KB)
+  [21/32] Image Park 攝影棚 → img/Image-Park-攝影棚/85b97bcc388d.webp (49KB)
+  [22/32] Image Park 攝影棚 → img/Image-Park-攝影棚/c76ed2febcf6.webp (53KB)
+  [23/32] Image Park 攝影棚 → img/Image-Park-攝影棚/fff3fb6ebddc.webp (43KB)
+  [24/32] Image Park 攝影棚 → img/Image-Park-攝影棚/d3691dfcfe36.webp (45KB)
+  [25/32] Image Park 攝影棚 → img/Image-Park-攝影棚/6c079b480f2c.webp (42KB)
+  [26/32] Image Park 攝影棚 → img/Image-Park-攝影棚/82ead3dd6aa9.webp (50KB)
+  [27/32] Image Park 攝影棚 → img/Image-Park-攝影棚/8906fa684c13.webp (46KB)
+  [28/32] Image Park 攝影棚 → img/Image-Park-攝影棚/dba0bc8348e4.webp (28KB)
+  [29/32] Image Park 攝影棚 → img/Image-Park-攝影棚/44fc9953e572.webp (41KB)
+  [30/32] Image Park 攝影棚 → img/Image-Park-攝影棚/dc49c200182b.webp (43KB)
+  [31/32] Image Park 攝影棚 → img/Image-Park-攝影棚/07547ba7f9f1.webp (31KB)
+  [32/32] Image Park 攝影棚 → img/Image-Park-攝影棚/9aaf9f9d73c4.webp (88KB)
+
+完成：成功 28、失敗 4｜資料庫中已本地化 377 張
+docs/img 目前 10.0 MB
+docs/index.html 產生完成：446 棚 / 107 家 / 43 tag
+studios.jsonl: 107 筆
+rooms.jsonl: 446 筆
+changes.jsonl: 64 筆
+feed_seen.jsonl: 34 筆
+tags.jsonl: 43 筆
