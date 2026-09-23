@@ -901,3 +901,43 @@ To github-personal:normantaipei/tw-studio-index.git
    e6aa87b..91dcc9e  main -> main
 push 成功
 ===== 結束 =====
+===== 2026-09-23 10:30:01 開始 =====
+要處理 29 張…
+  [1/29] H.G Studio → img/H-G-Studio/e7c7e2ede7ef.webp (46KB)
+  [2/29] H.G Studio → img/H-G-Studio/c5b897e792a2.webp (21KB)
+  [3/29] H.G Studio → img/H-G-Studio/dabc9ca6b23c.webp (22KB)
+  [4/29] H.G Studio → img/H-G-Studio/3e7447193dff.webp (21KB)
+  [5/29] H.G Studio → img/H-G-Studio/6fbaea4ad1d1.webp (21KB)
+  [6/29] H.G Studio → img/H-G-Studio/38a7169f2737.webp (18KB)
+  [7/29] H.G Studio → img/H-G-Studio/f581a1e88bca.webp (16KB)
+  [8/29] H.G Studio → img/H-G-Studio/fc97a6938311.webp (27KB)
+  [9/29] H.G Studio → img/H-G-Studio/abde93828329.webp (29KB)
+  [10/29] H.G Studio → img/H-G-Studio/16fa0f8b46a8.webp (20KB)
+  [11/29] H.G Studio → img/H-G-Studio/26de58988974.webp (18KB)
+  [12/29] H.G Studio → img/H-G-Studio/d862918e6290.webp (17KB)
+  [13/29] H.G Studio → img/H-G-Studio/9aaae6809739.webp (37KB)
+  [14/29] H.G Studio → img/H-G-Studio/c5812b3f2651.webp (17KB)
+  [15/29] H.G Studio → img/H-G-Studio/88034edc90b7.webp (22KB)
+  [16/29] H.G Studio → img/H-G-Studio/cc4c1c8b0b3a.webp (7KB)
+  [17/29] H.G Studio → img/H-G-Studio/4c6f7d443798.webp (16KB)
+  [18/29] H.G Studio → img/H-G-Studio/1261beae8e77.webp (23KB)
+  [19/29] H.G Studio → img/H-G-Studio/88bdb48fcd0e.webp (26KB)
+  [20/29] H.G Studio → img/H-G-Studio/f5da4c791ae8.webp (23KB)
+  [21/29] H.G Studio → img/H-G-Studio/0d5346955b65.webp (22KB)
+  [22/29] H.G Studio → img/H-G-Studio/590bb51c9a51.webp (32KB)
+  [23/29] H.G Studio → img/H-G-Studio/df04a801e682.webp (24KB)
+  [24/29] H.G Studio → img/H-G-Studio/7ec243e8c590.webp (27KB)
+  [25/29] H.G Studio → img/H-G-Studio/51ab50ef4a88.webp (15KB)
+  [26/29] H.G Studio → img/H-G-Studio/e681823e08a0.webp (28KB)
+  [27/29] H.G Studio → img/H-G-Studio/659433fb2637.webp (17KB)
+  [28/29] H.G Studio → img/H-G-Studio/8c787b4db281.webp (7KB)
+  [29/29] H.G Studio → img/H-G-Studio/22dff1f3fa23.webp (12KB)
+
+完成：成功 29、失敗 0｜資料庫中已本地化 406 張
+docs/img 目前 10.6 MB
+docs/index.html 產生完成：454 棚 / 111 家 / 43 tag
+studios.jsonl: 111 筆
+rooms.jsonl: 454 筆
+changes.jsonl: 74 筆
+feed_seen.jsonl: 48 筆
+tags.jsonl: 43 筆
