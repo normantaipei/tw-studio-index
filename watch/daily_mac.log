@@ -945,3 +945,46 @@ To github-personal:normantaipei/tw-studio-index.git
    91dcc9e..0bcb217  main -> main
 push 成功
 ===== 結束 =====
+===== 2026-09-24 10:30:05 開始 =====
+要處理 32 張…
+  [1/32] 三代目 Colorful Studio → img/三代目-Colorful-Studio/37d655d4fe5f.webp (18KB)
+  [2/32] KAGE Studio → img/KAGE-Studio/d398bc4f5966.webp (17KB)
+  [3/32] On Time 3 → img/On-Time-3/373e20779dbf.webp (36KB)
+  [4/32] On Time 3 → img/On-Time-3/2a7fa1c29d39.webp (42KB)
+  [5/32] On Time 3 → img/On-Time-3/b4fcedf116f8.webp (40KB)
+  [6/32] On Time 3 → img/On-Time-3/5f15bcda60e9.webp (40KB)
+  [7/32] On Time 3 → img/On-Time-3/417454cdf103.webp (52KB)
+  [8/32] On Time 3 → img/On-Time-3/c75b5e535337.webp (52KB)
+  [9/32] On Time 3 → img/On-Time-3/29f19d77c6df.webp (53KB)
+  [10/32] On Time 3 → img/On-Time-3/b1a53f876333.webp (44KB)
+  [11/32] On Time 3 → img/On-Time-3/920aaed12f78.webp (23KB)
+  [12/32] On Time 3 → img/On-Time-3/234bf37f716d.webp (18KB)
+  [13/32] On Time 3 → img/On-Time-3/49b051729ec9.webp (22KB)
+  [14/32] On Time 3 → img/On-Time-3/64000f128820.webp (16KB)
+  [15/32] On Time 3 → img/On-Time-3/4b0b3f53ca04.webp (19KB)
+  [16/32] On Time 3 → img/On-Time-3/c3bc80ee8f27.webp (19KB)
+  [17/32] On Time 3 → img/On-Time-3/82d66de5f74d.webp (18KB)
+  [18/32] On Time 3 → img/On-Time-3/247a4a076f15.webp (9KB)
+  [19/32] On Time 3 → img/On-Time-3/ce797ff9440b.webp (23KB)
+  [20/32] On Time 3 → img/On-Time-3/1c119513b6d2.webp (16KB)
+  [21/32] On Time 3 → img/On-Time-3/a095e16bb43f.webp (22KB)
+  [22/32] On Time 3 → img/On-Time-3/19394bc564ff.webp (25KB)
+  [23/32] On Time 3 → img/On-Time-3/1d229df621ae.webp (20KB)
+  [24/32] On Time 3 → img/On-Time-3/2ad5ce69406a.webp (19KB)
+  [25/32] On Time 3 → img/On-Time-3/3b2303ef8317.webp (13KB)
+  [26/32] On Time 3 → img/On-Time-3/9f4167abb857.webp (21KB)
+  [27/32] On Time 3 → img/On-Time-3/09d99460a1be.webp (22KB)
+  [28/32] On Time 3 → img/On-Time-3/f0dcb1a51e10.webp (31KB)
+  [29/32] On Time 3 → img/On-Time-3/8a3f7c568413.webp (6KB)
+  [30/32] On Time 3 → img/On-Time-3/be96d427f7f1.webp (9KB)
+  [31/32] On Time 3 → img/On-Time-3/922e2f69545d.webp (29KB)
+  [32/32] On Time 3 → img/On-Time-3/6d3512b59065.webp (33KB)
+
+完成：成功 32、失敗 0｜資料庫中已本地化 438 張
+docs/img 目前 11.5 MB
+docs/index.html 產生完成：454 棚 / 112 家 / 43 tag
+studios.jsonl: 112 筆
+rooms.jsonl: 454 筆
+changes.jsonl: 84 筆
+feed_seen.jsonl: 49 筆
+tags.jsonl: 43 筆
