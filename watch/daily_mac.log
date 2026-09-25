@@ -992,3 +992,21 @@ To github-personal:normantaipei/tw-studio-index.git
    0bcb217..1fd62b5  main -> main
 push 成功
 ===== 結束 =====
+===== 2026-09-25 10:30:00 開始 =====
+要處理 7 張…
+  [1/7] MOMO+ Studio → img/MOMO-Studio/8a7d112d84ae.webp (5KB)
+  [2/7] MOMO+ Studio → img/MOMO-Studio/e89b1da67056.webp (5KB)
+  [3/7] MOMO+ Studio → img/MOMO-Studio/b65bc04c206d.webp (4KB)
+  [4/7] MOMO+ Studio → img/MOMO-Studio/f79755a81296.webp (3KB)
+  [5/7] MOMO+ Studio → img/MOMO-Studio/4e6ff62c3c2d.webp (10KB)
+  [6/7] MOMO+ Studio → img/MOMO-Studio/d410d685bc3e.webp (1KB)
+  [7/7] 站前攝影棚 → img/站前攝影棚/d0af67b600fc.webp (43KB)
+
+完成：成功 7、失敗 0｜資料庫中已本地化 445 張
+docs/img 目前 11.5 MB
+docs/index.html 產生完成：454 棚 / 112 家 / 44 tag
+studios.jsonl: 112 筆
+rooms.jsonl: 454 筆
+changes.jsonl: 85 筆
+feed_seen.jsonl: 49 筆
+tags.jsonl: 44 筆
