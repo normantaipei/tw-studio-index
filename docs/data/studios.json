@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25",
+ "generated": "2026-09-26",
  "studios": [
   {
    "name": "光棚 Chic Light",
@@ -356,11 +356,11 @@
    "address": "台中市大雅區大林路140巷55號",
    "features": "室內約350坪、40+實景。小紅書風/歐式/中式復古/日式花魁/韓風/電競/工業/森林系/夜店/上海復古/玻璃屋/告白咖啡館/自然光綠植灑水池/星空。可租借200+套服裝(婚紗、旗袍、漢服、和服、花魁服)。",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "官網正常，標示 350 坪、40 幾個室內場景，地址台中市大雅區大林路140巷55號、電話0937-235-911，提供遊客自拍/攝影租棚/禮服租借(200+套)/商業合作，無歇業公告。頁面列出的風格與資料庫既有14棚相符。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-26",
    "sources": [
     {
      "kind": "official",
@@ -718,14 +718,14 @@
    "name": "這貓工作室",
    "city": "台北市",
    "district": "",
-   "address": "",
+   "address": "台北市士林區延平北路六段62號",
    "features": "25坪實景攝影棚，可容5人，Cosplay 友善。風格：居家風、日式和風、現代簡約風、公主風、復古歐風；場景：自然光、老件、老屋、家景客廳、床景、書房、乾燥花。提供 Aputure 燈具、燈罩、K架、C-stand、反光板、背景紙、Wi-Fi。場地1H 2,000／2H 3,000／往後每小時1,000；燈具使用每小時1,500（含工作人員）",
    "price": "",
    "status": "open",
-   "status_note": "",
+   "status_note": "無 check_url，改用 Google 地圖：商家頁「這貓攝影工作室」存在、人像攝影工作室、5.0★/18則評論，電話0911-462-900，無歇業標記(頁面未登營業時間)。註：地圖地址在士林區，資料庫原僅記台北市、無行政區。另 PONPAI 首頁「最新攝影場地」仍列有「這貓工作室」。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-09-24",
+   "last_checked": "2026-09-26",
    "sources": [
     {
      "kind": "ponpai",
@@ -778,7 +778,7 @@
    "status_note": "",
    "notes": "多組關鍵字皆無 FB 以外來源。疑為社群暱稱/貼文標題而非登記店名。",
    "fb_only": true,
-   "last_checked": "",
+   "last_checked": "2026-09-26",
    "sources": [],
    "photos": []
   },
@@ -790,14 +790,18 @@
    "features": "實景攝影棚、適合時裝拍攝。風格：北歐風、居家風、韓風、現代簡約風。場景：錄音室、家景．客廳、自然光。棚別：拾光咖啡廳景、日和實景居家景、純境無縫白牆景、聲域 Podcast 房、構境多元創作景。平面 1000-1200/小時、動態 1300-1500/小時（2 小時起租）。",
    "price": "",
    "status": "open",
-   "status_note": "",
+   "status_note": "無 check_url，改用 Google 地圖：商家頁顯示營業中、打烊22:00，電話0919-996-673，官網 xu-photography.com.tw，地址與資料庫一致；業主相片 21 天前才更新，無歇業標記。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-09-21",
+   "last_checked": "2026-09-26",
    "sources": [
     {
      "kind": "ponpai",
      "url": "https://ponpai.tw/studio/xu-photography"
+    },
+    {
+     "kind": "official",
+     "url": "https://xu-photography.com.tw/"
     }
    ],
    "photos": []
@@ -1418,12 +1422,12 @@
    "district": "大同區",
    "address": "來源不一(PONPAI shop 頁列中山區民權東路二段135巷29弄9號;舊資料為大同區華陰街103號4樓)——建議以官網/FB 最新公告為準。",
    "features": "復古歐風/中世紀/居家/昭和日式/奇幻/現代簡約。多主題房:斗室(昭和)、畫室、植室(奇幻花園)、赤室(鏽紅復古)、洋室(迷你歐式);含床景、書房、磚牆拱門、教室、廢墟地窖。",
-   "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "price": "斗室/畫室/植室/洋房 1000元/小時(4人,加1人+100/小時)；球池 1800元/小時(6人)；下水道 起租兩小時3600元。前後各贈30分鐘整裝時間。",
+   "status": "open",
+   "status_note": "PONPAI 場地頁現有 6 個場景與價目，無休棚或暫停營業公告；標示台北市中山區民權東路二段135巷29弄9號、捷運行天宮站步行約8分鐘。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-26",
    "sources": [
     {
      "kind": "official",
@@ -1501,10 +1505,10 @@
    "features": "20坪自然光居家實景，挑高3米，捷運中山站步行3-5分。日式與北歐簡約風，北歐廚櫃、大理石餐桌、無印沙發。平面1200元/時、動態1500元/時。",
    "price": "",
    "status": "open",
-   "status_note": "",
+   "status_note": "無 check_url，改用 Google 地圖：「日光赤峰攝影棚」商家頁存在、5.0★/5則評論，地址與資料庫一致，無歇業標記(頁面未登營業時間)；最新評論 8 個月前。另 PONPAI 首頁「特別推薦」區塊仍列有「日光赤峰」。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-09-09",
+   "last_checked": "2026-09-26",
    "sources": [
     {
      "kind": "ponpai",
@@ -1780,7 +1784,7 @@
    "status_note": "",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-26",
    "sources": [
     {
      "kind": "blog",
@@ -2046,11 +2050,11 @@
    "address": "台南市北區大興街162號;0988-865645",
    "features": "倉庫型場地,偏工業/倉庫粗獷風,曾用於自助婚紗。公開描述有限。",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "closed",
+   "status_note": "Google 地圖商家頁明確標示「永久歇業」(標題下與資訊列各出現一次)，貼文功能已停用；地址台南市北區大興街162號與資料庫一致。原 check_url 為婚紗作品集頁(calvin1883.com)，僅提及此棚為拍攝場地、無營業狀態資訊，故以地圖為準。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-26",
    "sources": [
     {
      "kind": "other",
@@ -2457,14 +2461,14 @@
    "name": "古醉金迷",
    "city": "屏東縣",
    "district": "",
-   "address": "",
+   "address": "屏東縣屏東市中山路597號",
    "features": "",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "無 check_url，改用 Google 地圖：商家頁「古醉迷金主題攝影棚」(店名字序與資料庫「古醉金迷」不同，應為同一家)顯示營業中、打烊22:00，4.8★/12則評論，有 FB 連結；無歇業標記。評論提到棚景豐富、含浪漫/復古/Cosplay 主題棚，並提供服裝道具租借與化妝。",
    "notes": "完全找不到任何非 Facebook 公開來源(多組關鍵字在 Google/PONPAI/部落格/商家頁皆無命中)。唯一入口為 FB `zuigu`(登入牆)。無法取得地址、場景描述或場景照。建議直接向推薦者取得聯繫方式。",
    "fb_only": true,
-   "last_checked": "",
+   "last_checked": "2026-09-26",
    "sources": [],
    "photos": []
   },
@@ -2897,11 +2901,11 @@
    "address": "新北市三重區重新路四段(官網作7號5樓;PONPAI 作3號2樓,建議以官網為準)",
    "features": "中式風格為主。白棚(10色+背景紙)、墨閣(中式書房)、洞庭(中式庭院);另標監獄牢房、廢墟地窖、綠植、浴室、教室、庭園。中國風/復古/工業/奇幻/科技/復古歐風。近菜寮站。",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "官網正常，載明地址新北市三重區重新路四段7號5樓(無電梯)、白棚含10色以上背景紙、中式室內景、中式庭院景，各棚4~6人(白棚可10人)、全空間15~20人，並要求至 FB 與預約表單查看棚景與預約狀況。無歇業或休棚公告。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-26",
    "sources": [
     {
      "kind": "official",
@@ -3653,14 +3657,14 @@
    "name": "Kuro's Cube.rar",
    "city": "新北市",
    "district": "五股區",
-   "address": "",
+   "address": "新北市五股區壟鉤路23-1號",
    "features": "",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "Google 地圖商家頁顯示「營業中，打烊時間 15:30」，分類攝影工作室，4.6★/6則評論，有 IG 連結；無歇業標記。評論提到彩繪玻璃窗景、租棚時間外前後各30分鐘整裝、有梳化更衣間，並有 Lolita 團拍客群。",
    "notes": "完全找不到 FB 以外公開來源。",
    "fb_only": true,
-   "last_checked": "",
+   "last_checked": "2026-09-26",
    "sources": [],
    "photos": []
   },
@@ -4126,12 +4130,12 @@
    "district": "板橋區",
    "address": "新北市板橋區文化路一段59號2樓",
    "features": "近板橋站的自然光實景,約50坪三面採光,一時段一組。居家/工業/現代簡約/波希米亞/復古歐風/韓風;床景、梳化間、家景客廳、綠植、白/黑棚背景紙、老件、磚牆、水泥牆、咖啡廳、乾燥花、書房、壁爐。",
-   "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "price": "1000元/小時(2小時起租,未稅)；平日4小時3500元、8小時6500元；超過6人每人每小時+150元；營業時間(09:00-20:00)外每小時+150元；1200w煙霧機+200元。",
+   "status": "open",
+   "status_note": "官網棚景頁正常，板橋車站附近自然光攝影棚、近50坪可自由變動佈景、包場制(一時段一組)，有完整價目，無歇業公告。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-26",
    "sources": [
     {
      "kind": "official",
@@ -4429,11 +4433,11 @@
    "address": "新北市永和區水源街27巷12號1樓(近永安市場站);02-2924-4139",
    "features": "三大棚景——彩繪玻璃窗教堂棚、防水黑棚(鏡面地板)、咖啡廳棚。Cosplay/自助婚紗/網拍。平日550/hr、假日650/hr。",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "官網棚景介紹頁正常，列出教堂棚、咖啡廳棚、黑棚【鏡面地板】三棚，與資料庫既有三棚一致，無歇業或休棚公告。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-26",
    "sources": [
     {
      "kind": "official",
@@ -4452,6 +4456,10 @@
     {
      "u": "https://skyceiling9.weebly.com/uploads/6/3/8/8/63889309/5237069_orig.jpg",
      "p": "img/雲上天花板/323b1f830183.webp"
+    },
+    {
+     "u": "http://skyceiling9.weebly.com/uploads/6/3/8/8/63889309/3815116_orig.jpg",
+     "p": null
     }
    ]
   },
@@ -4853,11 +4861,11 @@
    "address": "桃園市桃園區中山北路36號3樓",
    "features": "近桃園市政府,擺設可移動、附免費燈具。A區(日光沙發、日系床景、少女臥室、白棚、色紙)、B區(美式餐酒館、樂團角、綠野仙蹤)、C區(核系泳池、夏日酒吧)。復古/中國/日式/美國/現代簡約/居家/奇幻。平面約1200/hr。",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "原 check_url(booking.page)回 403 無法讀取，改用 Google 地圖：商家頁「迷幻葉子攝影工作室｜桃園攝影棚出租」顯示 24 小時營業、5.0★/7則評論，地址桃園市桃園區中山北路36號3樓與資料庫一致；業主 8 個月前仍在回覆評論，無歇業標記。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-26",
    "sources": [
     {
      "kind": "booking",
@@ -5098,14 +5106,14 @@
    "name": "小溫室攝影棚",
    "city": "高雄市",
    "district": "smallroom118",
-   "address": "未公開。場景照:未找到可直連圖。",
+   "address": "高雄市新興區尚義街138號3樓",
    "features": "小清新/民族風/工業風簡約,歐美與韓系場景,採光佳,店內橘貓。婚紗/拍樣/孕婦/全家福。",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "無 check_url，改用 Google 地圖：商家頁存在、分類攝影工作室、4.6★/5則評論，無歇業標記(頁面未登營業時間)；最新評論 3 個月前，顯示仍在營運。",
    "notes": "",
    "fb_only": true,
-   "last_checked": "",
+   "last_checked": "2026-09-26",
    "sources": [],
    "photos": [
     {
@@ -5402,11 +5410,11 @@
    "address": "高雄市新興區六合二路12號4樓(美麗島站);07-2856028",
    "features": "約120坪容30人多場景。粉紅古典(粉色鴕鳥毛)、白色古典(水晶吊燈、逆光)、床邊區(日式鐵床+白浴缸+落地窗)、綠意植栽、哥德暗黑(紅絲絨+燭淚);法式浪漫、洛可可、美式復古壁爐、巴洛克、歐式背景牆。Godox 600、10色背景紙、淋浴設備。",
    "price": "",
-   "status": "unknown",
-   "status_note": "",
+   "status": "open",
+   "status_note": "原 check_url(ponpai.tw/shop/cherrypankh)已 404，改用 Google 地圖：「櫻桃平底鍋 攝影棚 高雄店」顯示營業中、打烊19:00，4.5★/28則評論，電話07-2856028，地址高雄市新興區六合二路12號4樓與資料庫一致；無歇業標記。評論提到新古典裝潢佈景、可拍漢服等多主題。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "",
+   "last_checked": "2026-09-26",
    "sources": [
     {
      "kind": "blog",
@@ -6647,6 +6655,24 @@
    "s": 13
   },
   {
+   "id": 458,
+   "name": "下水道",
+   "desc": "蒼鬱廢墟風格",
+   "status": "active",
+   "period": "",
+   "price": "起租兩小時3600元",
+   "tags": [
+    "奇幻",
+    "廢墟頹廢"
+   ],
+   "photo": {
+    "p": "img/斗室/e50212bc9dd3.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/b2f6be0e-e92d-4b50-b7fa-f04157e7926f",
+    "exact": false
+   },
+   "s": 26
+  },
+  {
    "id": 320,
    "name": "床景",
    "desc": "多主題房之外另含床景",
@@ -6657,8 +6683,8 @@
     "床景居家"
    ],
    "photo": {
-    "p": "img/斗室/e50212bc9dd3.webp",
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/b2f6be0e-e92d-4b50-b7fa-f04157e7926f",
+    "p": "img/斗室/99bdc7adc488.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/736b76cd-b705-47a9-b751-e1dc6fc3f423",
     "exact": false
    },
    "s": 26
@@ -6674,8 +6700,8 @@
     "廢墟頹廢"
    ],
    "photo": {
-    "p": "img/斗室/99bdc7adc488.webp",
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/736b76cd-b705-47a9-b751-e1dc6fc3f423",
+    "p": "img/斗室/637380889d19.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/54da362f-a38d-44ff-bb2c-ed4a4f699073",
     "exact": false
    },
    "s": 26
@@ -6691,8 +6717,8 @@
     "教室校園"
    ],
    "photo": {
-    "p": "img/斗室/637380889d19.webp",
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/54da362f-a38d-44ff-bb2c-ed4a4f699073",
+    "p": "img/斗室/11e6d185ef6c.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/b2f6be0e-e92d-4b50-b7fa-f04157e7926f?img_resize_type=high",
     "exact": false
    },
    "s": 26
@@ -6709,8 +6735,8 @@
     "日式和風"
    ],
    "photo": {
-    "p": "img/斗室/11e6d185ef6c.webp",
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/b2f6be0e-e92d-4b50-b7fa-f04157e7926f?img_resize_type=high",
+    "p": "img/斗室/589609c9d79e.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/736b76cd-b705-47a9-b751-e1dc6fc3f423?img_resize_type=high",
     "exact": false
    },
    "s": 26
@@ -6726,8 +6752,8 @@
     "書房"
    ],
    "photo": {
-    "p": "img/斗室/589609c9d79e.webp",
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/736b76cd-b705-47a9-b751-e1dc6fc3f423?img_resize_type=high",
+    "p": "img/斗室/81883953363a.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/54da362f-a38d-44ff-bb2c-ed4a4f699073?img_resize_type=high",
     "exact": false
    },
    "s": 26
@@ -6740,11 +6766,13 @@
    "period": "",
    "price": "",
    "tags": [
-    "奇幻"
+    "奇幻",
+    "庭園",
+    "花景"
    ],
    "photo": {
-    "p": "img/斗室/81883953363a.webp",
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/54da362f-a38d-44ff-bb2c-ed4a4f699073?img_resize_type=high",
+    "p": "img/斗室/7f82325f52d5.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/4514ea88-5077-4baa-82b7-94eebd3695fa?img_resize_type=high",
     "exact": false
    },
    "s": 26
@@ -6757,11 +6785,30 @@
    "period": "",
    "price": "",
    "tags": [
+    "復古老件",
     "歐風"
    ],
    "photo": {
-    "p": "img/斗室/7f82325f52d5.webp",
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/4514ea88-5077-4baa-82b7-94eebd3695fa?img_resize_type=high",
+    "p": "img/斗室/7df456443acf.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/3544fb4d-c07e-4ea7-823c-8e32838eff2d?img_resize_type=high",
+    "exact": false
+   },
+   "s": 26
+  },
+  {
+   "id": 457,
+   "name": "球池",
+   "desc": "池核奇幻風格",
+   "status": "active",
+   "period": "",
+   "price": "1800元/小時",
+   "tags": [
+    "奇幻",
+    "網美風"
+   ],
+   "photo": {
+    "p": "img/斗室/1e25a3e6f709.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/b6babe43-780e-4ac0-b16a-e79ba504879f?img_resize_type=high",
     "exact": false
    },
    "s": 26
@@ -6775,11 +6822,12 @@
    "price": "",
    "tags": [
     "復古老件",
-    "書房"
+    "書房",
+    "歐風"
    ],
    "photo": {
-    "p": "img/斗室/7df456443acf.webp",
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/3544fb4d-c07e-4ea7-823c-8e32838eff2d?img_resize_type=high",
+    "p": "img/斗室/58b7cc75ea23.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/3f4a48af-c004-4057-b233-84046db0d555?img_resize_type=high",
     "exact": false
    },
    "s": 26
@@ -6796,8 +6844,8 @@
     "歐風"
    ],
    "photo": {
-    "p": "img/斗室/1e25a3e6f709.webp",
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/b6babe43-780e-4ac0-b16a-e79ba504879f?img_resize_type=high",
+    "p": "img/斗室/da44f6453ddc.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/bfcd44fa-ffa6-4b02-9d53-5faa1d862250?img_resize_type=high",
     "exact": false
    },
    "s": 26
@@ -6814,8 +6862,8 @@
     "復古老件"
    ],
    "photo": {
-    "p": "img/斗室/58b7cc75ea23.webp",
-    "u": "https://asset.ponpai.tw/ponpai-prod/studio/3f4a48af-c004-4057-b233-84046db0d555?img_resize_type=high",
+    "p": "img/斗室/359ab6e27507.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/ac01b7b1-f963-40fd-966b-2cc5d3caca7a?img_resize_type=high",
     "exact": false
    },
    "s": 26
@@ -9308,7 +9356,8 @@
    "price": "",
    "tags": [
     "Cosplay友善",
-    "咖啡廳"
+    "咖啡廳",
+    "歐風"
    ],
    "photo": {
     "p": "img/雲上天花板/0a783c7650e4.webp",
@@ -9343,6 +9392,7 @@
    "period": "",
    "price": "",
    "tags": [
+    "單色背景",
     "水景",
     "黑棚"
    ],
