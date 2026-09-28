@@ -1014,3 +1014,61 @@ To github-personal:normantaipei/tw-studio-index.git
    578887e..d38031f  main -> main
 push 成功
 ===== 結束 =====
+===== 2026-09-26 10:30:03 開始 =====
+要處理 1 張…
+
+完成：成功 1、失敗 0｜資料庫中已本地化 446 張
+docs/img 目前 11.5 MB
+docs/index.html 產生完成：456 棚 / 112 家 / 44 tag
+studios.jsonl: 112 筆
+rooms.jsonl: 456 筆
+changes.jsonl: 89 筆
+feed_seen.jsonl: 49 筆
+tags.jsonl: 44 筆
+fatal: Unable to create '/Users/norman/PhotoProject/攝影棚分析/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/norman/PhotoProject/攝影棚分析/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+To github-personal:normantaipei/tw-studio-index.git
+   d38031f..e19c176  main -> main
+push 成功
+===== 結束 =====
+===== 2026-09-27 10:30:01 開始 =====
+要處理 1 張…
+  [1/1] Orange 攝影棚 → img/Orange-攝影棚/b223915f50e7.webp (19KB)
+
+完成：成功 1、失敗 0｜資料庫中已本地化 447 張
+docs/img 目前 11.6 MB
+docs/index.html 產生完成：470 棚 / 112 家 / 44 tag
+studios.jsonl: 112 筆
+rooms.jsonl: 470 筆
+changes.jsonl: 99 筆
+feed_seen.jsonl: 49 筆
+tags.jsonl: 44 筆
+fatal: Unable to create '/Users/norman/PhotoProject/攝影棚分析/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/norman/PhotoProject/攝影棚分析/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Everything up-to-date
+push 成功
+===== 結束 =====
