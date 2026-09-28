@@ -1072,3 +1072,20 @@ remove the file manually to continue.
 Everything up-to-date
 push 成功
 ===== 結束 =====
+===== 2026-09-28 10:30:02 開始 =====
+要處理 6 張…
+  [1/6] 沐晨相寓 攝影棚/共享空間 → img/沐晨相寓-攝影棚-共享空間/8c98e5e780d5.webp (17KB)
+  [2/6] 沐晨相寓 攝影棚/共享空間 → img/沐晨相寓-攝影棚-共享空間/1c6d7a35f17a.webp (14KB)
+  [3/6] 沐晨相寓 攝影棚/共享空間 → img/沐晨相寓-攝影棚-共享空間/06d5c29064fe.webp (32KB)
+  [4/6] 沐晨相寓 攝影棚/共享空間 → img/沐晨相寓-攝影棚-共享空間/3006fb6ba027.webp (32KB)
+  [5/6] 沐晨相寓 攝影棚/共享空間 → img/沐晨相寓-攝影棚-共享空間/25a168cb0322.webp (4KB)
+  [6/6] 沐晨相寓 攝影棚/共享空間 → img/沐晨相寓-攝影棚-共享空間/b84144704b27.webp (18KB)
+
+完成：成功 6、失敗 0｜資料庫中已本地化 453 張
+docs/img 目前 11.7 MB
+docs/index.html 產生完成：470 棚 / 112 家 / 44 tag
+studios.jsonl: 112 筆
+rooms.jsonl: 470 筆
+changes.jsonl: 101 筆
+feed_seen.jsonl: 49 筆
+tags.jsonl: 44 筆
