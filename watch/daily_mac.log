@@ -1093,3 +1093,41 @@ To github-personal:normantaipei/tw-studio-index.git
    a04dd53..e0c5e62  main -> main
 push 成功
 ===== 結束 =====
+===== 2026-09-29 10:30:04 開始 =====
+要處理 27 張…
+  [1/27] Blanc studio → img/Blanc-studio/6cf6f7b72923.webp (13KB)
+  [2/27] Blanc studio → img/Blanc-studio/e816bb61d766.webp (39KB)
+  [3/27] Blanc studio → img/Blanc-studio/afce8ca477dd.webp (22KB)
+  [4/27] Blanc studio → img/Blanc-studio/06b610f8c75c.webp (11KB)
+  [5/27] Blanc studio → img/Blanc-studio/1ec3d215d53b.webp (36KB)
+  [6/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/beb697cb7147.webp (30KB)
+  [7/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/4b509352161f.webp (33KB)
+  [8/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/698639162df7.webp (23KB)
+  [9/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/54554038c636.webp (29KB)
+  [10/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/c4d2c1bba358.webp (21KB)
+  [11/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/95c711bf97e8.webp (23KB)
+  [12/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/1a8ba1a997f0.webp (23KB)
+  [13/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/b4556f97c0c2.webp (18KB)
+  [14/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/8b6906d0b83d.webp (17KB)
+  [15/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/46d86eeff9d4.webp (21KB)
+  [16/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/9b9117fdd72a.webp (25KB)
+  [17/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/4ad6ff717a19.webp (25KB)
+  [18/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/c63ce84db469.webp (18KB)
+  [19/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/400a3c476405.webp (19KB)
+  [20/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/8df4234ac309.webp (30KB)
+  [21/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/770beef9541c.webp (28KB)
+  [22/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/537587e8f261.webp (25KB)
+  [23/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/11edd4b8f650.webp (19KB)
+  [24/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/3d10a4c8e45a.webp (9KB)
+  [25/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/5eb17fc48249.webp (11KB)
+  [26/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/52175f119cba.webp (14KB)
+  [27/27] Frontier 實景攝影棚 → img/Frontier-實景攝影棚/0faf8c134041.webp (15KB)
+
+完成：成功 27、失敗 0｜資料庫中已本地化 480 張
+docs/img 目前 12.3 MB
+docs/index.html 產生完成：470 棚 / 113 家 / 45 tag
+studios.jsonl: 113 筆
+rooms.jsonl: 470 筆
+changes.jsonl: 108 筆
+feed_seen.jsonl: 50 筆
+tags.jsonl: 45 筆
