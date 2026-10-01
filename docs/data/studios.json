@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30",
+ "generated": "2026-10-01",
  "studios": [
   {
    "name": "光棚 Chic Light",
@@ -219,10 +219,10 @@
    "features": "近600坪兩層樓大型基地。南洋風溫室花園、天井自然光、歐式書房、復古門牆、禪風磚牆、旅行主題。歐/美/韓/南洋。婚紗/工商/藝術照/孕婦/全家福/Cosplay/Lolita/課程。",
    "price": "",
    "status": "open",
-   "status_note": "官網場景一覽頁正常，營業時間週五至週三10:00-19:00（週四公休），本次頁面未逐一列出棚名",
+   "status_note": "官網場景一覽頁正常，列出婚紗/工商/藝術照/孕婦照/全家福/Cosplay/KOL/Lolita/課程等場地租賃服務，無停業公告；本次抓取未取得逐棚名稱與價格",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-09-24",
+   "last_checked": "2026-10-01",
    "sources": [
     {
      "kind": "official",
@@ -643,12 +643,12 @@
    "district": "豐原區",
    "address": "台中市豐原區中正路926號;0987981017,LINE @077kzywd",
    "features": "多主題實景棚,適合 Cosplay/人像/婚紗,網美打卡,全預約制。日式和風/台灣風/蘿莉塔/科技/復古。夢棚、粉紅娃娃機電競棚、港風棚、日系復古棚、韓風植栽棚、球池雲棚(各約6坪上限3人)。老件、書房、白/黑棚、黑白地板。Godox 燈具。",
-   "price": "單棚1000-1200/hr起；三樓包棚（夢棚+球池雲棚）1H 1500／2H 2800／3H 3200；基本3人，第4人起每小時加200",
+   "price": "夢棚／港風棚／韓風植栽棚／球池雲棚 1H$1,000、2H$1,800、3H$2,500；粉紅娃娃機電競棚／日式棚景 1H$1,200、2H$2,100、3H$2,800；三樓包棚（夢棚+球池雲棚）1H$1,500、2H$2,800、3H$3,200",
    "status": "open",
-   "status_note": "PONPAI 頁面正常，列出7個棚別與價格，無休棚公告；日系復古棚本次頁面未列出，故不判定撤棚",
+   "status_note": "PONPAI 頁面正常，列出 7 個棚與價格，無休棚或停業公告；known_rooms 中的「日系復古棚」本次頁面未列出，因抓取未必完整故不判定撤棚",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-09-24",
+   "last_checked": "2026-10-01",
    "sources": [
     {
      "kind": "ponpai",
@@ -962,12 +962,12 @@
    "district": "內湖區",
    "address": "台北市內湖區新明路295巷2號3樓",
    "features": "80坪實景棚，居家風／韓風／輕奢風／北歐風／無印風／科技風；場景含自然光、床景、家景客廳、梳化間、廚房吧檯、浴室廁所、綠色植物，另有白/黑棚背景紙與無縫牆。平面1,500/hr、動態1,800/hr。",
-   "price": "靜態拍攝 NT$1,500/hr、動態拍攝 NT$1,800/hr",
+   "price": "動態攝影 NT$1,800/小時、平面攝影 NT$1,500/小時；婚紗/活動/包場/長期配合另有優惠",
    "status": "open",
-   "status_note": "PONPAI 頁面正常營運，80坪實景攝影棚，場景含自然光、床景、客廳、梳化間、廚房吧檯、黑白棚、無縫牆、浴室、綠色植物",
+   "status_note": "PONPAI 頁面正常，80坪、地址台北市內湖區新明路295巷2號3樓，風格含居家/韓風/輕奢/北歐/無印/科技風，場景含自然光、床景、客廳、梳化間、廚房吧檯、白棚黑棚背景紙、無縫牆、浴室、植物；無停業公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-09-24",
+   "last_checked": "2026-10-01",
    "sources": [
     {
      "kind": "ponpai",
@@ -1356,10 +1356,10 @@
    "features": "主題實景,號稱「台灣唯一日式祭典攝影棚」。日式和風/中國風/奇幻/復古歐風;泳池水景、監獄牢房、教堂神社城堡、酒吧,約100坪容50-70人。漢服/浴衣/和服租借。日式祭典為戶外景。",
    "price": "雪映月華1200/hr、日式祭典1200/hr、月夜花語SP與夢鏡800/hr、同位素酒吧1800/hr；不使用彩妝區可折200元",
    "status": "open",
-   "status_note": "官網棚景預約狀況頁正常，5棚皆列出；月夜花語SP標示『改景使用』",
+   "status_note": "官網 ethereal-studio.weebly.com 棚景頁與首頁皆回 404（疑似擋抓取或改版）；Google 地圖顯示「營業中．打烊時間 22:30」，地址 103 台北市大同區錦西街80號4F，官網欄位仍為 ethereal-studio.weebly.com，最新評論 11 個月前提到「雪映月華」主題",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-09-24",
+   "last_checked": "2026-10-01",
    "sources": [
     {
      "kind": "official",
@@ -1754,12 +1754,12 @@
    "district": "新生南路",
    "address": "台北市新生南路一段145巷15號1樓(近大安森林公園站)",
    "features": "Cosplay 專門棚。多功能背景棚(黑/白/綠+可換色紙)、中式棚(多寶格)、日式棚(榻榻米+室外區),另有夢幻花藤白棚、Live house黑棚、巴洛克歐風。平日650/hr起、假日850/hr起,週三公休。",
-   "price": "平日800-900/hr起、假日900-1000/hr起，加購每人200/hr",
+   "price": "多功能背景棚 平日1H$800/加時$600、假日1H$900/加時$700；中式棚與日式棚 平日1H$900/加時$700、假日1H$1000/加時$800；可加購人數 $200/hr/人",
    "status": "open",
-   "status_note": "官網棚景介紹頁正常，3棚皆在，無休棚公告",
+   "status_note": "官網棚景頁正常，列出三個棚，無休棚或停業公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-09-24",
+   "last_checked": "2026-10-01",
    "sources": [
     {
      "kind": "official",
@@ -2043,10 +2043,10 @@
    "features": "小型創作棚,10+特殊棚景:天台、和風鶴棚、探險家閣樓、小房間、臥室、魚缸、素背景、薔薇花房、廢土電子終端、夢境放映室。人像創作/團拍/Cosplay。神牛/COMET 燈具、C-stand、監看螢幕。平假日約600/hr,上限4人。",
    "price": "",
    "status": "suspect_closed",
-   "status_note": "官網 twilightsuru.weebly.com 回傳 404；Google 地圖以店名搜尋台南查無此商家；原 PONPAI 頁面 /studio/twilight-photography 現在顯示的是另一家台北大同區『暮光攝影棚』。需人工確認",
+   "status_note": "官網 twilightsuru.weebly.com 回 404；Google 地圖以店名搜尋查無此商家（結果落到另一家台南「凱茲攝影部 KeizuStudio」）；維持疑似歇業，Instagram @tainan_twilight_studio 尚未查證，需人工確認",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-09-24",
+   "last_checked": "2026-10-01",
    "sources": [
     {
      "kind": "official",
@@ -2448,10 +2448,10 @@
    "features": "2015創立的 Cosplay 主題實景棚,裝潢擺設皆棚主手工打造。4主題場景:總督書房、愛麗絲的宴會廳、龍鳳閣(中式)、中東棚。歐式書房/歐風宴會廳/中式古典。距嘉義火車站後站步行約6分。",
    "price": "",
    "status": "open",
-   "status_note": "官網正常，導覽列列出4個棚別，營業時間09:00-20:00預約制",
+   "status_note": "官網正常，列出四個棚，營業時間 AM9:00-PM8:00 採預約制，地址嘉義市西榮街213號，一律網路預約；無休棚或停業公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-09-24",
+   "last_checked": "2026-10-01",
    "sources": [
     {
      "kind": "official",
@@ -2583,12 +2583,12 @@
    "district": "",
    "address": "",
    "features": "65坪實景攝影棚，2500元/時、低消3小時。場景含自然光、家景客廳、磚牆、綠色植物、浴室、咖啡廳、廚房、酒吧、床景。頁面未列地址。",
-   "price": "",
+   "price": "NT$2,500/小時（最低租借3小時），65坪、可容10人",
    "status": "open",
-   "status_note": "PONPAI 頁面正常營運，全區400坪、室內2層樓各35坪，未列個別棚名與價格",
+   "status_note": "PONPAI「On Time 3」專頁正常（65坪、可容10人、新北市），風格含居家/北歐/韓風/現代簡約/無印/侘寂/復古/復古歐風/英倫/美國風，場景含自然光、家景客廳、磚牆、植物、浴廁、咖啡廳餐廳、廚房吧檯、酒吧、床景；無停業公告。原巡檢網址 ontime-studio 是 400 坪全區總頁，非本店專頁",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-09-24",
+   "last_checked": "2026-10-01",
    "sources": [
     {
      "kind": "ponpai",
@@ -3039,10 +3039,10 @@
    "features": "",
    "price": "",
    "status": "open",
-   "status_note": "Google 地圖有此商家（攝影工作室，5.0／2則評論），無歇業標記，最新評論5個月前",
+   "status_note": "Google 地圖有此商家（攝影工作室，4.8→5.0/2 則評論），無歇業標記，最新評論 5 個月前；地址 241 新北市三重區中興里重新路五段661巷2號，僅有 Facebook 連結、未列營業時間",
    "notes": "完全找不到 FB 以外公開來源。",
    "fb_only": true,
-   "last_checked": "2026-09-24",
+   "last_checked": "2026-10-01",
    "sources": [],
    "photos": []
   },
@@ -3591,12 +3591,12 @@
    "district": "中和區",
    "address": "新北市中和區華順街63號+65號",
    "features": "3層約200坪、50+角度。工業/韓風/華麗宮廷歐風/中東風/居家;拱門、床景、酒吧、書房、壁爐、乾燥花、白/黑棚/背景紙。婚紗/寫真/網拍/Cosplay。",
-   "price": "一般拍攝2H 3000／4H 4500／8H 7000；商業拍攝2500-3500/hr；包棟5000/hr（8H以上4000/hr）",
+   "price": "一般拍攝 2H$3,000起、4H$4,500、8H$7,000；商業拍攝 $2,500-$3,500/hr；全區包棟 $5,000/hr（滿8小時降為 $4,000/hr）",
    "status": "open",
-   "status_note": "PONPAI 頁面正常，200坪三層樓開放，營業時間10:00-21:00（週三公休）",
+   "status_note": "PONPAI 頁面正常，標示營業中（星期三公休），全棟三層樓、200坪實景棚，全區開放不分區",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-09-24",
+   "last_checked": "2026-10-01",
    "sources": [
     {
      "kind": "ponpai",
@@ -4338,10 +4338,10 @@
    "features": "",
    "price": "",
    "status": "suspect_closed",
-   "status_note": "Google 地圖查無此商家（僅出現不相關的板橋強光壹號片場），維持疑似歇業，需人工確認",
+   "status_note": "Google 地圖查無此商家，搜尋結果只落到另一家「板橋強光壹號片場」；無官網可查，維持疑似歇業、需人工確認",
    "notes": "完全找不到 FB 以外公開來源(搜尋僅命中名稱相近的其他業者)。",
    "fb_only": true,
-   "last_checked": "2026-09-24",
+   "last_checked": "2026-10-01",
    "sources": [],
    "photos": []
   },
@@ -4705,10 +4705,10 @@
    "features": "",
    "price": "",
    "status": "open",
-   "status_note": "BookNow 預約頁正常運作，載明室內主題棚景約22坪、純白高樓都市天台約50坪，未列個別棚名",
+   "status_note": "預約網站正常運作，頁面載明「室內主題棚景共約22坪，純白高樓都市天台約50坪」，提供 Amaran、SIRUI 燈具租借，無停業公告；頁面未逐一列出棚別名稱",
    "notes": "完全找不到 FB 以外公開來源。",
    "fb_only": true,
-   "last_checked": "2026-09-24",
+   "last_checked": "2026-10-01",
    "sources": [],
    "photos": []
   },
@@ -5068,11 +5068,16 @@
    "features": "Cosplay 與創作主題棚,多主題場景、休憩創作空間。",
    "price": "",
    "status": "open",
-   "status_note": "Google 地圖顯示 NightWing 龍殿攝影棚（324桃園市平鎮區北富里金陵路三段177號）24小時營業，5.0／11則評論",
+   "status_note": "Google 地圖顯示「NightWing 龍殿攝影棚」24 小時營業、地址 324 桃園市平鎮區北富里金陵路三段177號、官網 webnode.page；官網公告「龍殿目前為全年無休（含國定假日、颱風天災假期），深夜時段24小時皆可預約」",
    "notes": "",
    "fb_only": true,
-   "last_checked": "2026-09-24",
-   "sources": [],
+   "last_checked": "2026-10-01",
+   "sources": [
+    {
+     "kind": "official",
+     "url": "https://nightwing-longdiansheyingpeng.webnode.page/"
+    }
+   ],
    "photos": [
     {
      "u": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlY1Npwd1qZotahLM5K6eoStLGtXDS3jKiw6LY-OEJXr2mk2I99Lp0Vp9Y6djvsmjwolboAHEBytpS5TNFiLhzGIJ2op5EidRYU-XvKZcskYFcNz-aKhNQBwu9YcqgYG_SI7JPCYSjQ0ZeW=w800-h600-k-no",
@@ -5151,12 +5156,12 @@
    "district": "平鎮區",
    "address": "桃園市平鎮區金陵路三段177號",
    "features": "實景攝影棚，適合 Cosplay 與婚紗攝影。60 坪、可容 25 人。風格：復古歐風、北歐風、奇幻風、希臘風、中世紀風、哥德風、日式和風、中國風。場景：庭園、教堂/神社/城堡、書房、廢墟/地窖、花牆、綠色植物、床景、磚牆。NT$800～1600。",
-   "price": "NT$800 ~ NT$1,600／小時（含1小時佈置+30分鐘收拾）",
+   "price": "PONPAI 標示 NT$800~NT$1,600；官網僅載「收費皆以價目表為準」，首小時起租價、後續續租價，水景另計且最少2小時",
    "status": "open",
-   "status_note": "PONPAI 頁面正常，60坪／可容25人，場景含庭園、教堂神社城堡、書房、廢墟地窖、花牆、綠色植物、床景、磚牆",
+   "status_note": "官網正常，公告「龍殿目前為全年無休（含國定紅字假日、颱風天災假期等），以及深夜時段24小時皆可預約」，首頁標示最後更新 2026/01/01；Google 地圖亦顯示 24 小時營業",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-09-24",
+   "last_checked": "2026-10-01",
    "sources": [
     {
      "kind": "ponpai",
@@ -5391,10 +5396,10 @@
    "features": "",
    "price": "",
    "status": "suspect_closed",
-   "status_note": "Google 地圖查無 Q.lab 高雄攝影棚（僅出現不相關的木木空間），維持疑似歇業，需人工確認",
+   "status_note": "Google 地圖查無此商家，搜尋只落到「Q-LAB 菸品專賣店」；無官網、無地址可查，維持疑似歇業、需人工確認",
    "notes": "完全找不到對應公開來源(同名者皆為不相關的建築事務所/後製公司)。",
    "fb_only": false,
-   "last_checked": "2026-09-24",
+   "last_checked": "2026-10-01",
    "sources": [],
    "photos": []
   },
@@ -5716,10 +5721,10 @@
    "features": "",
    "price": "",
    "status": "open",
-   "status_note": "Google 地圖顯示『錄戰隊 攝影棚/直播棚 出租』營業中（打烊22:00），4.8／19則評論，地址高雄市鹽埕區富野路22號3樓第六集中商場",
+   "status_note": "Google 地圖顯示「錄戰隊 攝影棚/直播棚 出租」營業中、打烊時間 22:00，4.8/19 則評論，業主近一年內仍有回覆；所在地點第六集中商場，無官網",
    "notes": "2015成立影像團隊,協助品牌企劃與廣告製作。僅 FB,無官網、無公開場景照。(勿與名稱相近的 KAMERA Studios 混淆)",
    "fb_only": true,
-   "last_checked": "2026-09-24",
+   "last_checked": "2026-10-01",
    "sources": [],
    "photos": []
   },
@@ -10068,6 +10073,66 @@
    ],
    "photo": null,
    "s": 96
+  },
+  {
+   "id": 481,
+   "name": "古堡棚【薔薇紅臥】",
+   "desc": "床簾區配LED燈、紅白薔薇書櫃、法材櫃；6.2坪+走廊1.7-2坪，建議5人。謝絕AV相關動靜態拍攝，僅供藝術類創作",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "宮廷",
+    "床景居家",
+    "歐風",
+    "花景"
+   ],
+   "photo": null,
+   "s": 93
+  },
+  {
+   "id": 482,
+   "name": "和室棚【紫畔柳夏-紫藤】",
+   "desc": "柳夏浮島、紫藤窗畔、燈墨拱門、星空樓梯間；4.6坪+樓梯間走廊，建議4人。無自然光，配置多種和風燈源",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "日式和風",
+    "花景"
+   ],
+   "photo": null,
+   "s": 93
+  },
+  {
+   "id": 480,
+   "name": "森林棚【熔谷與林】",
+   "desc": "熔岩地形結合森林，含赤蘭坡、百合區、樹木區；12.5坪，建議6人。熔岩區禁穿跟鞋、勿踩花區，吊椅可承重1-2位成人",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "奇幻",
+    "森林系",
+    "花景"
+   ],
+   "photo": null,
+   "s": 93
+  },
+  {
+   "id": 483,
+   "name": "水池棚【銀白樹域】",
+   "desc": "分乾景/水景，半室外石泉、王座、海貝床區；約12坪，建議6人。供水皆為室溫涼水，水景最少預約2小時",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "奇幻",
+    "森林系",
+    "水景"
+   ],
+   "photo": null,
+   "s": 93
   },
   {
    "id": 8,
