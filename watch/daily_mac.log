@@ -1218,3 +1218,15 @@ To github-personal:normantaipei/tw-studio-index.git
    5ec231f..96a8d5d  main -> main
 push 成功
 ===== 結束 =====
+===== 2026-10-02 10:30:00 開始 =====
+要處理 1 張…
+  [1/1] ✗ 拾歲影像：'ascii' codec can't encode characters in position 37-38: ordinal not in range(12
+
+完成：成功 0、失敗 1｜資料庫中已本地化 522 張
+docs/img 目前 12.9 MB
+docs/index.html 產生完成：481 棚 / 113 家 / 45 tag
+studios.jsonl: 113 筆
+rooms.jsonl: 481 筆
+changes.jsonl: 130 筆
+feed_seen.jsonl: 50 筆
+tags.jsonl: 45 筆
