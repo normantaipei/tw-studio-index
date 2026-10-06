@@ -4,3 +4,8 @@ watch/studios.db
 *.db-wal
 *.db-shm
 .DS_Store
+
+# 本機 launchd 巡檢的暫存、紀錄與本機設定
+watch/.run/
+watch/daily_claude.log
+.claude/settings.local.json
