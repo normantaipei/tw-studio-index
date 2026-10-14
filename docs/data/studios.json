@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13",
+ "generated": "2026-10-14",
  "studios": [
   {
    "name": "光棚 Chic Light",
@@ -194,7 +194,7 @@
    "status_note": "Google 地圖：90 Percent Space 台中攝影棚顯示「營業中·打烊時間 18:00」，5.0 星 27 則評論，地址一致（台中市北區山西路二段101號5F）。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-07",
+   "last_checked": "2026-10-14",
    "sources": [],
    "photos": [
     {
@@ -564,10 +564,10 @@
    "features": "1931年日治木造老屋(原銀行員工宿舍),主理人 Leo 花三年修復。三分區:昭和民家、和洋折衷、大正洋館。老屋/自然光/老件/庭園/陽台頂樓/酒吧/書房/舞台樂器。日式/復古歐風/英倫/韓風/居家。婚紗/Cosplay/親子/時裝/烹飪/會議。完全預約制/包棟。平面單館約2000/hr起。寵物友善。",
    "price": "NT$2000/小時",
    "status": "open",
-   "status_note": "官網 whofound.weebly.com 回 404；PONPAI 頁面仍正常上架，NT$2000/小時",
+   "status_note": "PONPAI 頁面顯示營運中，NT$2,000/小時",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-07",
+   "last_checked": "2026-10-14",
    "sources": [
     {
      "kind": "official",
@@ -1101,10 +1101,10 @@
    "features": "80 坪實景棚，挑高 3.1m，棚費含設備、門口免費停車；場景含咖啡廳餐廳、家景客廳、床景、庭園、廚房吧檯，風格為現代簡約／輕奢／居家／北歐／無印。",
    "price": "",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，80 坪實景棚，列於首頁特別推薦",
+   "status_note": "PONPAI 頁面正常上架且列於特別推薦，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-07",
+   "last_checked": "2026-10-14",
    "sources": [
     {
      "kind": "ponpai",
@@ -1141,10 +1141,10 @@
    "features": "40坪實景棚，居家風／復古風／台灣風；場景含自然光、床景、家景客廳、浴室廁所、廚房吧檯。有學生方案，價格需私訊。",
    "price": "",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，場景含自然光、床景、家景客廳、浴室、廚房吧檯",
+   "status_note": "PONPAI 頁面正常上架，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-07",
+   "last_checked": "2026-10-14",
    "sources": [
     {
      "kind": "ponpai",
@@ -1215,6 +1215,18 @@
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/9f3a9191-5f41-4cce-8672-29988fd4cac8?img_resize_type=high",
      "p": "img/北投小舊址/013e4f2a573c.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/3da481b3-ba4d-4285-b27d-4329328edcf8?img_resize_type=thumbnail",
+     "p": "img/北投小舊址/7d910296e4bd.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/112546b7-244d-43dd-828d-aee03d76e125?img_resize_type=thumbnail",
+     "p": "img/北投小舊址/36701c33f6c9.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/9f3a9191-5f41-4cce-8672-29988fd4cac8?img_resize_type=thumbnail",
+     "p": "img/北投小舊址/5d7a73432d18.webp"
     }
    ]
   },
@@ -1226,10 +1238,10 @@
    "features": "50坪實景攝影棚，雙館。風格：居家風、現代簡約、韓風、無印、北歐；場景含自然光、書房、家景客廳、陽台頂樓、床景。官網 howghowhow.wixsite.com/how-g",
    "price": "",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，列南港、大安兩址，且列於首頁特別推薦",
+   "status_note": "PONPAI 頁面正常上架，南港/大安兩館資訊在，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-07",
+   "last_checked": "2026-10-14",
    "sources": [
     {
      "kind": "official",
@@ -1495,7 +1507,7 @@
    "status_note": "Google 地圖：Studio AZURE攝影棚 4.8 星 93 則評論，無歇業標記，地址與資料庫一致（台北市大同區延平北路一段69巷5號3樓）。地圖上僅有 Facebook 連結，官網 weebly 仍無法作為巡檢來源，需人工確認新官網。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-07",
+   "last_checked": "2026-10-14",
    "sources": [
     {
      "kind": "official",
@@ -2090,7 +2102,7 @@
    "status_note": "Google 地圖：峰攝影棚顯示「營業中·打烊時間 22:00」，並有本週熱門時段資料，4.7 星 86 則評論，地址一致。註：仍有一則兩年前評論提到「即將走入歷史」，但地圖今日仍標營業中，維持 open，建議人工確認。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-07",
+   "last_checked": "2026-10-14",
    "sources": [
     {
      "kind": "other",
@@ -2196,12 +2208,12 @@
    "district": "松山區",
    "address": "台北市松山區光復南路46號2樓",
    "features": "實景攝影棚 27 坪，NT$800/小時；居家/現代簡約/北歐/復古風，自然光、廢墟地窖、家景客廳、廚房吧檯、白黑棚背景紙、梳化間；捷運站 10 分內",
-   "price": "",
+   "price": "NT$800/小時",
    "status": "open",
-   "status_note": "",
+   "status_note": "PONPAI 新上架頁面，正常營業，NT$800/小時",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-13",
+   "last_checked": "2026-10-14",
    "sources": [
     {
      "kind": "ponpai",
@@ -2415,10 +2427,10 @@
    "features": "近300坪大空間,多風格——復古歐風/現代簡約/南洋/北歐/居家/中國/奇幻/美式/科技。自然光、舞台樂器、白/黑棚背景紙、無縫牆、電動紙捲、床景、廚房吧檯、教室學校、家景客廳、浴室、磚牆。層高3.2m、可包場、寵物友善、有停車。動/靜態/MV/網拍/婚紗/直播/活動。",
    "price": "",
    "status": "open",
-   "status_note": "官網正常，列 A~J 區、造型空間、客製化場景",
+   "status_note": "官網正常，導覽列 A～J 區 10 個主題場景皆在",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-07",
+   "last_checked": "2026-10-14",
    "sources": [
     {
      "kind": "official",
@@ -2831,7 +2843,7 @@
    "status_note": "官網正常，八個棚景（梳妝室、大正浪漫、吉原遊廓、首爾房、HYGGE日光、悼夜之詩、黑棚、背景布區）皆在導覽列，無休棚公告；預約狀態需另查預約頁或 FB 私訊。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-07",
+   "last_checked": "2026-10-14",
    "sources": [
     {
      "kind": "official",
@@ -3512,7 +3524,7 @@
    "status_note": "Google 地圖：一念閣（人像攝影工作室）無歇業標記，地址一致，最近評論 3 個月前提到漢服妝造。地圖上無營業時間與電話。",
    "notes": "完全找不到 FB 以外公開來源(無官網、無 PONPAI)。",
    "fb_only": true,
-   "last_checked": "2026-10-07",
+   "last_checked": "2026-10-14",
    "sources": [],
    "photos": []
   },
@@ -3792,10 +3804,10 @@
    "features": "60坪，白背無縫牆＋實景攝影區，落地窗自然光、獨立梳化間。平面1300～1500元/時、動態1800～2000元/時。",
    "price": "NT$1300~1500/小時",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，價格 NT$1300~1500/小時，列於首頁特別推薦",
+   "status_note": "PONPAI 頁面正常上架且列於特別推薦，NT$1,300～1,500/hr",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-07",
+   "last_checked": "2026-10-14",
    "sources": [
     {
      "kind": "ponpai",
@@ -3933,10 +3945,10 @@
    "features": "24坪實景,3.1米挑高、不限人數。居家/復古歐風/科技/日式和風/奇幻/現代簡約;自然光、老件、家景客廳、庭園、綠植、酒吧、拱門。適合 Cosplay。約1000~1600。",
    "price": "NT$1000~1600",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，價格 NT$1000~1600，適合 Cosplay",
+   "status_note": "PONPAI 頁面正常上架，NT$1,000～1,600，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-07",
+   "last_checked": "2026-10-14",
    "sources": [
     {
      "kind": "ponpai",
@@ -4791,10 +4803,10 @@
    "features": "攝影師打造的實景棚,7種主題。自然光、乾燥花、床景、家景客廳、單色撞色、綠植、花牆、拱門;復古歐風/復古/奇幻/公主/蘿莉塔/哥德。十多盞仿日光持續光,200+套服裝。",
    "price": "NT$1500~3000",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，新埔、府中兩館，價格 NT$1500~3000，列於首頁特別推薦",
+   "status_note": "PONPAI 頁面正常上架，兩館地址未變，NT$1,500～3,000，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-07",
+   "last_checked": "2026-10-14",
    "sources": [
     {
      "kind": "official",
@@ -5294,10 +5306,10 @@
    "features": "近府中商圈實景棚,奇幻/中國/復古/日式;廢墟地窖、綠植、書房、咖啡廳餐廳。三間棚:隙日之隅(7坪)、椿之間(9坪)、藏龍閣(6坪)。",
    "price": "",
    "status": "open",
-   "status_note": "官網正常，列椿之間、藏龍閣、隙日之隅（期間限定-末日殘響）",
+   "status_note": "官網正常，列出 隙日之隅-末日殘響（期間限定）、椿之間、藏龍閣",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-07",
+   "last_checked": "2026-10-14",
    "sources": [
     {
      "kind": "official",
@@ -5595,12 +5607,12 @@
    "district": "蘆洲區",
    "address": "新北市蘆洲區民族路227巷14號1樓(三民高中站2號出口)",
    "features": "45坪五大區12種主題實景。復古歐風/韓風/英倫/公主/蒸氣龐克/中世紀/工業;法國畫家房、Kingsman武器牆、80年代塗鴉牆、美式劇院、國王加冕、巴洛克花牆、倫敦老酒吧、英式理髮廳、羅馬假期咖啡座。一般1200/H、包場1800/H。",
-   "price": "NT$1200~1800",
+   "price": "NT$1,200～NT$1,800",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，價格 NT$1200~1800",
+   "status_note": "PONPAI 頁面正常上架，NT$1,200～1,800，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-07",
+   "last_checked": "2026-10-14",
    "sources": [
     {
      "kind": "ponpai",
@@ -6066,7 +6078,7 @@
    "status_note": "Google 地圖：「L studio｜主題攝影棚｜coplay｜網紅KOL｜活動空間」標示 24 小時營業，地址一致（高雄市新興區大同一路31號2樓），最近評論 5 天前。地圖上仍無官網連結。",
    "notes": "找不到可確認為「高雄」的非 FB 公開來源。同名的 L.Studio(FB image1987、PONPAI ponpai.tw/studio/image1987)經查證位於**台北市大同區**,非高雄,勿混淆。",
    "fb_only": false,
-   "last_checked": "2026-10-07",
+   "last_checked": "2026-10-14",
    "sources": [],
    "photos": []
   },
@@ -6270,10 +6282,10 @@
    "features": "三層樓大空間。講堂、自然光、單色撞色、家景客廳、床景、小孩房、白/黑棚背景紙、拱門。現代簡約/北歐/韓風/居家/日式/侘寂。寵物友善。",
    "price": "NT$800/小時",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，NT$800/小時",
+   "status_note": "PONPAI 頁面正常上架，NT$800/小時，地址未變",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-07",
+   "last_checked": "2026-10-14",
    "sources": [
     {
      "kind": "ponpai",
@@ -7663,6 +7675,85 @@
    ],
    "photo": null,
    "s": 39
+  },
+  {
+   "id": 510,
+   "name": "家景客廳",
+   "desc": "居家客廳",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "床景居家"
+   ],
+   "photo": null,
+   "s": 41
+  },
+  {
+   "id": 511,
+   "name": "廚房吧檯",
+   "desc": "廚房吧檯",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "廚房"
+   ],
+   "photo": null,
+   "s": 41
+  },
+  {
+   "id": 509,
+   "name": "廢墟",
+   "desc": "廢墟場景",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "廢墟頹廢"
+   ],
+   "photo": null,
+   "s": 41
+  },
+  {
+   "id": 512,
+   "name": "梳化間",
+   "desc": "",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "梳化間"
+   ],
+   "photo": null,
+   "s": 41
+  },
+  {
+   "id": 508,
+   "name": "白/黑棚背景紙區",
+   "desc": "白棚/黑棚",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "白棚",
+    "黑棚"
+   ],
+   "photo": null,
+   "s": 41
+  },
+  {
+   "id": 507,
+   "name": "自然光區",
+   "desc": "自然光",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "自然光"
+   ],
+   "photo": null,
+   "s": 41
   },
   {
    "id": 204,
