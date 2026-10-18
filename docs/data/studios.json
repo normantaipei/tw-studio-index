@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17",
+ "generated": "2026-10-18",
  "studios": [
   {
    "name": "光棚 Chic Light",
@@ -9,10 +9,10 @@
    "features": "以「Chic 優雅經典」為概念,主打光線設計(每場景自然光/人造光皆預先規劃)。2F 法式白棚、經典褐棚、純白無縫牆、素色背景紙;3F 極簡灰棚、植生綠棚。法式簡約/公主/歐風/居家。影棚800/hr、梳化間300/hr,一組限5人。適合婚紗/人像/網拍。",
    "price": "",
    "status": "open",
-   "status_note": "官網正常，介紹「法式簡約風格，適合婚紗、人像、網拍」，無休棚公告",
+   "status_note": "官網首頁正常，無休棚公告；首頁未列棚別與價格",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-11",
+   "last_checked": "2026-10-18",
    "sources": [
     {
      "kind": "official",
@@ -433,7 +433,7 @@
    "status_note": "Google 地圖商家「京拾銧攝影棚｜台中攝影棚｜台中場地租借｜Cosplay」營業中（打烊 21:00），4.9 分 110 則評論，最新照片 13 天前；地址 台中市東區東南街23號。無歇業公告。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-11",
+   "last_checked": "2026-10-18",
    "sources": [],
    "photos": [
     {
@@ -951,7 +951,7 @@
    "status_note": "Google 地圖顯示營業中（打烊 21:00），4.4 分 116 則評論，地址 台北市中正區大埔街21巷1-2號，官網 mirunaa.com。官網 http://www.mirunaa.com/ 本次 TLS 握手失敗無法抓取。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-11",
+   "last_checked": "2026-10-18",
    "sources": [
     {
      "kind": "official",
@@ -1098,10 +1098,10 @@
    "features": "150 坪實景棚，挑高 4.5m、無柱開放式空間，可架軌道；移動式活動景版可變換數十種風格。場景含北歐客廳、紐約客廳、廚房景、房間景、網拍景（1,500–3,500/hr）、酒吧景、辦公室景（2,000–4,000/hr）、大窗景、咖啡廳景、餐酒館（2,500–4,500/hr）。",
    "price": "",
    "status": "open",
-   "status_note": "PONPAI 場地頁正常，列於首頁特別推薦，NT$1,500~2,000；附官網 sevenbox.com.tw",
+   "status_note": "PONPAI 場地頁正常上架並列於首頁「特別推薦」，NT$1,500~2,000，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-11",
+   "last_checked": "2026-10-18",
    "sources": [
     {
      "kind": "ponpai",
@@ -1890,10 +1890,10 @@
    "features": "86坪大空間、容約20人。科技/居家/韓風/南洋;自然光、家景客廳、書房、廢墟地窖、倉庫、床景、庭園。實景棚,適合時裝與 Cosplay。",
    "price": "",
    "status": "open",
-   "status_note": "Google Sites 官網正常（有預約按鈕）；PONPAI 頁正常，NT$1,200~1,800，86坪",
+   "status_note": "Google Sites 官網正常；PONPAI 場地頁 NT$1,200~1,800，86 坪，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-11",
+   "last_checked": "2026-10-18",
    "sources": [
     {
      "kind": "booking",
@@ -2348,10 +2348,10 @@
    "features": "實景棚三主題——復古歐風(13坪)、日式和風/中式古風(9坪)、白棚(6坪,黑/白背景紙);古董老件、書房、壁爐、老屋、花園。適合時裝/Cosplay/婚紗/劇情。",
    "price": "",
    "status": "open",
-   "status_note": "舊 weebly 官網 404；PONPAI 頁列出新官網 wixsite，新官網列傳統中日棚、白棚、典雅歐風棚與梳化區，營業時間平日10-22、假日9:30-22，預約制",
+   "status_note": "官網列三棚（傳統中日棚、白棚、典雅歐風棚），預約制，平日10:00-22:00、假日09:30-22:00，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-11",
+   "last_checked": "2026-10-18",
    "sources": [
     {
      "kind": "official",
@@ -2695,10 +2695,10 @@
    "features": "六大主題——黑/水棚(光影氛圍)、古典廚房棚(懷舊)、舞台酒吧棚(表演時尚)、異國棚(多元文化)、沙灘棚(自然光),另有期間限定棚(如「樊籠」)。09:30-21:00。",
    "price": "",
    "status": "open",
-   "status_note": "官網 2026/10/02 公告新期間限定棚「黃泉彼岸花」2026/10/5 開放預約；五個常設棚照常列出；原期間限定棚「樊籠」已未列出",
+   "status_note": "官網列 6 棚，期間限定棚「黃泉彼岸花」2026/10/02 公告預約開放中（預計 3-6 個月）",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-11",
+   "last_checked": "2026-10-18",
    "sources": [
     {
      "kind": "official",
@@ -3060,10 +3060,10 @@
    "features": "三棟獨立別墅實景：ha house 春（800坪三層白色建築、近700坪草皮樹林）、夏（五層樓、露天泳池）、秋（600坪、湧泉池與落雨松樹林）。平面4500元/時（低消5小時）、動態40000元/天。",
    "price": "平面 $4,000-4,500/時（最低 5 小時）；動態 $40,000/天（最低 10 小時）；定金 平面$5,000／動態$10,000",
    "status": "open",
-   "status_note": "PONPAI 場地頁正常上架，NT$4,000~4,500，無休棚公告",
+   "status_note": "PONPAI 場地頁正常上架，NT$4,000~4,500，無休館公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-11",
+   "last_checked": "2026-10-18",
    "sources": [
     {
      "kind": "ponpai",
@@ -3098,7 +3098,7 @@
    "status_note": "Google 地圖商家「覓逕」顯示 24 小時營業，4.8 分 5 則評論（最新 2 個月前）；取得完整門牌 彰化縣彰化市三民路297巷3之6號，電話 0933-415-405，官方連結為 Instagram。",
    "notes": "",
    "fb_only": true,
-   "last_checked": "2026-10-11",
+   "last_checked": "2026-10-18",
    "sources": [],
    "photos": [
     {
@@ -3341,10 +3341,10 @@
    "features": "40坪實景空間，可容納20人；現代簡約風、工業風，場景含水泥牆、清水模、家景客廳；適合時裝拍攝與會議講座。NT$1,200/小時(10:00-21:00)，非營業時間加收30%",
    "price": "",
    "status": "open",
-   "status_note": "PONPAI 場地頁正常上架，列 NT$1,300/小時、40坪，並出現在 PONPAI 首頁最新攝影場地",
+   "status_note": "PONPAI 場地頁正常上架，列於首頁「最新攝影場地」，無休棚公告；工業風實景棚 40 坪、NT$1,300/時",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-11",
+   "last_checked": "2026-10-18",
    "sources": [
     {
      "kind": "ponpai",
@@ -3725,7 +3725,7 @@
    "status_note": "官網場景介紹頁列出 6 個具名棚別與時價，各棚標示營業中，無休棚公告。預約走官方粉專私訊。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-11",
+   "last_checked": "2026-10-18",
    "sources": [
     {
      "kind": "official",
@@ -4681,10 +4681,10 @@
    "features": "6主題棚。蒸氣龐克/工業/中國風/復古歐風/科技;哥德、勇者小屋、廢墟地窖、籠中鳥、VIP酒吧、監獄牢房。近亞東醫院站。平面600-1100/H、商用1000-2000/H。",
    "price": "平面 $800-2200/H、動態 $1000-2500/H（依棚別與時段，假日加價 $200-400/H）",
    "status": "open",
-   "status_note": "PONPAI 場地頁正常，NT$700~2,500，無休棚公告",
+   "status_note": "PONPAI 場地頁正常上架，NT$700~2,500/時，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-11",
+   "last_checked": "2026-10-18",
    "sources": [
     {
      "kind": "ponpai",
@@ -5277,7 +5277,7 @@
    "status_note": "Google 地圖商家名為「水美人古風體驗館」，營業中（打烊 18:00），5.0 分 66 則評論，最新照片 21 天前；地址 新北市板橋區北門街62-1號2樓，電話 02-8965-0229。漢服體驗＋妝髮＋攝影，可外拍林家花園。",
    "notes": "完全找不到 FB 以外公開來源。",
    "fb_only": true,
-   "last_checked": "2026-10-11",
+   "last_checked": "2026-10-18",
    "sources": [],
    "photos": []
   },
@@ -5564,7 +5564,7 @@
    "status_note": "",
    "notes": "完全找不到 FB 以外公開來源。",
    "fb_only": true,
-   "last_checked": "2026-10-11",
+   "last_checked": "2026-10-18",
    "sources": [],
    "photos": []
   },
@@ -5901,14 +5901,18 @@
    "features": "實景攝影棚、適合時裝拍攝。共 57 坪、可容 60 人、挑高。A室全白無縫地坪搭配地毯區、B室木紋地板搭配磁磚區。風格：居家風、現代簡約風、韓風、北歐風、公主風。場景：自然光、廚房·吧檯、家景·客廳、壁爐、床景。日間 A室1400/B室1200/雙棚2200 每小時；夜間 A室1200/B室1000/雙棚1800 每小時。",
    "price": "日間(6:00-17:00) A Room $1,400/hr、B Room $1,200/hr、雙棚 $2,200/hr（最少2小時）；夜間(17:00後) A $1,200、B $1,000、雙棚 $1,800/hr；派對分區$8,000/時段、全區$12,000/時段",
    "status": "open",
-   "status_note": "PONPAI 場地頁正常，NT$1,200~2,400，無休棚公告",
+   "status_note": "PONPAI 場地頁正常上架，NT$1,200~2,400，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-11",
+   "last_checked": "2026-10-18",
    "sources": [
     {
      "kind": "ponpai",
      "url": "https://ponpai.tw/studio/xface-19f"
+    },
+    {
+     "kind": "official",
+     "url": "https://xface.tw/x-face-19f-daylight-studio-space/"
     }
    ],
    "photos": []
@@ -6050,10 +6054,10 @@
    "features": "全館預約制約200坪、30+場景。自然光/復古/韓式浪漫/宮廷華麗+多款純色背景。婚紗、閨蜜、網拍、孕婦、全家福、抓周、求婚、MV。超大免費停車場、專用電梯、免費燈具。",
    "price": "",
    "status": "open",
-   "status_note": "Threads 帳號持續發布 Cosplay 包棚、月租方案、禮服出租等方案（頁面未顯示貼文日期）；簡介寫「桃園中壢（近 Costco）」，與資料庫楊梅地址不同，需人工確認",
+   "status_note": "Threads 近期貼文仍在推月租棚方案與 Cosplay 團拍方案（CP $3,200／小團 $6,500／大團 $12,000）；貼文提到「中壢區好市多附近、約200坪、30+場景」，與資料庫地址（楊梅區）不同，需人工確認",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-11",
+   "last_checked": "2026-10-18",
    "sources": [
     {
      "kind": "ig",
@@ -6244,7 +6248,7 @@
    "status_note": "Google 地圖顯示營業中（打烊 18:00），4.7 分 90 則評論，1 個月內仍有新評論；地址確認為 高雄市三民區建國二路66號2樓，電話 0932-794-970。原 check_url（moonku44.com/tw-studio08/）已 404。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-11",
+   "last_checked": "2026-10-18",
    "sources": [
     {
      "kind": "other",
@@ -6555,10 +6559,10 @@
    "features": "鳳山行政中心大停車場對面、永生花藝花店樓上。韓式棚(留白美學)、日式棚(東方美學)、中式棚(新年佈景)、素背景棚、戶外自然光區。重視架燈空間與走位彈性。個人/情侶/孕婦/全家福/畢業/婚紗側拍/COS/團體寫真。",
    "price": "",
    "status": "open",
-   "status_note": "部落格正常，介紹白棚、中式、日式、韓式場景與租棚服務，無休棚公告（未見文章日期）",
+   "status_note": "部落格仍有營運內容（提醒改用 IG/LINE/電話聯繫），列中式棚景、日式庭院景、韓式白棚、素背景棚與新年佈景",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-11",
+   "last_checked": "2026-10-18",
    "sources": [
     {
      "kind": "blog",
@@ -7646,6 +7650,24 @@
    "s": 38
   },
   {
+   "id": 518,
+   "name": "內湖棚4樓",
+   "desc": "現代簡約、工業、居家、無印、北歐、輕奢風；自然光、家景客廳、床景、辦公室、廚房吧檯、酒吧",
+   "status": "active",
+   "period": "",
+   "price": "NT$1,500~2,000",
+   "tags": [
+    "工業風",
+    "床景居家",
+    "廚房",
+    "梳化間",
+    "無印風",
+    "自然光"
+   ],
+   "photo": null,
+   "s": 19
+  },
+  {
    "id": 513,
    "name": "內湖棚4樓",
    "desc": "現代簡約、工業風、居家風，挑高 3.1m 不限人數，捷運 3 分鐘，門口免費停車",
@@ -8723,6 +8745,21 @@
     "exact": false
    },
    "s": 34
+  },
+  {
+   "id": 517,
+   "name": "工業風實景棚",
+   "desc": "格局方正挑高，水泥牆、清水模、家景客廳；40坪、可容20人",
+   "status": "active",
+   "period": "",
+   "price": "NT$1,300/小時",
+   "tags": [
+    "大空間",
+    "工業風",
+    "床景居家"
+   ],
+   "photo": null,
+   "s": 65
   },
   {
    "id": 18,
@@ -13601,7 +13638,8 @@
    "price": "",
    "tags": [
     "中式古風",
-    "奇幻"
+    "奇幻",
+    "花景"
    ],
    "photo": {
     "p": "img/Orange-攝影棚/2b09663997fd.webp",
