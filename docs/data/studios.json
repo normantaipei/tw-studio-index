@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20",
+ "generated": "2026-10-21",
  "studios": [
   {
    "name": "光棚 Chic Light",
@@ -194,7 +194,7 @@
    "status_note": "Google 地圖：90 Percent Space 台中攝影棚顯示「營業中·打烊時間 18:00」，5.0 星 27 則評論，地址一致（台中市北區山西路二段101號5F）。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-14",
+   "last_checked": "2026-10-21",
    "sources": [],
    "photos": [
     {
@@ -564,10 +564,10 @@
    "features": "1931年日治木造老屋(原銀行員工宿舍),主理人 Leo 花三年修復。三分區:昭和民家、和洋折衷、大正洋館。老屋/自然光/老件/庭園/陽台頂樓/酒吧/書房/舞台樂器。日式/復古歐風/英倫/韓風/居家。婚紗/Cosplay/親子/時裝/烹飪/會議。完全預約制/包棟。平面單館約2000/hr起。寵物友善。",
    "price": "NT$2000/小時",
    "status": "open",
-   "status_note": "PONPAI 頁面顯示營運中，NT$2,000/小時",
+   "status_note": "PONPAI 頁面顯示營運中，NT$2,000/小時，地址未變，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-14",
+   "last_checked": "2026-10-21",
    "sources": [
     {
      "kind": "official",
@@ -634,6 +634,98 @@
     {
      "u": "https://whofound.weebly.com/uploads/7/9/0/6/79064082/published/img-9744-bl_3.jpg",
      "p": "img/戶方-Who-Found/3d4dac20164c.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/3451c997-085e-47c6-9e5d-16fb627048af",
+     "p": "img/戶方-Who-Found/5c966bac77f3.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/a1824b1f-c456-46e9-9ffd-08b66523216e",
+     "p": "img/戶方-Who-Found/f4c5f6f535b2.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/fc35b2cd-c7a0-40d0-ade0-2047f7a40431",
+     "p": "img/戶方-Who-Found/ec3d9117039c.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/2b527ee2-b858-4d48-8786-21a25d5bf7a4",
+     "p": "img/戶方-Who-Found/14a190a5d8fc.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/94482fbb-640c-4d31-bb86-ff6f807f8a96",
+     "p": "img/戶方-Who-Found/5f3c63b3ae54.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/0aafbaef-f86e-42d0-a0cc-905b164ed060",
+     "p": "img/戶方-Who-Found/1e4e239c5445.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/017f87c6-a355-49a4-8a4e-1f8890f8ec0e",
+     "p": "img/戶方-Who-Found/e076d2d55ca0.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/5e46b3dd-efd5-4fd2-8843-821f6b6759fa",
+     "p": "img/戶方-Who-Found/5d401ceb55dd.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/7eb641f0-5a5e-4bb3-82d8-8f2aba1add2c",
+     "p": "img/戶方-Who-Found/95320b2c459e.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/47e4e48f-73f6-4a22-a885-862b00e4fef5",
+     "p": "img/戶方-Who-Found/50983fc4fcae.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/ab0d3177-5c31-466e-b15c-fca9ca81df2e",
+     "p": "img/戶方-Who-Found/7852bc2f8c29.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/add22275-0bb6-41bc-8313-29c59d33209f",
+     "p": "img/戶方-Who-Found/ae6321f0eb65.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/8ec1f43a-df25-4a85-bf62-1f22c902c1b5",
+     "p": "img/戶方-Who-Found/9943f7197bf1.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/e84d2866-0a68-4484-9858-1e61ab8bdc4a",
+     "p": "img/戶方-Who-Found/bba98a4a8dae.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/cd7c00da-3375-465d-adcb-1eb2bcfa85a0",
+     "p": "img/戶方-Who-Found/968ed1b77873.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/39456416-06b3-4e96-9015-5d4d30fbad09",
+     "p": "img/戶方-Who-Found/af0ef3cfca3f.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/9e7a1dbe-2596-4f8e-b947-86cec83d1982",
+     "p": "img/戶方-Who-Found/037dc47830c6.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/a914850d-48ff-491f-adab-b084ba1ec49c",
+     "p": "img/戶方-Who-Found/53f446a251eb.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/9d78b392-7c69-41c3-903b-93aa7986170c",
+     "p": "img/戶方-Who-Found/4a6bda5459a9.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/48877851-1fce-4a3e-9585-febee2b0214c",
+     "p": "img/戶方-Who-Found/61cc89a9081c.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/4eb727ec-7add-49cf-b732-79278c57ddd2",
+     "p": "img/戶方-Who-Found/6c9e0eafff76.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/c2f735fc-607d-448d-99af-e8317d6ce028",
+     "p": "img/戶方-Who-Found/bdf2b56953a3.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/c1261cec-2a2c-416a-804c-67c12e865ab5",
+     "p": "img/戶方-Who-Found/422de7cbb79f.webp"
     }
    ]
   },
@@ -1194,17 +1286,126 @@
    "features": "80 坪實景棚，挑高 3.1m，棚費含設備、門口免費停車；場景含咖啡廳餐廳、家景客廳、床景、庭園、廚房吧檯，風格為現代簡約／輕奢／居家／北歐／無印。",
    "price": "",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架且列於特別推薦，無休棚公告",
+   "status_note": "PONPAI 頁面正常上架且列於首頁特別推薦，場景清單未變，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-14",
+   "last_checked": "2026-10-21",
    "sources": [
     {
      "kind": "ponpai",
      "url": "https://ponpai.tw/studio/moirstudio"
     }
    ],
-   "photos": []
+   "photos": [
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/5f5acfdf-129a-43d6-a1aa-243051bcc9a2",
+     "p": "img/摩利空間/479db00b7940.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/2239feb3-549b-4e95-b036-c9f7b57378e7",
+     "p": "img/摩利空間/eaef65ed5ab7.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/cf7c3f54-a431-4cdb-a8a5-9e7cfc9bd482",
+     "p": "img/摩利空間/976499b140aa.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/0ffeccc4-b010-4d7e-8416-6ee0339b8ded",
+     "p": "img/摩利空間/9425b0fc6ab4.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/1f6cf595-2cb8-4c5d-9138-e4a4661ffd15",
+     "p": "img/摩利空間/1d3b6ea78ee4.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/486f4a91-ab5b-43f7-8fdf-f644ce1e35c2",
+     "p": "img/摩利空間/01303fee571f.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/e4d4b88e-b159-46c0-8635-115f097515e4",
+     "p": "img/摩利空間/3bdf8caab8cb.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/f6c6a516-6de4-447e-885c-8595c5ec51c6",
+     "p": "img/摩利空間/b511b4e8ff3b.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/8fcde0ef-e0ae-4c2e-bbb7-521a10348dc4",
+     "p": "img/摩利空間/ca64b480d79d.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/84be953c-6cc8-4bba-8a52-a0cb74282d42",
+     "p": "img/摩利空間/2275c623fcb4.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/70e1248a-e58b-435d-9617-ba9e6976f3c0",
+     "p": "img/摩利空間/ea4cadfd98fa.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/c4a4afcd-deae-469a-a082-5035559a16c4",
+     "p": "img/摩利空間/725ffd5a788a.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/972b464f-6866-485d-8e73-5296e9463f47",
+     "p": "img/摩利空間/4250e5f45dd7.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/e95abda8-c50c-412a-9cd0-31cef0f4ee18",
+     "p": "img/摩利空間/5cf8ce875e50.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/bef669ae-b43d-4b60-9def-c21a6ec39f40",
+     "p": "img/摩利空間/f69325b391a2.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/9e3eeea0-c16b-45e5-8eb3-396e7ef1fb0f",
+     "p": "img/摩利空間/0ec9724e08c4.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/e0d6f8ff-a0b7-4609-a0e1-86a6d57b6263",
+     "p": "img/摩利空間/538e38f4eb22.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/d8de5bc0-6e28-42eb-9fe8-71ee9b4efeee",
+     "p": "img/摩利空間/b6e31f113408.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/d996d950-c131-4a0c-be89-a086a1e7d997",
+     "p": "img/摩利空間/98d0bd5f64a2.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/ad79a9ab-66ca-4f83-bb58-f21a24764945",
+     "p": "img/摩利空間/3459c303d64d.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/d22753c0-4b18-48b9-a736-1d575fe45821",
+     "p": "img/摩利空間/4e99df697927.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/c142ff1c-c20b-4bcb-9c0d-f66f8c693bed",
+     "p": "img/摩利空間/a9ecc9408fbe.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/c7359cba-7e10-43dd-b0e1-35b8d8607e5c",
+     "p": "img/摩利空間/41ef61e80dd6.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/145e62ed-7c16-4821-a343-f879aeb2051a",
+     "p": "img/摩利空間/3dd2c38d4f97.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/9749badc-509b-4233-89b9-96c8d7e678bd",
+     "p": "img/摩利空間/fedaa16feb60.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/96154e18-ac71-4039-a112-0f9479f656b3",
+     "p": "img/摩利空間/26ff771ec0c6.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/cb19796b-758b-46a6-aa22-3dfc0ef0afb0",
+     "p": "img/摩利空間/0423442f30c6.webp"
+    }
+   ]
   },
   {
    "name": "方舟映畫",
@@ -1234,10 +1435,10 @@
    "features": "40坪實景棚，居家風／復古風／台灣風；場景含自然光、床景、家景客廳、浴室廁所、廚房吧檯。有學生方案，價格需私訊。",
    "price": "",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，無休棚公告",
+   "status_note": "PONPAI 頁面正常上架，場景清單未變，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-14",
+   "last_checked": "2026-10-21",
    "sources": [
     {
      "kind": "ponpai",
@@ -1331,10 +1532,10 @@
    "features": "50坪實景攝影棚，雙館。風格：居家風、現代簡約、韓風、無印、北歐；場景含自然光、書房、家景客廳、陽台頂樓、床景。官網 howghowhow.wixsite.com/how-g",
    "price": "",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，南港/大安兩館資訊在，無休棚公告",
+   "status_note": "PONPAI 頁面正常上架且列於首頁最新/特別推薦，南港、大安兩館地址在，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-14",
+   "last_checked": "2026-10-21",
    "sources": [
     {
      "kind": "official",
@@ -1600,7 +1801,7 @@
    "status_note": "Google 地圖：Studio AZURE攝影棚 4.8 星 93 則評論，無歇業標記，地址與資料庫一致（台北市大同區延平北路一段69巷5號3樓）。地圖上僅有 Facebook 連結，官網 weebly 仍無法作為巡檢來源，需人工確認新官網。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-14",
+   "last_checked": "2026-10-21",
    "sources": [
     {
      "kind": "official",
@@ -2223,7 +2424,7 @@
    "status_note": "Google 地圖：峰攝影棚顯示「營業中·打烊時間 22:00」，並有本週熱門時段資料，4.7 星 86 則評論，地址一致。註：仍有一則兩年前評論提到「即將走入歷史」，但地圖今日仍標營業中，維持 open，建議人工確認。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-14",
+   "last_checked": "2026-10-21",
    "sources": [
     {
      "kind": "other",
@@ -2331,17 +2532,50 @@
    "features": "實景攝影棚 27 坪，NT$800/小時；居家/現代簡約/北歐/復古風，自然光、廢墟地窖、家景客廳、廚房吧檯、白黑棚背景紙、梳化間；捷運站 10 分內",
    "price": "NT$800/小時",
    "status": "open",
-   "status_note": "PONPAI 新上架頁面，正常營業，NT$800/小時",
+   "status_note": "PONPAI 頁面正常上架且列於首頁最新場地，NT$800/小時，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-14",
+   "last_checked": "2026-10-21",
    "sources": [
     {
      "kind": "ponpai",
      "url": "https://ponpai.tw/studio/guangfu46"
     }
    ],
-   "photos": []
+   "photos": [
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/b9f5236b-239a-4159-9e8a-59f7cddc78d5",
+     "p": "img/光復46/87eecaaabb2e.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/35b67bec-dcb8-46d0-9ad5-f4a0d8eb3bd5",
+     "p": "img/光復46/b5d93efe7f20.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/e19a369f-b8ae-40a6-8d1f-b6485a515374",
+     "p": "img/光復46/6c967538ca8c.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/5d318f1a-9202-4d46-a066-eaafa0664b8e",
+     "p": "img/光復46/9eb3bdcae7cf.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/470ceb8e-92ed-4bf8-9c48-93dc2f80168e",
+     "p": "img/光復46/7b6092db1990.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/82bc0ba9-1fe6-4b71-a04c-bba547975a79",
+     "p": "img/光復46/975f61804e0b.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/f387812b-2c01-4a58-831c-641b585c7203",
+     "p": "img/光復46/a61dc15b7570.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/7f78d7d9-5b3c-4a79-9209-2c38b1661ce7",
+     "p": "img/光復46/04ec84e4f275.webp"
+    }
+   ]
   },
   {
    "name": "端木攝影棚",
@@ -2548,10 +2782,10 @@
    "features": "近300坪大空間,多風格——復古歐風/現代簡約/南洋/北歐/居家/中國/奇幻/美式/科技。自然光、舞台樂器、白/黑棚背景紙、無縫牆、電動紙捲、床景、廚房吧檯、教室學校、家景客廳、浴室、磚牆。層高3.2m、可包場、寵物友善、有停車。動/靜態/MV/網拍/婚紗/直播/活動。",
    "price": "",
    "status": "open",
-   "status_note": "官網正常，導覽列 A～J 區 10 個主題場景皆在",
+   "status_note": "官網正常，導覽列 A～J 區 10 個主題場景與造型空間皆在，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-14",
+   "last_checked": "2026-10-21",
    "sources": [
     {
      "kind": "official",
@@ -2964,7 +3198,7 @@
    "status_note": "官網正常，八個棚景（梳妝室、大正浪漫、吉原遊廓、首爾房、HYGGE日光、悼夜之詩、黑棚、背景布區）皆在導覽列，無休棚公告；預約狀態需另查預約頁或 FB 私訊。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-14",
+   "last_checked": "2026-10-21",
    "sources": [
     {
      "kind": "official",
@@ -3693,7 +3927,7 @@
    "status_note": "Google 地圖：一念閣（人像攝影工作室）無歇業標記，地址一致，最近評論 3 個月前提到漢服妝造。地圖上無營業時間與電話。",
    "notes": "完全找不到 FB 以外公開來源(無官網、無 PONPAI)。",
    "fb_only": true,
-   "last_checked": "2026-10-14",
+   "last_checked": "2026-10-21",
    "sources": [],
    "photos": []
   },
@@ -4009,10 +4243,10 @@
    "features": "60坪，白背無縫牆＋實景攝影區，落地窗自然光、獨立梳化間。平面1300～1500元/時、動態1800～2000元/時。",
    "price": "NT$1300~1500/小時",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架且列於特別推薦，NT$1,300～1,500/hr",
+   "status_note": "PONPAI 頁面正常上架且列於首頁特別推薦，NT$1,300～1,500/hr，地址未變",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-14",
+   "last_checked": "2026-10-21",
    "sources": [
     {
      "kind": "ponpai",
@@ -4150,10 +4384,10 @@
    "features": "24坪實景,3.1米挑高、不限人數。居家/復古歐風/科技/日式和風/奇幻/現代簡約;自然光、老件、家景客廳、庭園、綠植、酒吧、拱門。適合 Cosplay。約1000~1600。",
    "price": "NT$1000~1600",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，NT$1,000～1,600，無休棚公告",
+   "status_note": "PONPAI 頁面正常上架，NT$1,000～1,600，地址未變，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-14",
+   "last_checked": "2026-10-21",
    "sources": [
     {
      "kind": "ponpai",
@@ -4552,6 +4786,26 @@
      "p": "img/巷子內攝影棚-Lane-studio/d94a8c211a73.webp"
     }
    ]
+  },
+  {
+   "name": "這室攝影棚",
+   "city": "新北市",
+   "district": "中和區",
+   "address": "235新北市中和區中山路二段423號2F、3F",
+   "features": "六大生活場景實景棚，NT$1,800。居家/北歐/韓風/現代簡約；自然光、床景、拱門、單色撞色、家景客廳、浴室廁所、綠色植物、廚房吧檯、辦公室、梳化間。含 Wi-Fi、棚燈租借、音響、背景紙。",
+   "price": "",
+   "status": "open",
+   "status_note": "",
+   "notes": "",
+   "fb_only": false,
+   "last_checked": "2026-10-21",
+   "sources": [
+    {
+     "kind": "ponpai",
+     "url": "https://ponpai.tw/studio/thisisstudio2021"
+    }
+   ],
+   "photos": []
   },
   {
    "name": "這室攝影棚-六大生活場景",
@@ -5012,10 +5266,10 @@
    "features": "攝影師打造的實景棚,7種主題。自然光、乾燥花、床景、家景客廳、單色撞色、綠植、花牆、拱門;復古歐風/復古/奇幻/公主/蘿莉塔/哥德。十多盞仿日光持續光,200+套服裝。",
    "price": "NT$1500~3000",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，兩館地址未變，NT$1,500～3,000，無休棚公告",
+   "status_note": "PONPAI 頁面正常上架且列於首頁特別推薦，兩館地址未變，NT$1,500～3,000，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-14",
+   "last_checked": "2026-10-21",
    "sources": [
     {
      "kind": "official",
@@ -5519,10 +5773,10 @@
    "features": "近府中商圈實景棚,奇幻/中國/復古/日式;廢墟地窖、綠植、書房、咖啡廳餐廳。三間棚:隙日之隅(7坪)、椿之間(9坪)、藏龍閣(6坪)。",
    "price": "",
    "status": "open",
-   "status_note": "官網正常，列出 隙日之隅-末日殘響（期間限定）、椿之間、藏龍閣",
+   "status_note": "官網正常，列出 隙日之隅-末日殘響（期間限定至 2026-12-06）、椿之間、藏龍閣 三棚，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-14",
+   "last_checked": "2026-10-21",
    "sources": [
     {
      "kind": "official",
@@ -5589,6 +5843,58 @@
     {
      "u": "http://felidaestudio.com/images/project_img03.jpg",
      "p": "img/貓棚-Felidae-Studio/8b7b2f9f8bcf.webp"
+    },
+    {
+     "u": "http://felidaestudio.com/images/rooms/a48.jpg",
+     "p": "img/貓棚-Felidae-Studio/c00d969879ee.webp"
+    },
+    {
+     "u": "http://felidaestudio.com/images/rooms/a49.jpg",
+     "p": "img/貓棚-Felidae-Studio/5a799c9b7901.webp"
+    },
+    {
+     "u": "http://felidaestudio.com/images/rooms/a50.jpg",
+     "p": "img/貓棚-Felidae-Studio/ba017aabac55.webp"
+    },
+    {
+     "u": "http://felidaestudio.com/images/rooms/a51.jpg",
+     "p": "img/貓棚-Felidae-Studio/c761815ba326.webp"
+    },
+    {
+     "u": "http://felidaestudio.com/images/rooms/a52.jpg",
+     "p": "img/貓棚-Felidae-Studio/aa10e063e7bd.webp"
+    },
+    {
+     "u": "http://felidaestudio.com/images/rooms/a53.jpg",
+     "p": "img/貓棚-Felidae-Studio/4d1eb0192758.webp"
+    },
+    {
+     "u": "http://felidaestudio.com/images/rooms/a54.jpg",
+     "p": "img/貓棚-Felidae-Studio/de2e856f2311.webp"
+    },
+    {
+     "u": "http://felidaestudio.com/images/rooms/a55.jpg",
+     "p": "img/貓棚-Felidae-Studio/8606bd5fe68e.webp"
+    },
+    {
+     "u": "http://felidaestudio.com/images/rooms/a56.jpg",
+     "p": "img/貓棚-Felidae-Studio/2954ad8fb992.webp"
+    },
+    {
+     "u": "http://felidaestudio.com/images/rooms/a57.jpg",
+     "p": "img/貓棚-Felidae-Studio/d52d45748272.webp"
+    },
+    {
+     "u": "http://felidaestudio.com/images/rooms/a58.jpg",
+     "p": "img/貓棚-Felidae-Studio/23e5593010ea.webp"
+    },
+    {
+     "u": "http://felidaestudio.com/images/rooms/a59.jpg",
+     "p": "img/貓棚-Felidae-Studio/2e45ad92022c.webp"
+    },
+    {
+     "u": "http://felidaestudio.com/images/rooms/a60.jpg",
+     "p": "img/貓棚-Felidae-Studio/96f368653d58.webp"
     }
    ]
   },
@@ -5822,10 +6128,10 @@
    "features": "45坪五大區12種主題實景。復古歐風/韓風/英倫/公主/蒸氣龐克/中世紀/工業;法國畫家房、Kingsman武器牆、80年代塗鴉牆、美式劇院、國王加冕、巴洛克花牆、倫敦老酒吧、英式理髮廳、羅馬假期咖啡座。一般1200/H、包場1800/H。",
    "price": "NT$1,200～NT$1,800",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，NT$1,200～1,800，無休棚公告",
+   "status_note": "PONPAI 頁面正常上架，NT$1,200～1,800，地址未變，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-14",
+   "last_checked": "2026-10-21",
    "sources": [
     {
      "kind": "ponpai",
@@ -6295,7 +6601,7 @@
    "status_note": "Google 地圖：「L studio｜主題攝影棚｜coplay｜網紅KOL｜活動空間」標示 24 小時營業，地址一致（高雄市新興區大同一路31號2樓），最近評論 5 天前。地圖上仍無官網連結。",
    "notes": "找不到可確認為「高雄」的非 FB 公開來源。同名的 L.Studio(FB image1987、PONPAI ponpai.tw/studio/image1987)經查證位於**台北市大同區**,非高雄,勿混淆。",
    "fb_only": false,
-   "last_checked": "2026-10-14",
+   "last_checked": "2026-10-21",
    "sources": [],
    "photos": []
   },
@@ -6499,10 +6805,10 @@
    "features": "三層樓大空間。講堂、自然光、單色撞色、家景客廳、床景、小孩房、白/黑棚背景紙、拱門。現代簡約/北歐/韓風/居家/日式/侘寂。寵物友善。",
    "price": "NT$800/小時",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，NT$800/小時，地址未變",
+   "status_note": "PONPAI 頁面正常上架，NT$800/小時，地址未變，場景清單未變",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-14",
+   "last_checked": "2026-10-21",
    "sources": [
     {
      "kind": "ponpai",
@@ -7937,7 +8243,11 @@
    "tags": [
     "床景居家"
    ],
-   "photo": null,
+   "photo": {
+    "p": "img/光復46/87eecaaabb2e.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/b9f5236b-239a-4159-9e8a-59f7cddc78d5",
+    "exact": false
+   },
    "s": 44
   },
   {
@@ -7950,7 +8260,11 @@
    "tags": [
     "廚房"
    ],
-   "photo": null,
+   "photo": {
+    "p": "img/光復46/b5d93efe7f20.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/35b67bec-dcb8-46d0-9ad5-f4a0d8eb3bd5",
+    "exact": false
+   },
    "s": 44
   },
   {
@@ -7963,7 +8277,11 @@
    "tags": [
     "廢墟頹廢"
    ],
-   "photo": null,
+   "photo": {
+    "p": "img/光復46/6c967538ca8c.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/e19a369f-b8ae-40a6-8d1f-b6485a515374",
+    "exact": false
+   },
    "s": 44
   },
   {
@@ -7976,7 +8294,11 @@
    "tags": [
     "梳化間"
    ],
-   "photo": null,
+   "photo": {
+    "p": "img/光復46/9eb3bdcae7cf.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/5d318f1a-9202-4d46-a066-eaafa0664b8e",
+    "exact": false
+   },
    "s": 44
   },
   {
@@ -7990,7 +8312,11 @@
     "白棚",
     "黑棚"
    ],
-   "photo": null,
+   "photo": {
+    "p": "img/光復46/7b6092db1990.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/470ceb8e-92ed-4bf8-9c48-93dc2f80168e",
+    "exact": false
+   },
    "s": 44
   },
   {
@@ -8003,7 +8329,11 @@
    "tags": [
     "自然光"
    ],
-   "photo": null,
+   "photo": {
+    "p": "img/光復46/975f61804e0b.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/82bc0ba9-1fe6-4b71-a04c-bba547975a79",
+    "exact": false
+   },
    "s": 44
   },
   {
@@ -8157,7 +8487,11 @@
    "tags": [
     "咖啡廳"
    ],
-   "photo": null,
+   "photo": {
+    "p": "img/摩利空間/479db00b7940.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/5f5acfdf-129a-43d6-a1aa-243051bcc9a2",
+    "exact": false
+   },
    "s": 23
   },
   {
@@ -8170,7 +8504,11 @@
    "tags": [
     "床景居家"
    ],
-   "photo": null,
+   "photo": {
+    "p": "img/摩利空間/eaef65ed5ab7.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/2239feb3-549b-4e95-b036-c9f7b57378e7",
+    "exact": false
+   },
    "s": 23
   },
   {
@@ -8183,7 +8521,11 @@
    "tags": [
     "床景居家"
    ],
-   "photo": null,
+   "photo": {
+    "p": "img/摩利空間/976499b140aa.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/cf7c3f54-a431-4cdb-a8a5-9e7cfc9bd482",
+    "exact": false
+   },
    "s": 23
   },
   {
@@ -8196,7 +8538,11 @@
    "tags": [
     "庭園"
    ],
-   "photo": null,
+   "photo": {
+    "p": "img/摩利空間/9425b0fc6ab4.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/0ffeccc4-b010-4d7e-8416-6ee0339b8ded",
+    "exact": false
+   },
    "s": 23
   },
   {
@@ -8209,7 +8555,11 @@
    "tags": [
     "廚房"
    ],
-   "photo": null,
+   "photo": {
+    "p": "img/摩利空間/1d3b6ea78ee4.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/1f6cf595-2cb8-4c5d-9138-e4a4661ffd15",
+    "exact": false
+   },
    "s": 23
   },
   {
@@ -8918,7 +9268,7 @@
     "u": "https://www.artworkstudio.tw/upload/banner/2025082711074744zsw.jpg",
     "exact": false
    },
-   "s": 85
+   "s": 86
   },
   {
    "id": 19,
@@ -8938,7 +9288,7 @@
     "u": "https://www.artworkstudio.tw/upload/banner/20250827110527wy15r.jpg",
     "exact": true
    },
-   "s": 85
+   "s": 86
   },
   {
    "id": 20,
@@ -8959,7 +9309,7 @@
     "u": "https://www.artworkstudio.tw/upload/banner/20250827111236yq0ge.jpg",
     "exact": true
    },
-   "s": 85
+   "s": 86
   },
   {
    "id": 21,
@@ -8978,7 +9328,7 @@
     "u": "https://annieko.tw/wp-content/uploads/20260423221129_0_a7ba71.jpg",
     "exact": false
    },
-   "s": 101
+   "s": 102
   },
   {
    "id": 22,
@@ -8997,7 +9347,7 @@
     "u": "https://annieko.tw/wp-content/uploads/20260423221143_0_d05124.jpg",
     "exact": true
    },
-   "s": 101
+   "s": 102
   },
   {
    "id": 23,
@@ -9017,7 +9367,7 @@
     "u": "https://annieko.tw/wp-content/uploads/20260423221140_0_32d50a.jpg",
     "exact": true
    },
-   "s": 101
+   "s": 102
   },
   {
    "id": 24,
@@ -9034,7 +9384,7 @@
     "u": "https://annieko.tw/wp-content/uploads/20260423221210_0_10881d.jpg",
     "exact": false
    },
-   "s": 101
+   "s": 102
   },
   {
    "id": 25,
@@ -9054,7 +9404,7 @@
     "u": "https://annieko.tw/wp-content/uploads/20260423221104_0_2a4212.jpg",
     "exact": true
    },
-   "s": 101
+   "s": 102
   },
   {
    "id": 46,
@@ -9167,7 +9517,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/0bfc63dc-7f86-47b4-86cf-68d168d7f556",
     "exact": false
    },
-   "s": 103
+   "s": 104
   },
   {
    "id": 66,
@@ -9186,7 +9536,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/13cb74c5-1113-46d3-be8c-962c92e4d524",
     "exact": false
    },
-   "s": 103
+   "s": 104
   },
   {
    "id": 67,
@@ -9206,7 +9556,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/39fd4ece-1ace-42b7-94e4-d204620aa2c5",
     "exact": false
    },
-   "s": 103
+   "s": 104
   },
   {
    "id": 68,
@@ -9224,7 +9574,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/3f9adcd1-76d4-400a-93ba-3847ab412e70",
     "exact": false
    },
-   "s": 103
+   "s": 104
   },
   {
    "id": 69,
@@ -9243,7 +9593,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/40ea3ff2-251b-407f-9cb2-2c09eb7c3680",
     "exact": false
    },
-   "s": 103
+   "s": 104
   },
   {
    "id": 70,
@@ -9261,7 +9611,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/4611b9f4-51f3-48e6-a5eb-519e7673cd66",
     "exact": false
    },
-   "s": 103
+   "s": 104
   },
   {
    "id": 71,
@@ -9279,7 +9629,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/586312b6-97d7-4754-93e4-815a6527d63b",
     "exact": false
    },
-   "s": 103
+   "s": 104
   },
   {
    "id": 72,
@@ -9297,7 +9647,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/590fde53-c30e-4150-bee3-1473cf4ff118",
     "exact": false
    },
-   "s": 103
+   "s": 104
   },
   {
    "id": 73,
@@ -9316,7 +9666,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/5e025203-7f28-4fa8-bb2b-f2a246b28e5d",
     "exact": false
    },
-   "s": 103
+   "s": 104
   },
   {
    "id": 74,
@@ -9335,7 +9685,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/5fc7a1b1-c888-4e71-954d-bdf0038fc65c",
     "exact": false
    },
-   "s": 103
+   "s": 104
   },
   {
    "id": 75,
@@ -9353,7 +9703,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/708147a0-9499-4b7b-b26c-4b4c28c04915",
     "exact": false
    },
-   "s": 103
+   "s": 104
   },
   {
    "id": 76,
@@ -9371,7 +9721,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/774e2cb9-b014-494c-a1dc-1fd4658d935c",
     "exact": false
    },
-   "s": 103
+   "s": 104
   },
   {
    "id": 77,
@@ -9391,7 +9741,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/81c48530-0de7-4a19-809e-3b6897cdd5c4",
     "exact": false
    },
-   "s": 103
+   "s": 104
   },
   {
    "id": 78,
@@ -9410,7 +9760,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/823be8d9-f04b-4d09-9d38-4151fc02c45d",
     "exact": false
    },
-   "s": 103
+   "s": 104
   },
   {
    "id": 79,
@@ -9429,7 +9779,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/87ae7f20-3fec-4ff6-98a7-ba2586e1ab3a",
     "exact": false
    },
-   "s": 103
+   "s": 104
   },
   {
    "id": 80,
@@ -9448,7 +9798,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/87f15d70-9e2f-4eb4-bbd3-622d6ebc6447",
     "exact": false
    },
-   "s": 103
+   "s": 104
   },
   {
    "id": 85,
@@ -9466,7 +9816,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/dfd17d59-539a-4152-96d4-e3434430a5e2",
     "exact": false
    },
-   "s": 81
+   "s": 82
   },
   {
    "id": 86,
@@ -9484,7 +9834,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/f3c99c75-b4bb-49b3-88f9-dfe54aa40c4c",
     "exact": false
    },
-   "s": 81
+   "s": 82
   },
   {
    "id": 87,
@@ -9502,7 +9852,7 @@
     "u": "https://static.wixstatic.com/media/14bb71_0cf4c97007ac400a9fbc1d9d37a1b7ce~mv2.jpg",
     "exact": true
    },
-   "s": 81
+   "s": 82
   },
   {
    "id": 88,
@@ -9519,7 +9869,7 @@
     "u": "https://static.wixstatic.com/media/14bb71_16b45984039e485daca720b381957619~mv2.jpg",
     "exact": false
    },
-   "s": 81
+   "s": 82
   },
   {
    "id": 89,
@@ -9538,7 +9888,7 @@
     "u": "https://static.wixstatic.com/media/14bb71_0bdc7929a1624357a5f351ed6f2d4d3d~mv2.jpg",
     "exact": true
    },
-   "s": 81
+   "s": 82
   },
   {
    "id": 90,
@@ -9558,7 +9908,7 @@
     "u": "https://static.wixstatic.com/media/14bb71_135b268c2e524075832464e50bfbfef8~mv2.jpg",
     "exact": true
    },
-   "s": 81
+   "s": 82
   },
   {
    "id": 91,
@@ -9576,7 +9926,7 @@
     "u": "https://static.wixstatic.com/media/14bb71_16e99de0440a4bd49b2babaad440e123~mv2.jpg",
     "exact": true
    },
-   "s": 81
+   "s": 82
   },
   {
    "id": 118,
@@ -9594,7 +9944,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/04399dca-5da5-449c-9732-c48f703d790c",
     "exact": false
    },
-   "s": 87
+   "s": 88
   },
   {
    "id": 119,
@@ -9611,7 +9961,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/0675152f-0840-4e73-9869-aa83cf94d787",
     "exact": false
    },
-   "s": 87
+   "s": 88
   },
   {
    "id": 120,
@@ -9630,7 +9980,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/0e87382b-51ff-4454-82ee-2bbdc33c0789",
     "exact": false
    },
-   "s": 87
+   "s": 88
   },
   {
    "id": 121,
@@ -9648,7 +9998,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/164e668a-e364-46a5-a8bf-e0540bd951cf",
     "exact": false
    },
-   "s": 87
+   "s": 88
   },
   {
    "id": 122,
@@ -9666,7 +10016,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/171920d4-26de-4911-a989-adb023e6cac0",
     "exact": false
    },
-   "s": 87
+   "s": 88
   },
   {
    "id": 123,
@@ -9683,7 +10033,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/185ef964-1c47-4416-9213-b60f1ed6b6f8",
     "exact": false
    },
-   "s": 87
+   "s": 88
   },
   {
    "id": 124,
@@ -9700,7 +10050,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/185ef964-1c47-4416-9213-b60f1ed6b6f8?img_resize_type=high",
     "exact": false
    },
-   "s": 87
+   "s": 88
   },
   {
    "id": 125,
@@ -9718,7 +10068,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/1b011d84-aa78-4fe8-b4e1-1467ef9f447d",
     "exact": false
    },
-   "s": 87
+   "s": 88
   },
   {
    "id": 126,
@@ -9736,7 +10086,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/2c468bbb-2bfe-4673-b1fd-5ffa495c9e6a",
     "exact": false
    },
-   "s": 87
+   "s": 88
   },
   {
    "id": 127,
@@ -9753,7 +10103,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/3126fc1d-20ab-4df2-9f2f-20801f8bedae",
     "exact": false
    },
-   "s": 87
+   "s": 88
   },
   {
    "id": 128,
@@ -9770,7 +10120,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/52de1dd5-89db-4a07-9f22-1073607f2a5d",
     "exact": false
    },
-   "s": 87
+   "s": 88
   },
   {
    "id": 129,
@@ -9787,7 +10137,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/57c59f75-48a6-4a4f-8bb7-e57f64dc14b6",
     "exact": false
    },
-   "s": 87
+   "s": 88
   },
   {
    "id": 130,
@@ -9806,7 +10156,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/6271ec62-7fed-49b7-bea7-1c05db47425f",
     "exact": false
    },
-   "s": 87
+   "s": 88
   },
   {
    "id": 131,
@@ -9825,7 +10175,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/63931b2f-ca02-4015-a68a-f34e066f5193",
     "exact": false
    },
-   "s": 87
+   "s": 88
   },
   {
    "id": 146,
@@ -9843,7 +10193,7 @@
     "u": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlPwwadVWQAFBOIVTasEO8hYfTCwG90Jm_uRFzOlOzdTc1PsegW2XYheGdkc1-SROujo6AdUKVF4xi7v5hYs3gJKN7esTDPdpMo2K0xir46n7W0GNsVS84h9sRXdmwThJ5FXh3s=w800-h600-k-no",
     "exact": false
    },
-   "s": 84
+   "s": 85
   },
   {
    "id": 147,
@@ -9860,7 +10210,7 @@
     "u": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWld6vU6335ixyu9wGv9Yd7qmfHOBaOzaWxvvgmFc8EXzVVmLThnXkG8xkAnc--SDQ529IJtb-5lek-f8KY0GkZfyunS3FkFJ47ZLOhyGP6rsAzYpNUs6NHWG7VrLrQv5HY_tp4S=w800-h600-k-no",
     "exact": false
    },
-   "s": 84
+   "s": 85
   },
   {
    "id": 148,
@@ -9877,7 +10227,7 @@
     "u": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnR6JHvtv-yJxptHu8C2pFd6Ju-16YQqhlaKdfCClzlNuysdadp9vqk82pkOpCZEDm1qqYFDBnnDU4o6y2iOIfjfRbrS646tnecq5fCCjNJxKMId4xnKIGCQlVSrn3x-K_1MHY=w800-h600-k-no",
     "exact": false
    },
-   "s": 84
+   "s": 85
   },
   {
    "id": 149,
@@ -9891,7 +10241,7 @@
     "異國風"
    ],
    "photo": null,
-   "s": 84
+   "s": 85
   },
   {
    "id": 150,
@@ -9904,7 +10254,7 @@
     "酒吧舞台"
    ],
    "photo": null,
-   "s": 84
+   "s": 85
   },
   {
    "id": 151,
@@ -9948,6 +10298,7 @@
    "period": "",
    "price": "",
    "tags": [
+    "無縫牆",
     "白棚"
    ],
    "photo": {
@@ -9994,7 +10345,7 @@
     "黑棚"
    ],
    "photo": null,
-   "s": 88
+   "s": 89
   },
   {
    "id": 195,
@@ -10033,7 +10384,7 @@
     "u": "https://static.wixstatic.com/media/36dcad_5262a2962efe4d43ae05ba9d89c0bc22~mv2.jpg",
     "exact": true
    },
-   "s": 102
+   "s": 103
   },
   {
    "id": 210,
@@ -10053,7 +10404,7 @@
     "u": "https://static.wixstatic.com/media/36dcad_7b8c9e729c6b46aa837c056500d6297d~mv2.jpg",
     "exact": true
    },
-   "s": 102
+   "s": 103
   },
   {
    "id": 247,
@@ -10201,7 +10552,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/07f6d077-835b-46f8-9129-f856d18dd3cf",
     "exact": false
    },
-   "s": 83
+   "s": 84
   },
   {
    "id": 263,
@@ -10218,7 +10569,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/07f6d077-835b-46f8-9129-f856d18dd3cf?img_resize_type=high",
     "exact": false
    },
-   "s": 83
+   "s": 84
   },
   {
    "id": 264,
@@ -10235,7 +10586,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/098a88e5-6a94-4518-9471-9464d6a9430a",
     "exact": false
    },
-   "s": 83
+   "s": 84
   },
   {
    "id": 265,
@@ -10253,7 +10604,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/098a88e5-6a94-4518-9471-9464d6a9430a?img_resize_type=high",
     "exact": false
    },
-   "s": 83
+   "s": 84
   },
   {
    "id": 266,
@@ -10270,7 +10621,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/54a4c723-db8e-4b26-8f69-39884323e18a?img_resize_type=high",
     "exact": false
    },
-   "s": 83
+   "s": 84
   },
   {
    "id": 267,
@@ -10288,7 +10639,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/659413b3-5ad3-42db-9639-3f5d651dbf37",
     "exact": false
    },
-   "s": 83
+   "s": 84
   },
   {
    "id": 268,
@@ -10306,7 +10657,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/659413b3-5ad3-42db-9639-3f5d651dbf37?img_resize_type=high",
     "exact": false
    },
-   "s": 83
+   "s": 84
   },
   {
    "id": 269,
@@ -10324,7 +10675,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/8679d250-71ad-492d-82cb-72fb7d07ec28?img_resize_type=high",
     "exact": false
    },
-   "s": 83
+   "s": 84
   },
   {
    "id": 277,
@@ -10462,7 +10813,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/0bf98f59-bb8d-42d7-b7c7-75a051cafdc6",
     "exact": false
    },
-   "s": 90
+   "s": 91
   },
   {
    "id": 293,
@@ -10486,7 +10837,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/103caba1-dab5-418b-a5e0-0ae61d89e8e6",
     "exact": false
    },
-   "s": 90
+   "s": 91
   },
   {
    "id": 294,
@@ -10504,7 +10855,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/22397dac-3c2e-4330-a0c5-cfe9d82f3eb3",
     "exact": false
    },
-   "s": 90
+   "s": 91
   },
   {
    "id": 295,
@@ -10523,7 +10874,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/70518cd3-4ca9-492b-89cf-01053b711680",
     "exact": false
    },
-   "s": 90
+   "s": 91
   },
   {
    "id": 296,
@@ -10541,7 +10892,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/7d5a4251-899f-433d-881e-18b9ef9ca287",
     "exact": false
    },
-   "s": 90
+   "s": 91
   },
   {
    "id": 297,
@@ -10561,7 +10912,7 @@
     "u": "https://www.shelflife-studio.com/wp-content/uploads/2025/09/01-1-波希米亞.jpg",
     "exact": true
    },
-   "s": 90
+   "s": 91
   },
   {
    "id": 298,
@@ -10581,7 +10932,7 @@
     "u": "https://www.shelflife-studio.com/wp-content/uploads/2025/09/03-1-無印風.jpg",
     "exact": true
    },
-   "s": 90
+   "s": 91
   },
   {
    "id": 299,
@@ -10600,7 +10951,7 @@
     "u": "https://www.shelflife-studio.com/wp-content/uploads/2025/09/07-1-商品攝影.jpg",
     "exact": true
    },
-   "s": 90
+   "s": 91
   },
   {
    "id": 300,
@@ -10617,7 +10968,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/9ce25da9-5e6c-4b58-804c-96e00b4f6ada",
     "exact": false
    },
-   "s": 90
+   "s": 91
   },
   {
    "id": 301,
@@ -10635,7 +10986,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/c45dddaf-4081-4466-84c7-8cc09b11587f",
     "exact": false
    },
-   "s": 90
+   "s": 91
   },
   {
    "id": 302,
@@ -10653,7 +11004,7 @@
     "u": "https://www.shelflife-studio.com/wp-content/uploads/2025/09/02-1-英國老公寓.jpg",
     "exact": true
    },
-   "s": 90
+   "s": 91
   },
   {
    "id": 303,
@@ -10671,7 +11022,7 @@
     "u": "https://www.shelflife-studio.com/wp-content/uploads/2025/09/04-1-鋼琴植栽.jpg",
     "exact": true
    },
-   "s": 90
+   "s": 91
   },
   {
    "id": 304,
@@ -10688,7 +11039,7 @@
     "u": "https://www.shelflife-studio.com/wp-content/uploads/2025/09/05-2-髮妝區.jpg",
     "exact": true
    },
-   "s": 90
+   "s": 91
   },
   {
    "id": 317,
@@ -10854,7 +11205,7 @@
     "u": "https://static.wixstatic.com/media/ed4b7e_04b46f4006214efab93c53540e869b1d~mv2.jpg",
     "exact": true
    },
-   "s": 91
+   "s": 92
   },
   {
    "id": 345,
@@ -10878,7 +11229,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/16b7e40e-bcd5-425a-bcd6-f5aca9a22619?img_resize_type=high",
     "exact": false
    },
-   "s": 98
+   "s": 99
   },
   {
    "id": 373,
@@ -10895,7 +11246,7 @@
     "u": "https://i.imgur.com/GBWuLUQ.jpeg",
     "exact": false
    },
-   "s": 94
+   "s": 95
   },
   {
    "id": 378,
@@ -11285,7 +11636,7 @@
     "u": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWloAosCu8Hfejz0Br9Dnt9lnYYqqDUhwlIGysEy4Bs-rNc1gylhMQIDzEsMFe4Xx-uSrh5FIgwm4gk9js_y8EvYDKjj89q8LKmTO4T5BxN9oa8DwXlAxZoYUFipolDM_0IeidVb=w800-h600-k-no",
     "exact": false
    },
-   "s": 95
+   "s": 96
   },
   {
    "id": 443,
@@ -11322,7 +11673,7 @@
     "u": "http://felidaestudio.com/images/project_img02.jpg",
     "exact": true
    },
-   "s": 96
+   "s": 97
   },
   {
    "id": 445,
@@ -11340,7 +11691,7 @@
     "u": "http://felidaestudio.com/images/project_img03.jpg",
     "exact": true
    },
-   "s": 96
+   "s": 97
   },
   {
    "id": 446,
@@ -11350,6 +11701,7 @@
    "period": "",
    "price": "",
    "tags": [
+    "哥德",
     "奇幻",
     "廢墟頹廢"
    ],
@@ -11358,7 +11710,7 @@
     "u": "http://felidaestudio.com/images/project_img11.jpg",
     "exact": true
    },
-   "s": 96
+   "s": 97
   },
   {
    "id": 447,
@@ -11395,7 +11747,7 @@
     "u": "http://skyceiling9.weebly.com/uploads/6/3/8/8/63889309/3815116_orig.jpg",
     "exact": false
    },
-   "s": 99
+   "s": 100
   },
   {
    "id": 468,
@@ -11413,7 +11765,7 @@
     "u": "https://skyceiling9.weebly.com/uploads/6/3/8/8/63889309/1406976_orig.jpg",
     "exact": false
    },
-   "s": 99
+   "s": 100
   },
   {
    "id": 469,
@@ -11432,7 +11784,7 @@
     "u": "https://skyceiling9.weebly.com/uploads/6/3/8/8/63889309/3815116_orig.jpg",
     "exact": false
    },
-   "s": 99
+   "s": 100
   },
   {
    "id": 494,
@@ -11447,7 +11799,7 @@
     "自然光"
    ],
    "photo": null,
-   "s": 97
+   "s": 98
   },
   {
    "id": 493,
@@ -11460,7 +11812,7 @@
     "Cosplay友善"
    ],
    "photo": null,
-   "s": 97
+   "s": 98
   },
   {
    "id": 35,
@@ -11478,7 +11830,7 @@
     "u": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk60tNLo-QHeRkMp9J0XGw229IKzdM5U2dkkrVy4w-cEFOepao5sLcfObAQ5fKbNzzvaIIGpAFGOEBpvDpZ9G3Rcr35KKMhocn7477ZaMTnMAp4aOiBvXHUChrEHSGrTxoX7ECJ=w800-h600-k-no",
     "exact": false
    },
-   "s": 110
+   "s": 111
   },
   {
    "id": 36,
@@ -11495,7 +11847,7 @@
     "u": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlQJHKOby6yFcLKT2B8vUl3FRj0f2-Ih9wwAApCsHUPD4G3gJTlfkSKUbhFo_rgpa92PZ_3svYJCL1D3fw_1WpIusgv_BnCZtw7844ZQiwc3x8piLPI4idZEmVxka0WthQ7QMMOgnKMZ5w=w800-h600-k-no",
     "exact": false
    },
-   "s": 110
+   "s": 111
   },
   {
    "id": 37,
@@ -11512,7 +11864,7 @@
     "u": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnhX75BYvK3553kktooXTZqKr_zRES1-ihuTs5vf90WpV49Cm48tE8QMtBeAaZldqddl4Bl_QG4xMh1SyPDuHDp1JaD7smdtLrjVn8thH7ddSHvrV-vnt1RkHs_yZ7e_H9NjzFUaA=w800-h600-k-no",
     "exact": false
    },
-   "s": 110
+   "s": 111
   },
   {
    "id": 38,
@@ -11525,7 +11877,7 @@
     "自然光"
    ],
    "photo": null,
-   "s": 110
+   "s": 111
   },
   {
    "id": 39,
@@ -11538,7 +11890,7 @@
     "韓系"
    ],
    "photo": null,
-   "s": 110
+   "s": 111
   },
   {
    "id": 103,
@@ -11556,7 +11908,7 @@
     "花景"
    ],
    "photo": null,
-   "s": 107
+   "s": 108
   },
   {
    "id": 104,
@@ -11570,7 +11922,7 @@
     "花景"
    ],
    "photo": null,
-   "s": 107
+   "s": 108
   },
   {
    "id": 105,
@@ -11586,7 +11938,7 @@
     "花景"
    ],
    "photo": null,
-   "s": 107
+   "s": 108
   },
   {
    "id": 106,
@@ -11601,7 +11953,7 @@
     "水景"
    ],
    "photo": null,
-   "s": 107
+   "s": 108
   },
   {
    "id": 397,
@@ -11619,7 +11971,7 @@
     "u": "https://stationstudio.weebly.com/uploads/1/0/0/8/100851098/28_orig.jpg",
     "exact": true
    },
-   "s": 105
+   "s": 106
   },
   {
    "id": 398,
@@ -11638,7 +11990,7 @@
     "u": "https://stationstudio.weebly.com/uploads/1/0/0/8/100851098/444_orig.jpg",
     "exact": false
    },
-   "s": 105
+   "s": 106
   },
   {
    "id": 399,
@@ -11656,7 +12008,7 @@
     "u": "https://stationstudio.weebly.com/uploads/1/0/0/8/100851098/s-3811741522_orig.jpg",
     "exact": false
    },
-   "s": 105
+   "s": 106
   },
   {
    "id": 400,
@@ -11676,7 +12028,7 @@
     "u": "https://stationstudio.weebly.com/uploads/1/0/0/8/100851098/44444_orig.jpg",
     "exact": true
    },
-   "s": 105
+   "s": 106
   },
   {
    "id": 448,
@@ -11693,7 +12045,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/0d7c5d1f-ab09-40f2-8e0d-a3abd81e5a29?img_resize_type=high",
     "exact": false
    },
-   "s": 109
+   "s": 110
   },
   {
    "id": 449,
@@ -11710,7 +12062,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/224046a7-8563-44b8-9b31-1d3da1c0dab1?img_resize_type=high",
     "exact": false
    },
-   "s": 109
+   "s": 110
   },
   {
    "id": 450,
@@ -11728,7 +12080,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/27d49683-97b6-4f45-95af-bbc64e828f8a?img_resize_type=high",
     "exact": false
    },
-   "s": 109
+   "s": 110
   },
   {
    "id": 451,
@@ -11746,7 +12098,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/356d7b8e-e03c-480f-8781-c35e7b271162?img_resize_type=high",
     "exact": false
    },
-   "s": 109
+   "s": 110
   },
   {
    "id": 452,
@@ -11763,7 +12115,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/408570df-5e99-4f6c-89db-77a5d12a4c9b?img_resize_type=high",
     "exact": false
    },
-   "s": 109
+   "s": 110
   },
   {
    "id": 453,
@@ -11780,7 +12132,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/4189932c-0472-4ea2-97ee-9cc6060c226d?img_resize_type=high",
     "exact": false
    },
-   "s": 109
+   "s": 110
   },
   {
    "id": 454,
@@ -11797,7 +12149,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/5b9eedd8-783c-4041-8067-61610b132ee3",
     "exact": false
    },
-   "s": 109
+   "s": 110
   },
   {
    "id": 455,
@@ -11815,7 +12167,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/82ddc709-c5c2-4102-b3ae-f19420ce8709?img_resize_type=high",
     "exact": false
    },
-   "s": 109
+   "s": 110
   },
   {
    "id": 456,
@@ -11834,7 +12186,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/864ba531-19e5-4d73-9a2c-ecd111cf4216?img_resize_type=high",
     "exact": false
    },
-   "s": 109
+   "s": 110
   },
   {
    "id": 457,
@@ -11851,7 +12203,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/b11a7686-0546-4f36-9faf-8e914b6eea2f?img_resize_type=high",
     "exact": false
    },
-   "s": 109
+   "s": 110
   },
   {
    "id": 483,
@@ -11868,7 +12220,7 @@
     "u": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlR0ozNI-uNdksWrOd3t7CnQu5BdCnfW03WNQNljmGhjvMuOFn5112ouK0eJvLiuMphGjBDs5hc3dL5DECRcCsXF_8lXYmnnV5QPe1px_Jnu4NDqqI7QVjBiOKSz1Orq2bUFFyCKlIOcltX=w800-h600-k-no",
     "exact": false
    },
-   "s": 104
+   "s": 105
   },
   {
    "id": 484,
@@ -11884,7 +12236,7 @@
     "韓系"
    ],
    "photo": null,
-   "s": 106
+   "s": 107
   },
   {
    "id": 485,
@@ -11900,7 +12252,7 @@
     "自然光"
    ],
    "photo": null,
-   "s": 106
+   "s": 107
   },
   {
    "id": 4,
@@ -11918,7 +12270,7 @@
     "u": "https://static.wixstatic.com/media/2e8e3a_40f392b2df3d4cdd9e68bd402dedb3af~mv2.jpg/v1/fill/w_980,h_653,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e8e3a_40f392b2df3d4cdd9e68bd402dedb3af~mv2.jpg",
     "exact": false
    },
-   "s": 111
+   "s": 112
   },
   {
    "id": 5,
@@ -11936,7 +12288,7 @@
     "u": "https://static.wixstatic.com/media/2e8e3a_4537c82a95004f928d7d1839f44df136~mv2.jpg/v1/fill/w_980,h_653,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e8e3a_4537c82a95004f928d7d1839f44df136~mv2.jpg",
     "exact": false
    },
-   "s": 111
+   "s": 112
   },
   {
    "id": 6,
@@ -11953,7 +12305,7 @@
     "u": "https://static.wixstatic.com/media/2e8e3a_6147135ce76846f79b09bb45170a77cc~mv2.jpg/v1/fill/w_980,h_654,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e8e3a_6147135ce76846f79b09bb45170a77cc~mv2.jpg",
     "exact": false
    },
-   "s": 111
+   "s": 112
   },
   {
    "id": 7,
@@ -11971,7 +12323,7 @@
     "u": "https://static.wixstatic.com/media/2e8e3a_7972b44e0ac6492ca222bf17fb4e9857~mv2.jpg/v1/fill/w_980,h_551,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e8e3a_7972b44e0ac6492ca222bf17fb4e9857~mv2.jpg",
     "exact": false
    },
-   "s": 111
+   "s": 112
   },
   {
    "id": 8,
@@ -11989,7 +12341,7 @@
     "u": "https://static.wixstatic.com/media/2e8e3a_90a3142e1c1a4cc89724cfd4d5bef16b~mv2.jpg/v1/fill/w_980,h_653,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e8e3a_90a3142e1c1a4cc89724cfd4d5bef16b~mv2.jpg",
     "exact": false
    },
-   "s": 111
+   "s": 112
   },
   {
    "id": 9,
@@ -12007,7 +12359,7 @@
     "u": "https://static.wixstatic.com/media/2e8e3a_93b06b03353a487da2fa974f2460d3ec~mv2.jpg/v1/fill/w_980,h_653,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e8e3a_93b06b03353a487da2fa974f2460d3ec~mv2.jpg",
     "exact": false
    },
-   "s": 111
+   "s": 112
   },
   {
    "id": 10,
@@ -12025,7 +12377,7 @@
     "u": "https://static.wixstatic.com/media/2e8e3a_bb0a43e3c40a4db8b89fa45086b99da2~mv2.jpg/v1/fill/w_980,h_652,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e8e3a_bb0a43e3c40a4db8b89fa45086b99da2~mv2.jpg",
     "exact": false
    },
-   "s": 111
+   "s": 112
   },
   {
    "id": 11,
@@ -12044,7 +12396,7 @@
     "u": "https://static.wixstatic.com/media/2e8e3a_c581b2a3b6d741bdb5da5391de6ce533~mv2.jpg/v1/fill/w_980,h_653,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e8e3a_c581b2a3b6d741bdb5da5391de6ce533~mv2.jpg",
     "exact": false
    },
-   "s": 111
+   "s": 112
   },
   {
    "id": 12,
@@ -12059,7 +12411,7 @@
     "歐風"
    ],
    "photo": null,
-   "s": 111
+   "s": 112
   },
   {
    "id": 13,
@@ -12074,7 +12426,7 @@
     "水景"
    ],
    "photo": null,
-   "s": 111
+   "s": 112
   },
   {
    "id": 14,
@@ -12088,7 +12440,7 @@
     "歐風"
    ],
    "photo": null,
-   "s": 111
+   "s": 112
   },
   {
    "id": 15,
@@ -12101,7 +12453,7 @@
     "歐風"
    ],
    "photo": null,
-   "s": 111
+   "s": 112
   },
   {
    "id": 16,
@@ -12115,7 +12467,7 @@
     "歐風"
    ],
    "photo": null,
-   "s": 111
+   "s": 112
   },
   {
    "id": 439,
@@ -14209,6 +14561,7 @@
    "price": "",
    "tags": [
     "單色背景",
+    "無縫牆",
     "白棚"
    ],
    "photo": {
@@ -14661,7 +15014,7 @@
     "u": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWktjXzDNXWo6TYWzxxv3Dv5V-JMrCsJ4lIL96g2OUc9_ujqgOWSA--ko8wuf7PMs1r7PdgBbebEyOu5cShA3oz18N51bu6CxsWPy1UF4KVOiasq52p9VbmRndVoTUcSr1SOO_CC=w800-h600-k-no",
     "exact": false
    },
-   "s": 126
+   "s": 127
   },
   {
    "id": 3,
@@ -14679,7 +15032,7 @@
     "u": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkukhECXwFMawTmA28PrkqgU3h4h8cVmcwwH5hecvJlNhJEEIp_wT6ZvEMJ4T0OadB2L5gLkvwClvk_EddNOYitUHVTjWN-Ko8WiCz4pldmmIwCqG4UasOQ6VLpHgEk_POmBzN1=w800-h600-k-no",
     "exact": false
    },
-   "s": 126
+   "s": 127
   },
   {
    "id": 107,
@@ -14696,7 +15049,7 @@
     "u": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWklB99S0dLXBo-8fvMctKYQ1FsuVG_-tcswyI3rgeIK0ZwtTdvZz6MQmqtOYFsKDjN9tZiw_3SAMxBI4SKpL-TApcFE_WiCR8K7vV9v5rmbbdbC19FC3mqadqDPzu1sB_Vaommnsw=w800-h600-k-no",
     "exact": false
    },
-   "s": 117
+   "s": 118
   },
   {
    "id": 108,
@@ -14713,7 +15066,7 @@
     "u": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnYa-q1sd4l9o5YIytcZMIumJiBAeQCyk_sQr779d-9ZhgNMTOBT2HGUloaEkhMBAr4H_aUWT8M2hJ2gLCDa_J0n8jKBeeZTWI94tzWn1iVXlAujTnRexYdYinpfIAnZWojxsjr8rOgknMi=w800-h600-k-no",
     "exact": false
    },
-   "s": 117
+   "s": 118
   },
   {
    "id": 109,
@@ -14730,7 +15083,7 @@
     "u": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnatCLq4w5IGEs9DOtfy28OMK8iPl_gl4JYRfSHpljqBUPzFytAjOAJcgRVf56y-N7l0DdgxA6gESQot7c2uPVWP6MZLsv3utGm9go4oiRyPKQi78z1HPQpG5ZcsEHnHwQUQMQ=w800-h600-k-no",
     "exact": false
    },
-   "s": 117
+   "s": 118
   },
   {
    "id": 110,
@@ -14744,7 +15097,7 @@
     "復古老件"
    ],
    "photo": null,
-   "s": 117
+   "s": 118
   },
   {
    "id": 111,
@@ -14758,7 +15111,7 @@
     "科技未來"
    ],
    "photo": null,
-   "s": 117
+   "s": 118
   },
   {
    "id": 211,
@@ -14778,7 +15131,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/00e78365-53ba-4295-a300-3529b2b36b3a",
     "exact": false
    },
-   "s": 125
+   "s": 126
   },
   {
    "id": 212,
@@ -14799,7 +15152,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/2963fa4e-6fa8-4515-9d26-f0e321c22d73",
     "exact": false
    },
-   "s": 125
+   "s": 126
   },
   {
    "id": 213,
@@ -14818,7 +15171,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/59f59a14-b1c1-420e-b1d8-2a4b7ab88fdd",
     "exact": false
    },
-   "s": 125
+   "s": 126
   },
   {
    "id": 214,
@@ -14838,7 +15191,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/7d602d93-7469-479c-915e-2f0378d9e7e6",
     "exact": false
    },
-   "s": 125
+   "s": 126
   },
   {
    "id": 215,
@@ -14857,7 +15210,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/7d684684-12ee-46f0-a1a2-48dea47b0077",
     "exact": false
    },
-   "s": 125
+   "s": 126
   },
   {
    "id": 216,
@@ -14875,7 +15228,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/91c57839-8b28-4e91-93c2-c346a6e3760b",
     "exact": false
    },
-   "s": 125
+   "s": 126
   },
   {
    "id": 217,
@@ -14893,7 +15246,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/c42daf6f-ef81-417c-b2da-4ba43e5544e8",
     "exact": false
    },
-   "s": 125
+   "s": 126
   },
   {
    "id": 218,
@@ -14911,7 +15264,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/d44476fa-e5cf-474c-b315-335793e3e3d9",
     "exact": false
    },
-   "s": 125
+   "s": 126
   },
   {
    "id": 219,
@@ -14931,7 +15284,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/e72a87fd-aa5c-47f2-932a-0dd57253f3c1",
     "exact": false
    },
-   "s": 125
+   "s": 126
   },
   {
    "id": 220,
@@ -14949,7 +15302,7 @@
     "戶外實景"
    ],
    "photo": null,
-   "s": 125
+   "s": 126
   },
   {
    "id": 221,
@@ -14963,7 +15316,7 @@
     "網美風"
    ],
    "photo": null,
-   "s": 125
+   "s": 126
   },
   {
    "id": 222,
@@ -14978,7 +15331,7 @@
     "網美風"
    ],
    "photo": null,
-   "s": 125
+   "s": 126
   },
   {
    "id": 223,
@@ -14991,7 +15344,7 @@
     "床景居家"
    ],
    "photo": null,
-   "s": 125
+   "s": 126
   },
   {
    "id": 224,
@@ -15005,7 +15358,7 @@
     "廚房"
    ],
    "photo": null,
-   "s": 125
+   "s": 126
   },
   {
    "id": 225,
@@ -15019,7 +15372,7 @@
     "白棚"
    ],
    "photo": null,
-   "s": 125
+   "s": 126
   },
   {
    "id": 226,
@@ -15033,7 +15386,7 @@
     "韓系"
    ],
    "photo": null,
-   "s": 125
+   "s": 126
   },
   {
    "id": 270,
@@ -15051,7 +15404,7 @@
     "u": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkYD7gjtnOJVUdPwIZCx2JeshBmRMRVYajHFMbrBzSDi_gFmcqzUA9twPX11shkomH0VoYgVcNgDbbC8uepEFfybEAWSaK095GfH2daiPB668rxgGn1Z_V2qVED_QiAa2c7uUyB=w800-h600-k-no",
     "exact": false
    },
-   "s": 115
+   "s": 116
   },
   {
    "id": 271,
@@ -15068,7 +15421,7 @@
     "u": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmSq4C84jt0IAUvtF6Xqewy3DMv3M-q_rjZ4sxEXqGFu96gOPBGfq-WqQUVdRGdoXPk4GACP8E8KM0HAIXMTyuwzXYKSWA7G7i5d5CUQHFhq7H8j9F0o17p15USieEon7AMMCJsiqlGe6c=w800-h600-k-no",
     "exact": false
    },
-   "s": 115
+   "s": 116
   },
   {
    "id": 272,
@@ -15081,7 +15434,7 @@
     "歐風"
    ],
    "photo": null,
-   "s": 115
+   "s": 116
   },
   {
    "id": 273,
@@ -15094,7 +15447,7 @@
     "異國風"
    ],
    "photo": null,
-   "s": 115
+   "s": 116
   },
   {
    "id": 274,
@@ -15107,7 +15460,7 @@
     "韓系"
    ],
    "photo": null,
-   "s": 115
+   "s": 116
   },
   {
    "id": 336,
@@ -15121,7 +15474,7 @@
     "梳化間"
    ],
    "photo": null,
-   "s": 114
+   "s": 115
   },
   {
    "id": 337,
@@ -15138,7 +15491,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/0494aed5-b4d5-45b2-a41c-79cd70be0a0c",
     "exact": false
    },
-   "s": 120
+   "s": 121
   },
   {
    "id": 338,
@@ -15157,7 +15510,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/21ca2f3e-539d-4cba-b052-2fcc2390beb6",
     "exact": false
    },
-   "s": 120
+   "s": 121
   },
   {
    "id": 339,
@@ -15174,7 +15527,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/3b9fcd37-a240-4827-b76e-8c75ffaff6df",
     "exact": false
    },
-   "s": 120
+   "s": 121
   },
   {
    "id": 340,
@@ -15191,7 +15544,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/3e0afae9-71c2-4faf-b74d-7fe8c0c0ea26",
     "exact": false
    },
-   "s": 120
+   "s": 121
   },
   {
    "id": 341,
@@ -15208,7 +15561,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/46650bf9-508b-40bb-ae7e-244867ed6a50",
     "exact": false
    },
-   "s": 120
+   "s": 121
   },
   {
    "id": 342,
@@ -15227,7 +15580,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/49dda688-ae1c-4222-a5ee-c6874ff9b8fa",
     "exact": false
    },
-   "s": 120
+   "s": 121
   },
   {
    "id": 343,
@@ -15244,7 +15597,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/4ef6a8b0-a4f2-40ef-9cef-8188a9b20500",
     "exact": false
    },
-   "s": 120
+   "s": 121
   },
   {
    "id": 344,
@@ -15263,7 +15616,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/590f28ca-0064-478c-9263-363af499705f",
     "exact": false
    },
-   "s": 120
+   "s": 121
   },
   {
    "id": 346,
@@ -15281,7 +15634,7 @@
     "u": "https://pimg.1px.tw/ass3107/1621169405-3928709354-g.jpg",
     "exact": false
    },
-   "s": 123
+   "s": 124
   },
   {
    "id": 347,
@@ -15299,7 +15652,7 @@
     "u": "https://pimg.1px.tw/ass3107/1621169409-2575730280-g.jpg",
     "exact": false
    },
-   "s": 123
+   "s": 124
   },
   {
    "id": 348,
@@ -15318,7 +15671,7 @@
     "u": "https://pimg.1px.tw/ass3107/1621169412-3811955691-g.jpg",
     "exact": false
    },
-   "s": 123
+   "s": 124
   },
   {
    "id": 349,
@@ -15332,7 +15685,7 @@
     "歐風"
    ],
    "photo": null,
-   "s": 123
+   "s": 124
   },
   {
    "id": 350,
@@ -15345,7 +15698,7 @@
     "歐風"
    ],
    "photo": null,
-   "s": 123
+   "s": 124
   },
   {
    "id": 351,
@@ -15359,7 +15712,7 @@
     "歐風"
    ],
    "photo": null,
-   "s": 123
+   "s": 124
   },
   {
    "id": 352,
@@ -15373,7 +15726,7 @@
     "歐風"
    ],
    "photo": null,
-   "s": 123
+   "s": 124
   },
   {
    "id": 353,
@@ -15388,7 +15741,7 @@
     "網美風"
    ],
    "photo": null,
-   "s": 123
+   "s": 124
   },
   {
    "id": 354,
@@ -15402,7 +15755,7 @@
     "森林系"
    ],
    "photo": null,
-   "s": 123
+   "s": 124
   },
   {
    "id": 355,
@@ -15416,7 +15769,7 @@
     "歐風"
    ],
    "photo": null,
-   "s": 123
+   "s": 124
   },
   {
    "id": 393,
@@ -15437,7 +15790,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/028f9e28-3f9f-4bd6-86ce-5153cc45ebea",
     "exact": false
    },
-   "s": 119
+   "s": 120
   },
   {
    "id": 394,
@@ -15454,7 +15807,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/057fad75-44d8-4c4b-b84e-a3f6b421caa5",
     "exact": false
    },
-   "s": 119
+   "s": 120
   },
   {
    "id": 395,
@@ -15475,7 +15828,7 @@
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/15e8ca4a-069d-4b61-a4e8-2bf40d884251",
     "exact": false
    },
-   "s": 119
+   "s": 120
   },
   {
    "id": 423,
@@ -15492,7 +15845,7 @@
     "u": "https://pic.pimg.tw/artspace2023/1735920825-3920814120-g_n.jpg",
     "exact": false
    },
-   "s": 124
+   "s": 125
   },
   {
    "id": 424,
@@ -15510,7 +15863,7 @@
     "u": "https://pic.pimg.tw/artspace2023/1728045651-670821573-g_n.jpg",
     "exact": true
    },
-   "s": 124
+   "s": 125
   },
   {
    "id": 425,
@@ -15529,7 +15882,7 @@
     "u": "https://pic.pimg.tw/artspace2023/1764164081-3800805338-g_n.jpg",
     "exact": false
    },
-   "s": 124
+   "s": 125
   },
   {
    "id": 426,
@@ -15547,7 +15900,7 @@
     "u": "https://pimg.1px.tw/artspace2023/1764061051-1599110924-g.jpg",
     "exact": false
    },
-   "s": 124
+   "s": 125
   },
   {
    "id": 427,
@@ -15565,7 +15918,7 @@
     "u": "https://pimg.1px.tw/blog/artspace2023/album/876099191553989033/876102264389230300.jpg",
     "exact": true
    },
-   "s": 124
+   "s": 125
   },
   {
    "id": 428,
@@ -15583,7 +15936,7 @@
     "u": "https://pimg.1px.tw/blog/artspace2023/album/889148174304089636/889148552588415369.jpg",
     "exact": false
    },
-   "s": 124
+   "s": 125
   },
   {
    "id": 81,
