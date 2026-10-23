@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22",
+ "generated": "2026-10-23",
  "studios": [
   {
    "name": "光棚 Chic Light",
@@ -292,10 +292,10 @@
    "features": "自然光棚約80坪容15人,一時段一組獨享。居家/韓風/南洋/復古歐風/日式/北歐;客廳、綠植、臥室、書房、教室、庭園、廚房吧檯。電動背景紙、Aputure/Godox 燈具。近萬隆站。約600-850,租棚時數買一送一。(偏形象照/西裝形象照)",
    "price": "NT$600 ~ NT$850",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，NT$600~850/小時，80 坪，無休棚公告",
+   "status_note": "PONPAI 頁面正常，NT$600~850/hr、80坪、挑高3.1m，家景客廳/綠植/自然光/床景/書房/教室/庭園/廚房吧檯，適合 Cosplay/婚紗",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-16",
+   "last_checked": "2026-10-23",
    "sources": [
     {
      "kind": "ponpai",
@@ -346,6 +346,78 @@
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/fc61804b-7ce4-43e3-86da-e48017d49a95?img_resize_type=high",
      "p": "img/藍仕館/049e3a5866f7.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/eb614379-b333-4a66-8d9f-f775e0f91cda?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/43e613c3-c3a0-467e-af7f-d534fc5a8096?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/825233ec-68b9-4365-91d3-d4fea83df0b3?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/d9f8a8fc-2989-42be-a6af-bd1765ffd8f8?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/20a23e4e-002e-4e62-9a62-a469bd791097?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/1b9c66a5-7bd1-4fd5-9faf-83d849f398e2?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/139d6142-c1c9-40c0-b00e-9942c7224942?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/46b1a136-d843-42a6-af96-7c3950df0412?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/2b7e87aa-4afd-4a53-983b-728a4ccb5260?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/54620600-90c0-4b36-937a-d01f98231460?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/f14f0634-fbfd-40c6-8c2f-787d57ddd9fa?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/7269e4ca-ac72-4053-a8a9-13ff071100aa?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/c2612b42-ab4c-4ccb-a00e-0d3d80876c5c?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/e72d2173-99f3-4f20-b3c5-a501e481a4bd?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/5497162c-72de-4441-9c01-5f80d0128d6a?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/725d145c-fbf0-4ac0-9953-da0af9c56423?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/9121c31c-5335-4a1b-9bf7-f5548c98b19f?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/c949ec4e-ef27-4313-973f-f42dd87e5923?img_resize_type=high",
+     "p": null
     }
    ]
   },
@@ -862,10 +934,10 @@
    "features": "「拾光」系列之一。2層樓25+15坪、9種造景,每次限一組。平日1000/hr、假日1100/hr,密碼鎖自助。",
    "price": "",
    "status": "open",
-   "status_note": "預約頁仍列出拾光入夢（新生北路二段127巷31號3樓），線上預約、密碼鎖自助 24h",
+   "status_note": "tinybot 預約頁列出拾光系列五館（含拾光入夢 新生北路二段127巷31號3樓）皆營運中，24h 密碼鎖自助進出",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-16",
+   "last_checked": "2026-10-23",
    "sources": [
     {
      "kind": "booking",
@@ -1267,127 +1339,127 @@
    "photos": [
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/61ae2fd9-0811-4555-98a8-f952408a6eac?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/c315df79fbe3.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/59ad3a9b-3d64-4873-9d9d-e801abce4c9a?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/b7ba235cae72.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/8fc0090d-021f-47da-bf90-a748caab06c4?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/60861d738df8.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/84fabe5e-cec7-4403-9480-ca1180444614?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/e2fdcbe5f78a.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/7dde3b1b-5609-4f94-aa6e-f199e6740804?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/3736d6e9a0aa.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/b18dc703-48a9-4cd5-a28a-e8e52dee593a?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/de9c48bbad6a.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/ac812b15-1bf9-4f3f-ab50-8c4f648e20ba?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/2469283d4e4d.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/a4b6d404-602c-4fe3-94ad-5a5a25e3af59?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/181a5a147436.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/8ebda9e9-8caa-4ee2-8304-279cbf07ebb9?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/711f5b0cfd47.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/b0fcf421-11b7-47ee-8719-4e59763891e5?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/ab388b4d86d8.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/e9cd80aa-859f-405a-b35c-0277ad270c5f?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/a14a83ab5186.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/c73df9d4-5fd0-4037-ab0c-5229d94f2a3b?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/26ed942a9861.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/3f26e600-634f-4ddf-915a-34cfd2b8b3f8?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/0c9a24b225fa.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/f32bab15-78c6-4b74-b1ee-f7e2824aa48a?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/84f89791fda5.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/3d94e902-17e4-4032-b811-d0948302e23f?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/dda9c0d6ff53.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/3d8ddb3c-ae4d-400c-a779-c207a28d2575?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/20e8369084cf.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/68bffe1e-0842-48ee-b35e-d4f824015af2?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/d4d58be8f06a.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/f86c6664-60b4-4357-b563-343c8f5b7116?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/b5777768de10.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/de48f95c-0140-4287-a668-8cfbd7dceb36?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/37eae533e562.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/393b09ef-0916-4337-ace2-34cda902d17c?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/c99d28dd4a0c.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/d1c1ad16-5955-49e2-ad2f-2eaba2d9a1f2?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/2edb8f199808.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/74ab658f-55ce-4f11-ae89-77bcd0ea104f?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/4d41b5d5d18e.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/4c708cbe-b1c7-4097-adb2-303ad6f063b4?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/fcc23a24b47e.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/4065fb72-8930-4906-8060-6893da3af429?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/c085de8aa1b2.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/22e88ed9-1de0-4a19-b614-4b58952303c6?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/e645b4d33720.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/46b9c98e-abae-4370-b473-f329f407dc5c?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/bac19586ac33.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/287b2119-10d6-473b-911d-51ab07da123d?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/297fcc6e7304.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/cf3b21d8-45fd-4936-863b-87259af4ecab?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/f05f63f03dcb.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/1a5688ac-7710-434c-ad5b-fd38d86b1412?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/c0aaceab4409.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/14b120d4-bcf4-4909-a1f4-77cfcc256a96?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/cf650c95c34b.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/c21e9e11-dd51-4f2c-932c-9fc5327247fb?img_resize_type=thumbnail",
-     "p": null
+     "p": "img/七號盒子攝影棚-內湖棚/a16124c220b7.webp"
     }
    ]
   },
@@ -1399,17 +1471,146 @@
    "features": "居家實景棚：自然光、家景客廳、床景、辦公室、廚房吧檯、酒吧、梳化間；現代簡約、工業、無印、北歐、輕奢風；NT$1,500~2,000，亦可直播",
    "price": "",
    "status": "open",
-   "status_note": "",
+   "status_note": "PONPAI 頁面正常，NT$1500~2000，場景自然光/家景客廳/床景/辦公室/廚房吧檯/梳化間/酒吧，現代簡約/工業/居家/無印/北歐/輕奢",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-16",
+   "last_checked": "2026-10-23",
    "sources": [
     {
      "kind": "other",
      "url": "https://ponpai.tw/studio/sevenbox-neihu"
+    },
+    {
+     "kind": "official",
+     "url": "https://www.sevenbox.com.tw/rentalStudio.php?studio_sn=2"
     }
    ],
-   "photos": []
+   "photos": [
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/61ae2fd9-0811-4555-98a8-f952408a6eac?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/59ad3a9b-3d64-4873-9d9d-e801abce4c9a?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/8fc0090d-021f-47da-bf90-a748caab06c4?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/84fabe5e-cec7-4403-9480-ca1180444614?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/7dde3b1b-5609-4f94-aa6e-f199e6740804?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/b18dc703-48a9-4cd5-a28a-e8e52dee593a?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/ac812b15-1bf9-4f3f-ab50-8c4f648e20ba?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/a4b6d404-602c-4fe3-94ad-5a5a25e3af59?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/8ebda9e9-8caa-4ee2-8304-279cbf07ebb9?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/b0fcf421-11b7-47ee-8719-4e59763891e5?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/e9cd80aa-859f-405a-b35c-0277ad270c5f?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/c73df9d4-5fd0-4037-ab0c-5229d94f2a3b?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/3f26e600-634f-4ddf-915a-34cfd2b8b3f8?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/f32bab15-78c6-4b74-b1ee-f7e2824aa48a?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/3d94e902-17e4-4032-b811-d0948302e23f?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/3d8ddb3c-ae4d-400c-a779-c207a28d2575?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/68bffe1e-0842-48ee-b35e-d4f824015af2?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/f86c6664-60b4-4357-b563-343c8f5b7116?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/de48f95c-0140-4287-a668-8cfbd7dceb36?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/393b09ef-0916-4337-ace2-34cda902d17c?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/d1c1ad16-5955-49e2-ad2f-2eaba2d9a1f2?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/74ab658f-55ce-4f11-ae89-77bcd0ea104f?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/4c708cbe-b1c7-4097-adb2-303ad6f063b4?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/4065fb72-8930-4906-8060-6893da3af429?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/22e88ed9-1de0-4a19-b614-4b58952303c6?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/46b9c98e-abae-4370-b473-f329f407dc5c?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/287b2119-10d6-473b-911d-51ab07da123d?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/cf3b21d8-45fd-4936-863b-87259af4ecab?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/1a5688ac-7710-434c-ad5b-fd38d86b1412?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/14b120d4-bcf4-4909-a1f4-77cfcc256a96?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/c21e9e11-dd51-4f2c-932c-9fc5327247fb?img_resize_type=high",
+     "p": null
+    }
+   ]
   },
   {
    "name": "七號盒子攝影棚（內湖棚4樓）",
@@ -1649,59 +1850,59 @@
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/2cebb1b0-40f9-463e-8ad9-2ab3344044e1?img_resize_type=high",
-     "p": null
+     "p": "img/方舟映畫/afe2cf0064e3.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/da878524-cb19-497f-b3db-09669a23d65e?img_resize_type=high",
-     "p": null
+     "p": "img/方舟映畫/9d1a8ceb05b6.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/cea057c0-34c4-46b4-ad56-ab0ee5b1b0bb?img_resize_type=high",
-     "p": null
+     "p": "img/方舟映畫/bc5dfbbdbdc6.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/4bc60c52-6559-4cba-ac4b-15e6df6d54e3?img_resize_type=high",
-     "p": null
+     "p": "img/方舟映畫/58848be67e32.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/65c0df1e-9208-4193-ba92-2a53861587ac?img_resize_type=high",
-     "p": null
+     "p": "img/方舟映畫/5b6ca907082b.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/0bf92269-c50f-4189-846c-b6debca2e7f0?img_resize_type=high",
-     "p": null
+     "p": "img/方舟映畫/3de7655bdceb.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/c894ed27-b7ce-4191-8e71-f14f069a4544?img_resize_type=high",
-     "p": null
+     "p": "img/方舟映畫/6e546f68b0d1.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/35ed714f-72f0-4ba5-b5db-41a4919e1a5f?img_resize_type=high",
-     "p": null
+     "p": "img/方舟映畫/bd7402c52b9f.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/d0fcc610-4959-4e3f-8428-59959e5976b6?img_resize_type=high",
-     "p": null
+     "p": "img/方舟映畫/8ec0ccdb3472.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/31462efb-806f-48f9-9af7-c0145c1427b3?img_resize_type=high",
-     "p": null
+     "p": "img/方舟映畫/9d9fa825e4c5.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/58e02a6a-1f94-4f29-9c5f-99aa5d4b17fb?img_resize_type=high",
-     "p": null
+     "p": "img/方舟映畫/1ef2440e3b07.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/e38bfef3-645b-4ed7-8d2b-42e36d0d4634?img_resize_type=high",
-     "p": null
+     "p": "img/方舟映畫/0d36e10d42fe.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/01280851-b0c4-4aa1-aaab-c9c0d6fe9520?img_resize_type=high",
-     "p": null
+     "p": "img/方舟映畫/0d2b76334a68.webp"
     },
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/0ed2c720-c243-4f0b-b98f-b6c3299a4a7a?img_resize_type=high",
-     "p": null
+     "p": "img/方舟映畫/980f58be89c7.webp"
     }
    ]
   },
@@ -2305,7 +2506,7 @@
    "status_note": "Google 地圖地標存在，地址與資料庫一致（台北市大同區重慶北路三段31-1號3樓），無歇業標記；地圖未標營業時間、商家未認領。",
    "notes": "僅有 FB/IG(https://www.instagram.com/p/C62tsCPOn9R/),無官網/預約平台/地址/可直連場景照。",
    "fb_only": true,
-   "last_checked": "2026-10-16",
+   "last_checked": "2026-10-23",
    "sources": [
     {
      "kind": "ig",
@@ -2844,7 +3045,7 @@
    "status_note": "原官網 caminostudio.weebly.com 已 404；Google 地圖顯示「營業中．打烊時間22:00」，地址台北市松山區八德路四段166號3樓，4.9★100則評論，官網欄位已改為 caminophotostudio.wixsite.com（正確路徑待人工確認）。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-16",
+   "last_checked": "2026-10-23",
    "sources": [
     {
      "kind": "official",
@@ -3242,17 +3443,62 @@
    "features": "15坪實景棚，現代簡約／韓風／居家風；場景含自然光、拱門、家景客廳、廚房吧檯。NT$1,100/小時，最低2小時，容納上限4人。",
    "price": "",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，NT$1,100/小時，15 坪實景棚",
+   "status_note": "PONPAI 頁面正常，NT$1100/hr、15坪，場景自然光/拱門/家景客廳/廚房吧檯，現代簡約/韓風/居家風",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-16",
+   "last_checked": "2026-10-23",
    "sources": [
     {
      "kind": "ponpai",
      "url": "https://ponpai.tw/studio/ximen"
     }
    ],
-   "photos": []
+   "photos": [
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/e1334b8e-0a2f-4646-a959-04ebe7f4e44b?img_resize_type=high",
+     "p": "img/夕門-Ximen/678db4b182d3.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/74070749-c383-4f7d-ad3f-77591fa289af?img_resize_type=high",
+     "p": "img/夕門-Ximen/5e0ad5c4cac2.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/eae04d7b-d9be-4ab0-9996-96ff3838111c?img_resize_type=high",
+     "p": "img/夕門-Ximen/9bc1adc14a5b.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/528ced66-be53-4097-b707-866f40def142?img_resize_type=high",
+     "p": "img/夕門-Ximen/9a11b7d04162.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/236b5bef-fa31-45e3-b01b-eca7029fa6b0?img_resize_type=high",
+     "p": "img/夕門-Ximen/c2eb24251832.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/34431f2a-4c5f-449d-b2b1-d3706f96d94f?img_resize_type=high",
+     "p": "img/夕門-Ximen/d18a9250bd3c.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/4763809b-6ac1-433a-bd3c-46ef2429d3fc?img_resize_type=high",
+     "p": "img/夕門-Ximen/332f5ca19431.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/835524b1-93ce-4d6c-989b-87616780d616?img_resize_type=high",
+     "p": "img/夕門-Ximen/215f96071580.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/4a49488d-737a-4d7e-a7d4-9e95896f0fb2?img_resize_type=high",
+     "p": "img/夕門-Ximen/6d3224d1b85c.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/4fc44ae4-ab95-4d56-a5ac-e14019a4d1c2?img_resize_type=high",
+     "p": "img/夕門-Ximen/715ae7c072ba.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/fccc6c44-fd71-41ea-9b55-fe13e7738c43?img_resize_type=high",
+     "p": "img/夕門-Ximen/8f720c331113.webp"
+    }
+   ]
   },
   {
    "name": "河馬管家",
@@ -3265,7 +3511,7 @@
    "status_note": "",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-16",
+   "last_checked": "2026-10-23",
    "sources": [
     {
      "kind": "other",
@@ -3667,10 +3913,10 @@
    "features": "全黑棚(純黑背景)Cosplay 棚,空間寬敞不壓迫,CP值高。棚主本身是專業道具師,提供刀劍類角色道具租借,可加租煙霧機。(與嘉義另一家婚紗棚「KOSIR 攝影棚」不同,勿混淆)",
    "price": "",
    "status": "open",
-   "status_note": "原 Threads 貼文受 robots.txt 限制無法讀取；Google 地圖「狐之間攝影棚」顯示營業中、打烊20:00，地址竹圍路136號。",
+   "status_note": "Threads 貼文（2024-12-22）仍可讀取：全黑棚、西區竹圍路136號、棚主籌備新棚；無歇業公告，但資訊較舊，建議找更新的來源",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-16",
+   "last_checked": "2026-10-23",
    "sources": [
     {
      "kind": "threads",
@@ -4407,7 +4653,7 @@
    "status_note": "Google 地圖地標存在，5.0★10則評論，地址新北市三重區大同北路63號4樓與資料庫一致，無歇業標記。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-16",
+   "last_checked": "2026-10-23",
    "sources": [
     {
      "kind": "ig",
@@ -5377,10 +5623,10 @@
    "features": "奇幻/復古歐風/現代簡約/日式和風;白棚、黑棚、書房、壁爐、洛可可歐風、庭園。Cosplay/Lolita 平日2hr/1500、假日2hr/1700起。",
    "price": "2023年版：假日 2hr/1700、3hr/2450、4hr/3250；平日 2hr/1500、3hr/2150、4hr/2850。最少預約2小時，可搭配不同棚景。",
    "status": "open",
-   "status_note": "官網主題頁列出自然光白棚、洛可可歐風棚、日式緣側棚、純黑棚，營業時間 10:00-21:30 預約制",
+   "status_note": "官網主題頁列出自然光白棚、洛可可歐風棚、日式緣側棚、純黑棚（純黑棚為期間限定，依粉專公告），營業時間 10:00-21:30 預約制",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-16",
+   "last_checked": "2026-10-23",
    "sources": [
     {
      "kind": "official",
@@ -5780,10 +6026,10 @@
    "features": "100 坪實景棚，可容納 90 人，捷運 5 分鐘；場景有雲境、月境、日暮露台、暮隅、暖域、映界、知嶼、沐光，涵蓋自然光、客廳、廚房吧檯、咖啡廳餐廳、浴室、庭園、泳池，風格為居家／北歐／現代簡約／韓風／輕奢。平面 1,800–2,200/hr。",
    "price": "",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，NT$1,800~2,400，且列於 PONPAI 首頁特別推薦",
+   "status_note": "PONPAI 頁面正常，NT$1800~2400/hr，100坪、挑高3.1m，列出廚房吧檯/客廳/自然光/浴室/庭園/水景/咖啡廳等場景",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-16",
+   "last_checked": "2026-10-23",
    "sources": [
     {
      "kind": "ponpai",
@@ -5794,7 +6040,128 @@
      "url": "https://www.liyispace.com"
     }
    ],
-   "photos": []
+   "photos": [
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/77dcb0fd-1b65-49b3-b968-9bdeea07d45a?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/cfbbb7dec907.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/8d185350-1f7d-4d08-b634-419aa035c7a2?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/28ebea4c3e1e.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/822b018f-cd9d-4c35-ac1e-fc4e3b854aa0?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/ece9629eb230.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/5dcc8078-6ed5-4e44-9094-c7ad40a023f6?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/db54dbde9091.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/96ff63ec-c803-4b36-9409-79e0246b97f3?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/6c6c1272a5fd.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/adb7304b-424b-4ebf-89e5-94d418e86dc8?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/5034ffbea5e4.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/bc5507d7-dedd-4cca-99c6-08f703237763?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/04d7b01eb716.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/cf8af8cc-8edd-4253-9036-f75a8a728112?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/747846f72f16.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/c2888171-832d-4099-a171-c27ca58ad916?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/bee770a0bb92.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/b91a3bd9-ecf7-4625-ac8d-88e0966eaa34?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/4a8e72d8551b.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/95fd1f22-a4fb-4269-a876-0a47ce8d98e8?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/feab53720e60.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/afe78479-c95b-4029-ad54-0f7bea2f4acb?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/489c9e9cc1d4.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/c1fd78d9-143f-4cfa-b3cc-f8ecdc978ced?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/1b9891b8f9cb.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/bda48586-4487-4178-86df-d892deea3665?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/8712feb176e0.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/3c1262d3-9648-4302-ad82-ddac0e982c31?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/2912c10bc0bd.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/b1ba9325-4858-4ed0-86e7-5e4acad92d61?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/c4e4a667ee6a.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/75b7cdc0-42fb-4ad4-8432-68c5aa55d761?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/99ea5b4b8432.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/afb0dc57-d916-4131-89a8-65252c277d90?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/74b4ec12ba0c.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/b57e1e6f-b068-40f9-8711-55e01920b5dc?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/f0ad259efe73.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/8e4bb039-abe9-4033-b9e2-58ef2351a72b?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/91e7c6e2a94c.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/674c7c53-ccd6-45ed-829b-a2a2fc8e5a8c?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/9bef46877d3f.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/0e9f9c57-d631-4d67-bf51-11a3ff3849d0?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/139d120117b5.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/bd795913-6755-46c5-919d-13847745cae4?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/10e3423c2a43.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/35665c62-23cb-43f8-b6af-4ffc10c3f670?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/57c9ba059791.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/dcf99e6a-490e-4efd-abf3-3ce7eab051d8?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/ef25299a2790.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/9e7d4010-51d5-4882-a980-4d7c2766f453?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/f77f9bed3fa0.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/015fad74-6a59-4dac-a21d-17d192459fe7?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/279819b8e3c3.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/e0ffcb34-9443-4956-9da1-9682dcddf303?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/6b19718fe378.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/a2e2a8a1-9df7-47e3-835f-5fb422a4499c?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/55752068a1fe.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/ec3add65-5b2b-406c-855f-84ed8a252f25?img_resize_type=high",
+     "p": "img/Liyi-Space-裏頤美學空間/1fe756077fd8.webp"
+    }
+   ]
   },
   {
    "name": "R-room",
@@ -6012,10 +6379,10 @@
    "features": "府中商業棚拍/場地租借/共享空間。波希米亞/南洋/侘寂/現代簡約/復古歐風/居家;乾燥花、家景客廳、梳化間、水泥牆、自然光、白/黑棚背景紙、綠植。約18坪容10人,Aputure/Godox 燈具、電動背景紙14色、200+配件。",
    "price": "實景+素棚 平日12-22時 800/hr、假日9-22時 850/hr、加班 900-1000/hr；白棚素棚 平日 700/hr、假日 750/hr",
    "status": "open",
-   "status_note": "官網 studio-rental 頁抓回空白；PONPAI 頁面正常上架，無暫停或搬遷公告",
+   "status_note": "PONPAI 頁面正常，NT$1000~1500/hr、18坪，場景乾燥花/家景客廳/梳化間/水泥牆/自然光/白棚黑棚背景紙/綠植",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-16",
+   "last_checked": "2026-10-23",
    "sources": [
     {
      "kind": "booking",
@@ -6097,6 +6464,130 @@
     },
     {
      "u": "https://www.shelflife-studio.com/wp-content/uploads/2025/09/09-3-椅子.png",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/22397dac-3c2e-4330-a0c5-cfe9d82f3eb3?img_resize_type=high",
+     "p": "img/拾歲影像/e7cfacd226da.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/9ce25da9-5e6c-4b58-804c-96e00b4f6ada?img_resize_type=high",
+     "p": "img/拾歲影像/b3de5e2224e0.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/7d5a4251-899f-433d-881e-18b9ef9ca287?img_resize_type=high",
+     "p": "img/拾歲影像/10581ec1c7b9.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/70518cd3-4ca9-492b-89cf-01053b711680?img_resize_type=high",
+     "p": "img/拾歲影像/7ada1c1bc58c.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/0bf98f59-bb8d-42d7-b7c7-75a051cafdc6?img_resize_type=high",
+     "p": "img/拾歲影像/584727ee0200.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/fc0c8c92-0e26-4445-92c9-6941de296229?img_resize_type=high",
+     "p": "img/拾歲影像/f94ceadad342.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/c45dddaf-4081-4466-84c7-8cc09b11587f?img_resize_type=high",
+     "p": "img/拾歲影像/7e27077ddf37.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/103caba1-dab5-418b-a5e0-0ae61d89e8e6?img_resize_type=high",
+     "p": "img/拾歲影像/ae99dd8b92f2.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/1a020a1f-e4f4-49bc-b634-5165423a478a?img_resize_type=high",
+     "p": "img/拾歲影像/57cff473e7c7.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/c68c202c-63fe-4d47-b7c4-51c87f99ed15?img_resize_type=high",
+     "p": "img/拾歲影像/316645367feb.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/000091f2-3560-45d8-a277-8d44c53043d4?img_resize_type=high",
+     "p": "img/拾歲影像/3f1e47586de1.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/8c5bbd82-cfc6-4a2b-b3f6-c9446f9bc0a2?img_resize_type=high",
+     "p": "img/拾歲影像/9de5ad2a22f0.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/f032e41f-dfc3-4f61-ba4a-c3fe4323f645?img_resize_type=high",
+     "p": "img/拾歲影像/175db3fe0bd3.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/1ee1ef9f-932f-4b51-b890-8649311b24da?img_resize_type=high",
+     "p": "img/拾歲影像/0a3dc087bca7.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/8bcdd0b7-4336-4ef8-9b9d-967126ffab8e?img_resize_type=high",
+     "p": "img/拾歲影像/7751289a1296.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/6cdd92dd-35c4-4c65-8ad7-16b6ae713415?img_resize_type=high",
+     "p": "img/拾歲影像/3038797d5837.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/1a27aa23-4629-45c4-9b8b-50ecb33a342d?img_resize_type=high",
+     "p": "img/拾歲影像/69ecc4e954e1.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/bd71bc4f-e4f2-4be9-a06a-083b6720e4e1?img_resize_type=high",
+     "p": "img/拾歲影像/915b071c73be.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/6cd4da3d-c863-41c8-8272-e96155a4f4cc?img_resize_type=high",
+     "p": "img/拾歲影像/643740be9243.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/4c15ca30-04ad-4884-8c08-a54872aaaaf0?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/78ec537c-77b2-4206-9d84-1c3728fed470?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/bea52836-ffa4-4009-874e-81f9da41f424?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/b8558833-9a4a-4220-89fb-0fc4c689d8fc?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/cc15ef79-140c-4a4b-a100-fd756d040666?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/bf140dc3-3cd8-4689-8ca8-ab2a602afb83?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/ba610e46-4290-4586-9de3-68a0e4bfa57b?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/21951137-798d-4b06-9372-3495f5383e41?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/af37757a-60b3-4ec5-8c6f-148925dc9871?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/2c6ddffe-f344-48ce-921b-b1f35866164c?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/2e6a6250-ce2e-4393-bcb6-3d1b3b98ba81?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/29f74c43-4046-470f-8d65-53c97c686d84?img_resize_type=high",
      "p": null
     }
    ]
@@ -6186,17 +6677,122 @@
    "features": "40坪實景攝影棚。拍照2000元/時、錄影2500元/時，低消3小時。場景含廚房吧檯、自然光區、客廳、辦公室、庭園、床景；學生憑證5折。",
    "price": "",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，NT$2,000~2,500，40 坪居家實景棚",
+   "status_note": "PONPAI 頁面正常，40坪、NT$2000~2500，場景廚房吧檯/自然光/家景客廳/辦公室/庭園/床景，居家/現代簡約/北歐/無印/韓風",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-16",
+   "last_checked": "2026-10-23",
    "sources": [
     {
      "kind": "ponpai",
      "url": "https://ponpai.tw/studio/glarestudio"
     }
    ],
-   "photos": []
+   "photos": [
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/124c68ef-fced-4f23-ba79-532662283042?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/363077a5-da5e-4a6f-b9da-34a49837a491?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/d2aadcf0-198e-43cc-81e2-0aaa16b5b71d?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/a8096b4f-a50a-4052-a929-8aa889610645?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/41fe4cf1-6932-42be-aa95-1b6edec7a671?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/2abe3c49-913a-42b9-a5c2-c25003738174?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/ebe95e39-bd9c-4045-84f4-a7a018e2bad0?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/ff8ff519-8d8b-4f41-9999-de9286b54d67?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/f9a8e628-268b-4c7c-be04-5446ea42d9da?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/cafd0cc0-4db4-4d1f-b074-64c656185d84?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/754b9a26-d490-4933-82f2-fddcfd375cdb?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/34c94145-bb95-473f-9494-cc5a367ee785?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/86ee3675-448d-40b0-8ca6-d4a7f81ffe7d?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/1d1100ab-9dea-4757-9162-86ea802ce103?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/54f70f11-1244-434a-af6a-ce72e01918b3?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/ec4e7f88-26bc-4ced-a99b-78d472106ea2?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/4e5ab2a3-4b0f-40ce-b315-e6a8c9a05e7d?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/6a2663c7-56ab-4144-9a6a-f5a8d5bdc8b3?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/8d0ee361-4041-4036-af89-b391e5b46997?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/e156ce98-dda6-4e49-b765-cc34639642e7?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/3fc921f6-602a-4443-ba4e-502850abed87?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/1f15dc13-f481-463a-8e33-2aa88a222a5f?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/f4bdc1e8-c252-48be-b7dc-1ae0993b9eea?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/2294c4b9-0bf3-4e0c-bcda-09bdb78181da?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/f13d9b82-6982-46fd-9f0b-3636bd9a5fe3?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/df24e1ff-870d-4c41-abd4-e94a7ad05f78?img_resize_type=high",
+     "p": null
+    }
+   ]
   },
   {
    "name": "水美人古風自拍館",
@@ -6459,10 +7055,10 @@
    "features": "自然光實景,約35坪容15人。現代簡約/北歐/韓風/居家;自然光、床景、單色撞色、浴室、家景客廳、書房。適合婚紗、抓周。平面1400/時、動態1800/時。含投影機、掛燙機。",
    "price": "靜態攝影 NT$1,400/hr、動態攝影 NT$1,800/hr，最少預約2小時",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，NT$1,400~1,800，35 坪",
+   "status_note": "PONPAI 頁面正常，NT$1400~1800、35坪、容納15人，場景自然光/床景/單色撞色/浴室/客廳/書房",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-16",
+   "last_checked": "2026-10-23",
    "sources": [
     {
      "kind": "ponpai",
@@ -6497,6 +7093,82 @@
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/f90f00db-77e3-4879-b64f-d6dcf17d6bdc?img_resize_type=high",
      "p": "img/森沐影像空間/f13e1b346c65.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/bbc8ccac-d84b-4cf0-8241-b66a9c9da926?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/d4f679ff-a569-41c9-8b53-6c02e269bf9f?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/849a1a51-3689-4a7e-9441-11bae5182d2a?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/ff3118d1-633f-408b-9bec-d9f3c24819df?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/52664ad2-8242-474e-be0c-3850ddb18f16?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/1edbaa2e-9b54-42cd-87c4-422e0d726020?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/2e9902d7-77de-48f9-b2a1-df3907d2a904?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/f4457d97-5823-40a9-88ab-e43756d65b69?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/a08b4ec0-6ab1-4499-ac38-c0f3e3590209?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/31a9fc4f-b073-43d7-8ed7-375ee6fb1f8b?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/075d3ef8-3533-470c-9864-4b3f6bb319cd?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/2e493505-0b61-4991-886a-e3a42b6756e0?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/64e03ffc-db16-4dc4-ae67-bb9d98f845f0?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/296ba581-e394-4ea0-92fe-a9341de50fa1?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/599d71d2-c9c0-4ea6-8e7c-509ac4f639a2?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/b98e2a45-c399-4a3a-aba0-e4f060e2c217?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/c9355913-e4b5-4c2e-8ff4-0fd81cf9dda0?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/75feba83-4e99-4975-9438-6bc32b26e3c3?img_resize_type=high",
+     "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/2ff8083b-ad81-4c7c-a682-8e13b80d2d93?img_resize_type=high",
+     "p": null
     }
    ]
   },
@@ -6851,7 +7523,7 @@
    "status_note": "原 weebly 棚景頁已 404；Google 地圖顯示「營業中．打烊時間22:00」，5.0★82則評論，地址桃園市桃園區大同路11號5F之1，官網欄位改為 facebook.com。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-16",
+   "last_checked": "2026-10-23",
    "sources": [
     {
      "kind": "official",
@@ -7058,10 +7730,10 @@
    "features": "實景攝影棚，100 坪，備 Godox 神牛燈具與聚光燈。風格：韓風、公主風、復古歐風、美國風。場景：花牆、老件、單色．撞色、拱門。NT$1000起（3 小時有優惠）。",
    "price": "",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架：實景棚、適合婚紗與 Cosplay，花牆、老件、拱門場景",
+   "status_note": "PONPAI 頁面正常，100坪實景棚，場景標籤花牆/老件/單色撞色/拱門，風格韓風/公主風/復古歐風/美國風，適合婚紗與 Cosplay",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-16",
+   "last_checked": "2026-10-23",
    "sources": [
     {
      "kind": "ponpai",
@@ -7072,7 +7744,68 @@
      "url": "https://www.instagram.com/blossom_photo_studio/"
     }
    ],
-   "photos": []
+   "photos": [
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/336b6a5a-4a6c-49db-a34f-7de09cd510a2?img_resize_type=high",
+     "p": "img/善花攝影棚/89d10dee5a60.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/7353cee4-f72c-48c1-b38a-8b9cb738db12?img_resize_type=high",
+     "p": "img/善花攝影棚/397e64ec28cc.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/ce3f5f1a-75bd-439e-a0f3-045e92385efe?img_resize_type=high",
+     "p": "img/善花攝影棚/a361acd3c646.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/9ac3103e-0fa8-4d05-a30d-447fe1c2772a?img_resize_type=high",
+     "p": "img/善花攝影棚/8235b0aa1236.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/40045e2b-451f-4d9b-8b1a-1ab1e5279b78?img_resize_type=high",
+     "p": "img/善花攝影棚/9765e2737eac.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/fba05e83-b688-4327-be82-79e82665c092?img_resize_type=high",
+     "p": "img/善花攝影棚/52f65db9c42a.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/923fb546-2587-4e9d-b81f-da6bc6269154?img_resize_type=high",
+     "p": "img/善花攝影棚/070a7204939d.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/b2a860e5-3b95-4c0d-a0c8-0f194f73fe74?img_resize_type=high",
+     "p": "img/善花攝影棚/e07c19602f09.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/9ae5ac45-18a8-470f-a9a8-f1ffbf7d229d?img_resize_type=high",
+     "p": "img/善花攝影棚/14f017b80b42.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/7b0dd39c-f033-443e-a125-fc9b5b20c10b?img_resize_type=high",
+     "p": "img/善花攝影棚/54b3bec7a4bc.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/b382ec30-f671-4e48-99b9-9c71bb32a63d?img_resize_type=high",
+     "p": "img/善花攝影棚/ef1b711f11c6.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/bae1c6a5-5f9a-486f-8f8e-426d6cab3d71?img_resize_type=high",
+     "p": "img/善花攝影棚/3ec0cd1b0268.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/5f182d06-1c25-43e6-98b5-d4700d0191b3?img_resize_type=high",
+     "p": "img/善花攝影棚/8e11e8c78c49.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/8dce9cd3-5cad-4c4e-b88f-69e26a33d37d?img_resize_type=high",
+     "p": "img/善花攝影棚/6128d3b2b2a2.webp"
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/e97ec726-147b-427d-83ef-a079dcad9cd7?img_resize_type=high",
+     "p": "img/善花攝影棚/68c3648b5ea5.webp"
+    }
+   ]
   },
   {
    "name": "迷幻葉子 自拍攝影館",
@@ -7294,7 +8027,7 @@
    "status_note": "原 PONPAI shop 頁已 404；Google 地圖「梵帝雅影棚規劃 高雄攝影棚出租」顯示營業中、打烊22:00，4.2★55則評論，地址中東街99號與資料庫一致。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-16",
+   "last_checked": "2026-10-23",
    "sources": [
     {
      "kind": "blog",
@@ -7619,7 +8352,7 @@
    "status_note": "Google 地圖顯示「營業中」，地址高雄市苓雅區光華一路131號10樓與資料庫一致，官網欄位為 instagram.com。",
    "notes": "僅一個未確認疑似 IG @studio.aru,無公開文字佐證。",
    "fb_only": true,
-   "last_checked": "2026-10-16",
+   "last_checked": "2026-10-23",
    "sources": [],
    "photos": []
   },
@@ -8795,11 +9528,34 @@
     "酒吧舞台"
    ],
    "photo": {
-    "p": null,
+    "p": "img/七號盒子攝影棚-內湖棚/c315df79fbe3.webp",
     "u": "https://asset.ponpai.tw/ponpai-prod/studio/61ae2fd9-0811-4555-98a8-f952408a6eac?img_resize_type=thumbnail",
     "exact": true
    },
    "s": 20
+  },
+  {
+   "id": 524,
+   "name": "實景棚(未命名)",
+   "desc": "自然光、家景客廳、床景、辦公室、廚房吧檯、梳化間、酒吧；現代簡約/工業風/居家/無印/北歐/輕奢風",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "工業風",
+    "床景居家",
+    "廚房",
+    "梳化間",
+    "無印風",
+    "自然光",
+    "酒吧舞台"
+   ],
+   "photo": {
+    "p": null,
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/61ae2fd9-0811-4555-98a8-f952408a6eac?img_resize_type=high",
+    "exact": false
+   },
+   "s": 21
   },
   {
    "id": 181,
@@ -10474,6 +11230,31 @@
    "s": 104
   },
   {
+   "id": 520,
+   "name": "多場景美學空間(未命名)",
+   "desc": "100坪、挑高3.1m、容納90人；北歐極簡/現代簡約/韓系/輕奢/居家風；含廚房吧檯、客廳、自然光區、浴室、庭園、水景、咖啡廳場景",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "咖啡廳",
+    "大空間",
+    "床景居家",
+    "庭園",
+    "廚房",
+    "水景",
+    "浴室",
+    "自然光",
+    "韓系"
+   ],
+   "photo": {
+    "p": "img/Liyi-Space-裏頤美學空間/cfbbb7dec907.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/77dcb0fd-1b65-49b3-b968-9bdeea07d45a?img_resize_type=high",
+    "exact": false
+   },
+   "s": 87
+  },
+  {
    "id": 85,
    "name": "壁爐",
    "desc": "店內場景之一",
@@ -11881,6 +12662,29 @@
    "s": 92
   },
   {
+   "id": 523,
+   "name": "實景棚(未命名)",
+   "desc": "40坪；廚房吧檯、自然光、家景客廳、辦公室、庭園、床景；居家/現代簡約/北歐/無印/韓風",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "大空間",
+    "床景居家",
+    "庭園",
+    "廚房",
+    "無印風",
+    "自然光",
+    "韓系"
+   ],
+   "photo": {
+    "p": null,
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/124c68ef-fced-4f23-ba79-532662283042?img_resize_type=high",
+    "exact": false
+   },
+   "s": 93
+  },
+  {
    "id": 345,
    "name": "自然光實景棚(未命名)",
    "desc": "約35坪容15人;自然光、床景、單色撞色、浴室、家景客廳、書房;風格現代簡約/北歐/韓風/居家。適合婚紗、抓周,平面1400/時、動態1800/時,含投影機、掛燙機",
@@ -12644,6 +13448,29 @@
     "exact": false
    },
    "s": 108
+  },
+  {
+   "id": 521,
+   "name": "實景棚(未命名)",
+   "desc": "100坪；花牆、老件、單色撞色牆、拱門；韓風/公主風/復古歐風/復古風/美國風，適合婚紗與 Cosplay",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "Cosplay友善",
+    "單色背景",
+    "大空間",
+    "復古老件",
+    "歐風",
+    "花景",
+    "韓系"
+   ],
+   "photo": {
+    "p": "img/善花攝影棚/89d10dee5a60.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/336b6a5a-4a6c-49db-a34f-7de09cd510a2?img_resize_type=high",
+    "exact": false
+   },
+   "s": 109
   },
   {
    "id": 397,
@@ -15468,6 +16295,26 @@
    ],
    "photo": null,
    "s": 50
+  },
+  {
+   "id": 522,
+   "name": "實景棚(未命名)",
+   "desc": "15坪；自然光、拱門、家景客廳、廚房吧檯；現代簡約/韓風/居家風",
+   "status": "active",
+   "period": "",
+   "price": "",
+   "tags": [
+    "床景居家",
+    "廚房",
+    "自然光",
+    "韓系"
+   ],
+   "photo": {
+    "p": "img/夕門-Ximen/678db4b182d3.webp",
+    "u": "https://asset.ponpai.tw/ponpai-prod/studio/e1334b8e-0a2f-4646-a959-04ebe7f4e44b?img_resize_type=high",
+    "exact": false
+   },
+   "s": 52
   },
   {
    "id": 325,
