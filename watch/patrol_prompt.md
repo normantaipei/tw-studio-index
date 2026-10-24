@@ -17,8 +17,11 @@
 1. 取今日名單（自動輪到第 N 組）：
    python3 watch/studio.py due
    每家會附 check_url（固定巡檢網址）、gmap_url（Google 地圖）、known_rooms（已知棚別）。
+   回傳裡的 deferred 是「連續多次抓不到、暫時降頻」的店，今天不用查，回報時用一行帶過即可。
    再跑一次 `python3 watch/studio.py tags` 取得既有標籤。
    若這兩個指令失敗 → 什麼都不要改，回報「今天沒跑：」加上錯誤訊息，結束。
+   要查資料庫（例如今天新增了幾張照片、某家店的歷史）請用唯讀的
+   `python3 watch/studio.py query "SELECT ..."`，不要另外寫 Python 腳本。
 
 2. 逐家檢查。**先用 check_url，不要重新搜尋** —— 這是省時間與 token 的關鍵：
    - 有 check_url：WebFetch 該網址，提問「逐一列出目前所有棚別/主題場景的名稱與各自特色、營業狀態或公告
@@ -46,8 +49,12 @@
    - WebFetch https://ponpai.tw/ ，抓「最新攝影場地」「特別推薦」區塊的場地名稱與連結。抓不到就略過這一步並在回報中說明。
    - 把 {"feed":"ponpai_latest","items":[{"name":"...","url":"..."}]} 寫成 watch/.run/feed_in.json，然後
      python3 watch/feed.py < watch/.run/feed_in.json
+   - 每個 item 一定要帶 url：PONPAI 首頁同一家店常換不同寫法顯示，feed.py 靠網址判斷是不是真的新店。
    - 只處理回傳為 new 的。屬於「實景棚／主題造景／Cosplay 取向」的，再抓一次它的 PONPAI 頁面補地區、特色、
-     各棚名稱與照片網址，寫成 new_studios。純商業白棚、無縫牆、直播棚、器材出租不入庫，摘要一行帶過。
+     各棚名稱與照片網址，寫成 new_studios（source_url 填該店的 PONPAI 頁，會成為它的巡檢網址）。
+     純商業白棚、無縫牆、直播棚、器材出租不入庫，摘要一行帶過。
+   - 同一品牌的不同分店或不同樓層（如 R-room 1棚／2棚）在 PONPAI 各有自己的頁面，算不同的店；
+     但同一個頁面只是名稱寫法不同，record.py 會自動視為同一家，不會重複建檔。
 
 4. 寫回資料庫：結果組成 JSON（格式見 watch/record.py 檔頭註解）存到 watch/.run/result.json，然後
    python3 watch/record.py < watch/.run/result.json

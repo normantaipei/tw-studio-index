@@ -73,7 +73,8 @@ else
   ( sleep "$TIMEOUT_SEC"; echo "逾時，中止 Claude"; kill "$CPID" 2>/dev/null ) &
   WPID=$!
   wait "$CPID"; RC=$?
-  pkill -P "$WPID" 2>/dev/null; kill "$WPID" 2>/dev/null
+  # 收掉逾時計時器；wait 一下才不會在日誌留下 "Terminated: 15"
+  { pkill -P "$WPID"; kill "$WPID"; wait "$WPID"; } 2>/dev/null
   cat "$RUN/claude_out.txt"; echo
 fi
 AFTER="$(checks_today)"

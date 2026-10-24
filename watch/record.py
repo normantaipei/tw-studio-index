@@ -27,9 +27,27 @@ JSON 格式：
  ]
 }
 """
-import json, sqlite3, sys, os, datetime
+import json, sqlite3, sys, os, re, datetime, urllib.parse
 
 DB = os.environ.get("STUDIO_DB", os.path.expanduser("~/studios.db"))
+
+def norm_photo_url(u):
+    """同一張圖常以不同 query 出現（PONPAI 的 ?img_resize_type=high），只收一份：
+    asset.ponpai.tw 一律去掉 query；其他網站保留 query（有些圖床靠 query 區分檔案）。"""
+    p = urllib.parse.urlsplit(u.strip())
+    if p.netloc.endswith("asset.ponpai.tw"):
+        return urllib.parse.urlunsplit((p.scheme, p.netloc, p.path, "", ""))
+    return urllib.parse.urlunsplit((p.scheme, p.netloc, p.path, p.query, ""))
+
+def norm_url(u):
+    if not u: return None
+    p = urllib.parse.urlsplit(u.strip())
+    return urllib.parse.urlunsplit((p.scheme.lower(), p.netloc.lower(), p.path.rstrip("/"), "", ""))
+
+def norm_name(n):
+    """店名去掉括號、破折號、空白等裝飾，只留字元本體，用來比對「同一家店的不同寫法」。"""
+    return re.sub(r"[\s【】\[\]（）()「」『』–—\-－·・．.,，、|｜/／:：]+", "", (n or "")).lower()
+
 data = json.load(sys.stdin)
 con = sqlite3.connect(DB); con.row_factory = sqlite3.Row; c = con.cursor()
 today = datetime.date.today().isoformat()
@@ -124,6 +142,7 @@ for r in data.get("results", []):
     for ph in r.get("photos", []):
         purl = (ph.get("url") if isinstance(ph, dict) else ph) or ""
         if not purl.startswith("http"): continue
+        purl = norm_photo_url(purl)
         prid = None
         if isinstance(ph, dict) and ph.get("room"):
             got = c.execute("SELECT id FROM rooms WHERE studio_id=? AND name=?", (sid, ph["room"])).fetchone()
@@ -143,14 +162,46 @@ for r in data.get("results", []):
     for ch in r.get("changes", []):
         add_change(sid, name, ch.get("type","other"), ch["summary"], ch.get("detail"), ch.get("source_url"))
 
+def find_existing_studio(n):
+    """新店去重：名稱完全相同／別名含該名 → 名稱正規化後相同 → 來源網址已屬於某家店。
+    注意同一品牌的不同棚（如 R-room 1棚／2棚、七號盒子 studio_sn=1／2）PONPAI 各有自己的頁面，
+    網址不同就不會被誤判成同一家。"""
+    src = norm_url(n.get("source_url"))
+    row = c.execute("SELECT id FROM studios WHERE name=? OR (aliases!='' AND aliases LIKE ?)",
+                    (n["name"], f'%{n["name"]}%')).fetchone()
+    if row: return row["id"], "同名"
+    if src:
+        for sid_, cu in c.execute("SELECT id, check_url FROM studios WHERE check_url IS NOT NULL"):
+            if norm_url(cu) == src: return sid_, "巡檢網址相同"
+        for sid_, u in c.execute("SELECT studio_id, url FROM sources"):
+            if norm_url(u) == src: return sid_, "來源網址相同"
+    key = norm_name(n["name"])
+    if key:
+        for sid_, nm, al in c.execute("SELECT id, name, aliases FROM studios"):
+            names = [nm] + [a for a in (al or "").split("|") if a]
+            if any(norm_name(x) == key for x in names): return sid_, "店名寫法不同"
+    return None, None
+
 for n in data.get("new_studios", []):
-    exists = c.execute("SELECT id FROM studios WHERE name=? OR aliases LIKE ?", (n["name"], f'%{n["name"]}%')).fetchone()
-    if exists:
+    sid, why = find_existing_studio(n)
+    if sid:
+        # 已經有這家店：把新寫法記成別名、補來源，不另建一筆、不算新開店
+        row = c.execute("SELECT name, aliases FROM studios WHERE id=?", (sid,)).fetchone()
+        al = [a for a in (row["aliases"] or "").split("|") if a]
+        if n["name"] != row["name"] and n["name"] not in al:
+            al.append(n["name"])
+            c.execute("UPDATE studios SET aliases=? WHERE id=?", ("|".join(al), sid))
+        if n.get("source_url"):
+            c.execute("INSERT OR IGNORE INTO sources(studio_id,kind,url,is_primary) VALUES(?,?,?,0)",
+                      (sid, n.get("source_kind","other"), n["source_url"]))
+        print(f'（略過 new_studio「{n["name"]}」：{why}，視為 #{sid} {row["name"]}）')
         continue
     cohort = c.execute("SELECT cohort FROM studios GROUP BY cohort ORDER BY COUNT(*) ASC LIMIT 1").fetchone()[0]
-    c.execute("""INSERT INTO studios(name,city,district,address,features,cohort,status,first_seen,last_checked)
-                 VALUES(?,?,?,?,?,?, 'open', ?, ?)""",
-              (n["name"], n.get("city"), n.get("district"), n.get("address"), n.get("features"), cohort, today, today))
+    c.execute("""INSERT INTO studios(name,city,district,address,features,cohort,status,first_seen,last_checked,
+                                     check_url,check_note,aliases)
+                 VALUES(?,?,?,?,?,?, 'open', ?, ?, ?, ?, '')""",
+              (n["name"], n.get("city"), n.get("district"), n.get("address"), n.get("features"), cohort, today, today,
+               n.get("check_url") or n.get("source_url"), "新店入庫時的來源頁"))
     sid = c.lastrowid
     if n.get("source_url"):
         c.execute("INSERT OR IGNORE INTO sources(studio_id,kind,url,is_primary) VALUES(?,?,?,1)",

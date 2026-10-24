@@ -11,7 +11,7 @@
 不會下載 Google 地圖（lh3.googleusercontent.com）的照片 —— 那些屬於個別上傳者、
 且 Google 服務條款不允許轉存，網站上維持外連。
 """
-import argparse, hashlib, os, re, shutil, sqlite3, subprocess, sys, tempfile, urllib.request
+import argparse, hashlib, os, re, shutil, sqlite3, subprocess, sys, tempfile, urllib.parse, urllib.request
 
 MAXPX, QUALITY = 640, 72          # 卡片顯示約 300px 寬，兩倍給 retina
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -27,6 +27,14 @@ def slug(name):
 
 def have(cmd):
     return shutil.which(cmd) is not None
+
+def safe_url(url):
+    """網址路徑／查詢字串若含中文等非 ASCII 字元，urllib 會直接丟 'ascii' codec 錯誤；
+    這裡做 percent-encoding（已編碼的 % 保留，不會重複編碼）。"""
+    p = urllib.parse.urlsplit(url)
+    return urllib.parse.urlunsplit((p.scheme, p.netloc,
+                                    urllib.parse.quote(p.path, safe="/%"),
+                                    urllib.parse.quote(p.query, safe="=&%+"), p.fragment))
 
 def convert(src, dst):
     """把 src 轉成 640px 長邊的 webp。依序嘗試 sips(macOS) / cwebp / Pillow。"""
@@ -80,7 +88,7 @@ def main():
             c.execute("UPDATE photos SET local_path=?, fetch_error=NULL, fetched_at=date('now','localtime') WHERE id=?", (rel, r["id"]))
             con.commit(); ok += 1; continue
         try:
-            req = urllib.request.Request(r["url"], headers={"User-Agent": UA})
+            req = urllib.request.Request(safe_url(r["url"]), headers={"User-Agent": UA})
             with urllib.request.urlopen(req, timeout=25) as resp:
                 data = resp.read()
             if len(data) < 2000:

@@ -11,7 +11,8 @@
   python3 studio.py status                  # 總覽
   python3 studio.py tag-add --room 123 想拍  # 幫某個棚加 tag（room id 從 find 的 #號取得）
   python3 studio.py tag-add --studio 斗室 口袋名單
-  python3 studio.py due                     # 今日輪掃名單（排程用，JSON）
+  python3 studio.py due                     # 今日輪掃名單（排程用，JSON；連續抓不到的店會降頻，--all 全列）
+  python3 studio.py query "SELECT ..."      # 唯讀 SQL 查詢
   python3 studio.py reindex
 """
 import argparse, json, os, sqlite3, datetime
@@ -149,13 +150,25 @@ def cmd_status(a):
     stale = [r["name"] for r in c.execute("SELECT name FROM studios WHERE last_checked IS NULL OR last_checked < date('now','-14 day') LIMIT 5")]
     if stale: print("超過 14 天未檢查:", ", ".join(stale), "…")
 
+DEFER_AFTER = 3        # 連續幾次 unreachable/unknown 就降頻
+DEFER_DAYS = 28        # 降頻後隔多久再查一次
+
 def cmd_due(a):
     c = conn()
     cohort = a.cohort if a.cohort is not None else datetime.date.today().toordinal() % 7
-    out = []
+    out, deferred = [], []
+    cutoff = (datetime.date.today() - datetime.timedelta(days=DEFER_DAYS)).isoformat()
     for r in c.execute("""SELECT id,name,city,district,address,status,fb_only,baseline_done,last_checked,
                                  check_url,check_note,gmap_url
                           FROM studios WHERE cohort=? AND status != 'closed' ORDER BY id""", (cohort,)):
+        # 連續 N 次都抓不到的店（純 FB 經營、官網已死）每週查只是浪費抓取次數：改成每 DEFER_DAYS 天查一次
+        recent = [x[0] for x in c.execute("SELECT verdict FROM checks WHERE studio_id=? ORDER BY checked_at DESC LIMIT ?",
+                                          (r["id"], DEFER_AFTER))]
+        chronic = len(recent) >= DEFER_AFTER and all(v in ("unreachable", "unknown") for v in recent)
+        if chronic and not a.all and r["last_checked"] and r["last_checked"] > cutoff:
+            deferred.append(dict(id=r["id"], name=r["name"], last_checked=r["last_checked"],
+                                 reason=f"連續 {DEFER_AFTER} 次抓不到，{DEFER_DAYS} 天內不再查"))
+            continue
         out.append(dict(
             id=r["id"], name=r["name"], city=r["city"], district=r["district"], address=r["address"],
             status=r["status"], fb_only=bool(r["fb_only"]), baseline_done=bool(r["baseline_done"]),
@@ -164,7 +177,16 @@ def cmd_due(a):
             sources=[dict(kind=x["kind"], url=x["url"]) for x in
                      c.execute("SELECT kind,url FROM sources WHERE studio_id=? AND kind NOT IN ('fb','ig')", (r["id"],))],
             known_rooms=[x[0] for x in c.execute("SELECT name FROM rooms WHERE studio_id=? AND status!='gone'", (r["id"],))]))
-    print(json.dumps({"cohort": cohort, "count": len(out), "studios": out}, ensure_ascii=False, indent=1))
+    print(json.dumps({"cohort": cohort, "count": len(out), "studios": out, "deferred": deferred}, ensure_ascii=False, indent=1))
+
+def cmd_query(a):
+    """唯讀 SQL 查詢（排程裡的 Claude 只被允許跑 studio.py，用這個查資料庫不必另寫腳本）。"""
+    sql = a.sql.strip().rstrip(";")
+    if not sql.lower().startswith(("select", "with", "pragma table_info", "explain")):
+        print("只接受 SELECT / WITH / PRAGMA table_info 查詢"); return
+    c = sqlite3.connect(f"file:{DB}?mode=ro", uri=True); c.row_factory = sqlite3.Row
+    rows = c.execute(sql).fetchmany(a.limit)
+    print(json.dumps([dict(r) for r in rows], ensure_ascii=False, indent=1, default=str))
 
 def cmd_tag_add(a):
     c = conn()
@@ -209,7 +231,8 @@ s = sub.add_parser("studios"); s.add_argument("--city"); s.add_argument("--statu
 s = sub.add_parser("changes"); s.add_argument("--days", type=int, default=30); s.add_argument("--unseen", action="store_true"); s.add_argument("--mark-seen", action="store_true"); s.add_argument("--type"); s.set_defaults(f=cmd_changes)
 s = sub.add_parser("new"); s.add_argument("--days", type=int, default=30); s.set_defaults(f=cmd_new)
 s = sub.add_parser("status"); s.set_defaults(f=cmd_status)
-s = sub.add_parser("due"); s.add_argument("--cohort", type=int); s.set_defaults(f=cmd_due)
+s = sub.add_parser("due"); s.add_argument("--cohort", type=int); s.add_argument("--all", action="store_true", help="連慢性抓不到的店也列出"); s.set_defaults(f=cmd_due)
+s = sub.add_parser("query", help="唯讀 SQL 查詢"); s.add_argument("sql"); s.add_argument("--limit", type=int, default=200); s.set_defaults(f=cmd_query)
 s = sub.add_parser("tag-add"); s.add_argument("tag"); s.add_argument("--room"); s.add_argument("--studio"); s.add_argument("--category", default="style"); s.set_defaults(f=cmd_tag_add)
 s = sub.add_parser("reindex"); s.set_defaults(f=cmd_reindex)
 a = p.parse_args(); a.f(a)
