@@ -17,8 +17,10 @@
 """
 import argparse, json, os, sqlite3, datetime
 
-DB = os.environ.get("STUDIO_DB", os.path.expanduser("~/studios.db"))
-STATUS = {"closed":"❌已歇業","suspect_closed":"⚠️疑似歇業","moved":"📦已搬遷","open":"✅營業中","unknown":"・未確認"}
+_HERE = os.path.dirname(os.path.abspath(__file__))
+DB = os.environ.get("STUDIO_DB") or (os.path.expanduser("~/studios.db") if os.path.exists(os.path.expanduser("~/studios.db"))
+                                      else os.path.join(_HERE, "studios.db"))   # 沒設 STUDIO_DB 就用 repo 裡的那份
+STATUS ={"closed":"❌已歇業","suspect_closed":"⚠️疑似歇業","moved":"📦已搬遷","open":"✅營業中","unknown":"・未確認"}
 
 def conn():
     c = sqlite3.connect(DB); c.row_factory = sqlite3.Row; return c

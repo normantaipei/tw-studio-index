@@ -21,7 +21,7 @@ DB = os.environ.get("STUDIO_DB", os.path.join(HERE, "studios.db"))
 DOCS = os.path.join(os.path.dirname(HERE), "docs")
 
 def conn():
-    c = sqlite3.connect(DB); c.row_factory = sqlite3.Row
+    c = sqlite3.connect(DB, timeout=30); c.row_factory = sqlite3.Row
     c.execute("PRAGMA foreign_keys=OFF")
     return c
 
@@ -47,6 +47,18 @@ def cmd_merge(a):
                 _merge_room(c, same["id"], r["id"])
             else:
                 c.execute("UPDATE rooms SET studio_id=? WHERE id=?", (keep, r["id"]))
+        # 照片：(studio_id,url) 有唯一限制，兩邊都有的那張只留一筆（保留有本地檔的那份）
+        for ph in c.execute("SELECT id,url,local_path,room_id FROM photos WHERE studio_id=?", (dup,)).fetchall():
+            same = c.execute("SELECT id,local_path,room_id FROM photos WHERE studio_id=? AND url=?", (keep, ph["url"])).fetchone()
+            if same:
+                if not same["local_path"] and ph["local_path"]:
+                    c.execute("UPDATE photos SET local_path=?, fetch_error=NULL WHERE id=?", (ph["local_path"], same["id"]))
+                elif ph["local_path"] and ph["local_path"] != same["local_path"]:
+                    pth = os.path.join(DOCS, ph["local_path"])
+                    if os.path.exists(pth): os.remove(pth)
+                if not same["room_id"] and ph["room_id"]:
+                    c.execute("UPDATE photos SET room_id=? WHERE id=?", (ph["room_id"], same["id"]))
+                c.execute("DELETE FROM photos WHERE id=?", (ph["id"],))
         c.execute("UPDATE photos SET studio_id=? WHERE studio_id=?", (keep, dup))
         c.execute("UPDATE checks SET studio_id=? WHERE studio_id=?", (keep, dup))
         c.execute("DELETE FROM changes WHERE studio_id=? AND type='new_studio'", (dup,))
