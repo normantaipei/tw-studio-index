@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09",
+ "generated": "2026-11-10",
  "studios": [
   {
    "name": "光棚 Chic Light",
@@ -211,10 +211,10 @@
    "features": "老診所改建的場景空間。戰後三層樓半木造建築,原為巫永德醫師1957年創立的耳鼻喉科診所。保留掛號櫃台、診療間、磨石子地板;洋台與折衷主義場景,2樓榻榻米休息區與書房、3樓起居間。適合平面/動態廣告/電影/婚紗與創作寫真。",
    "price": "",
    "status": "open",
-   "status_note": "Threads 帳號 2026/10/25 仍有貼文（鈴蘭通散步納涼會），無歇業公告",
+   "status_note": "Threads 帳號正常，最新貼文 2026/10/25（鈴蘭通散步納涼會），簡介寫「二樓品牌招募中」；無歇業公告。貼文圖為 IG CDN 簽章網址，未收錄",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-03",
+   "last_checked": "2026-11-10",
    "sources": [
     {
      "kind": "fb",
@@ -795,10 +795,10 @@
    "features": "主題實景棚,適合個人寫真、寵物攝影、Cosplay、二次元角色還原。日式和風/復古歐風/公主/蘿莉塔;家景客廳、乾燥花、自然光區、浴室,主打「歐式古典棚」。點心飲水、掛燙機、道具租借。約750/hr。",
    "price": "官網：平日限定包場 1 小時 750 元，三小時起算，不接受分租及換人（人數上限 6 人）；PONPAI 標示 NT$750～950。",
    "status": "open",
-   "status_note": "PONPAI 頁面正常刊登，無休棚公告",
+   "status_note": "PONPAI 頁正常刊登，NT$750~950，無公告",
    "notes": "(註:官網首頁示意圖為 Unsplash 圖庫,非實際場景)",
    "fb_only": false,
-   "last_checked": "2026-11-03",
+   "last_checked": "2026-11-10",
    "sources": [
     {
      "kind": "official",
@@ -1200,10 +1200,10 @@
    "features": "17 坪小型白棚＋實景居家棚，NT$1500~2800；現代簡約、居家、北歐風；白棚、黑棚、背景紙、自然光、會議室、家景客廳、廚房吧檯；附平面車位",
    "price": "PONPAI 標示 NT$1500～NT$2800；有長期配合方案。",
    "status": "open",
-   "status_note": "PONPAI 頁面正常營運，列於首頁最新攝影場地",
+   "status_note": "PONPAI 頁正常刊登（首頁最新攝影場地），NT$1500~2800、17坪15人，無公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-03",
+   "last_checked": "2026-11-10",
    "sources": [
     {
      "kind": "ponpai",
@@ -1354,6 +1354,10 @@
     {
      "u": "https://asset.ponpai.tw/ponpai-prod/studio/5a4c8bfe-8852-460f-93f8-fb9e2ab12a80",
      "p": null
+    },
+    {
+     "u": "https://asset.ponpai.tw/ponpai-prod/studio/5a4c8bfe-8852-460f-92f8-fb9e2ab12a80",
+     "p": "img/曾的室-Tseng-space/545d4eb69c8d.webp"
     }
    ]
   },
@@ -2962,7 +2966,7 @@
    "status_note": "固定巡檢場景頁與官網首頁皆回 HTTP 404；WebSearch「Blanc studio 大同區 攝影棚 南京西路」只找到美國／澳洲同名店，查無台北近況；FB 粉專僅抓到標題「Blanc studio | Taipei」看不到貼文。維持疑似歇業，需人工確認。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-03",
+   "last_checked": "2026-11-10",
    "sources": [
     {
      "kind": "official",
@@ -4015,10 +4019,10 @@
    "features": "復古歐風/古董老件實景棚,18坪容6-7人。復古人像、古董婚紗禮服租售、老件租售,底片/數位皆可。含化妝更衣、蒸氣掛燙機。",
    "price": "PONPAI 標示 NT$750～NT$900。",
    "status": "open",
-   "status_note": "PONPAI 頁面正常刊登，無特別公告",
+   "status_note": "PONPAI 頁正常刊登，NT$750~900、18坪，無公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-03",
+   "last_checked": "2026-11-10",
    "sources": [
     {
      "kind": "ponpai",
@@ -4060,10 +4064,10 @@
    "features": "面西南公寓實景棚，整片落地窗自然光，室內 20 坪（客廳、廚房、書櫃、鋼琴）＋室外露台 10 坪，每次僅一組客戶入場。平面 1,500–1,800/hr、動態 1,800–2,100/hr。",
    "price": "PONPAI 標示 NT$1350～NT$1890。",
    "status": "open",
-   "status_note": "PONPAI 頁面正常刊登，無休棚公告",
+   "status_note": "PONPAI 頁正常刊登，NT$1350~1890、30坪，無公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-03",
+   "last_checked": "2026-11-10",
    "sources": [
     {
      "kind": "ponpai",
@@ -4465,10 +4469,10 @@
    "features": "40坪，小型白棚素棚＋實景。場景含浴室、咖啡廳餐廳、廚房吧檯、客廳、床景、梳化間、陽台頂樓。平面1200元/時（未稅，低消3小時）、動態3000元/時。",
    "price": "PONPAI 標示 NT$1200（未註明計價單位）；有學生方案。",
    "status": "open",
-   "status_note": "PONPAI 頁面正常刊登，且列於首頁特別推薦",
+   "status_note": "PONPAI 頁正常刊登（首頁特別推薦），NT$1200、40坪，無公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-03",
+   "last_checked": "2026-11-10",
    "sources": [
     {
      "kind": "ponpai",
@@ -5244,10 +5248,10 @@
    "features": "Cosplay 專屬,6主題棚——夢幻公主棚、工業棚/鏡面棚、萬用白棚、歐式書房庭院棚、蒸龐酒吧棚、居家日式棚。支援共棚與包棚,10:00-21:00。",
    "price": "PONPAI 標示 NT$300～NT$600（未註明計價單位）。",
    "status": "open",
-   "status_note": "PONPAI 頁面正常刊登，無休棚公告",
+   "status_note": "PONPAI 頁正常刊登，NT$300~600、20坪15人，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-03",
+   "last_checked": "2026-11-10",
    "sources": [
     {
      "kind": "official",
@@ -6285,10 +6289,10 @@
    "features": "5大主題——竹敷丸(日式庭院)、黑魔女洋樓(歐式哥德)、史坦恩特教堂(中世紀)、錫安工業(工業科幻,靈感取自駭客任務)、純黑棚。工業/蒸氣龐克/復古歐風/奇幻/哥德/日式/科技。完全預約制。",
    "price": "實景棚 NT$1,450/hr、純黑棚 NT$950/hr；超過建議人數每人 +200（不限時）、第二位攝影師 +500；煙霧機 +100/次；燈具 200～500/次。",
    "status": "open",
-   "status_note": "官網棚景頁正常，5 棚皆在；黑魔女洋樓、史坦恩特教堂為期間限定主題至 2026/11/30（已於 10/24 記錄）",
+   "status_note": "棚景頁正常，五棚皆列；黑魔女洋樓「黑暗饗宴」、史坦恩特教堂「詭魅馬戲」期間限定至 2026/11/30；主題棚 1450元/hr、純黑棚 950元/hr",
    "notes": "日式 https://frontierstudiotw.com/images/rooms/j01.jpg (j01~j09) 歐式 https://frontierstudiotw.com/images/rooms/e25.jpg (e25~e36) 教堂 https://frontierstudiotw.com/images/rooms/c01.jpg (c01~c09) 工業/科幻 https://frontierstudiotw.com/images/rooms/f01.jpg (f01~f20) 黑棚 https://frontierstudiotw.com/images/rooms/b01.jpg",
    "fb_only": false,
-   "last_checked": "2026-11-03",
+   "last_checked": "2026-11-10",
    "sources": [
     {
      "kind": "official",
@@ -6905,10 +6909,10 @@
    "features": "2021成立,主打水下攝影。一棚水棚(水缸2m×3m、水深約1.7m,約8坪)+奇幻書房飛棚;二棚彼岸花海棚(約4.8坪)。奇幻/泳池水景。近先嗇宮站。",
    "price": "官網未列場景租金，僅毛巾 $30/條（一棚）、髮網 $10/個。",
    "status": "open",
-   "status_note": "官網正常，一棚 2 景、二棚 4 景營業中",
+   "status_note": "官網棚景介紹正常：一棚 奧菲莉亞(淺水池) 2026/09/14～2027/01/31、秋暮遺跡 2026/06/16～未定；二棚 骸骨之淵 2026/05/17～2027/01/10後改景、光植工坊 2026/01/24～2026/12/20、神棄之所-黑彌撒 2026/09/19～12/27、D實驗所-異變區 2025/09/27～2026/12/27",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-03",
+   "last_checked": "2026-11-10",
    "sources": [
     {
      "kind": "official",
@@ -7489,10 +7493,10 @@
    "features": "200坪實景大棚，明確標示適合 Cosplay 與婚紗；風格含復古歐風、居家、韓風、中東風；場景有拱門、客廳、酒吧、床景、老件、乾燥花、書房、壁爐、綠色植物。營業 10:00-21:00，週三公休。一般拍攝（婚紗/寫真/非商業Cosplay）2小時3,000、4小時4,500、8小時7,000；包棟14人以上5,000/hr。",
    "price": "PONPAI 標示 NT$875～NT$1500。",
    "status": "open",
-   "status_note": "PONPAI 頁面正常刊登，無休棚公告",
+   "status_note": "PONPAI 頁正常刊登，NT$875~1500、200坪，無公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-03",
+   "last_checked": "2026-11-10",
    "sources": [
     {
      "kind": "ponpai",
@@ -8393,10 +8397,10 @@
    "features": "專業實景,三棚 A/B/C,主打廣告/短影音/品牌形象。B棚旗艦跨樓層約350坪(辦公室、工業廢墟、家景);C棚含醫院掛號/手術室/病房、捷運、日式教室、頂樓庭院;A棚約50坪。支援 RED GEMINI 5K 及燈具租借。",
    "price": "B 棚：B4 綜合景 3500/hr、B5 辦公景 4000/hr、B6 工業/廢墟 3500/hr、B7 家景 4000/hr（皆起租 5 小時，陳設 2000/hr，電費＋垃圾處理費 200/hr，未稅）；每棚定金 5000 元不退；A 棚、C 棚頁面未列價格。",
    "status": "open",
-   "status_note": "官網 FAQ 頁正常，列 A棚、B4~B7、C棚 場景與收費，無休棚公告",
+   "status_note": "官網 FAQ 頁正常，列 A棚、B4綜合景/B5辦公景/B6工業廢墟/B7家景（3,500~4,000元/hr）、C棚六大場景；無休棚公告。B6 目前無冷氣僅電扇",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-03",
+   "last_checked": "2026-11-10",
    "sources": [
     {
      "kind": "official",
@@ -10830,10 +10834,10 @@
    "features": "",
    "price": "兩棚擇一 $900/hr；三小時優惠 $2300/3hr；最少租借 2hr；超時 $400（超過 10 分鐘）；回傳返圖 5 張可折抵 $400（拍攝日起 1 個月內）。",
    "status": "open",
-   "status_note": "官網正常，A棚異世界酒吧開放預約，和洋風浴池仍列於頁面",
+   "status_note": "官網正常，A棚異世界酒吧、B棚和洋風浴池皆列，任一棚 $900/hr、3 小時 $2,300；無休棚公告",
    "notes": "完全找不到 FB 以外公開來源。",
    "fb_only": true,
-   "last_checked": "2026-11-03",
+   "last_checked": "2026-11-10",
    "sources": [
     {
      "kind": "official",
@@ -12273,10 +12277,10 @@
    "features": "中型白棚/素棚兼實景,復古歐風/復古風。梳化間、自然光、家景客廳、白/黑棚背景紙、無縫牆、乾燥花。約40坪兩拍攝區,無縫牆5.3m×7m×3.6m、15色背景紙、Godox 600w×4。容20-30人。平面800/時、動態1000/時,最低2小時。",
    "price": "PONPAI 標示 NT$800（未註明計價單位）。",
    "status": "open",
-   "status_note": "PONPAI 頁面正常刊登，無休棚公告",
+   "status_note": "PONPAI 頁正常刊登，NT$800、40坪30人，無公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-03",
+   "last_checked": "2026-11-10",
    "sources": [
     {
      "kind": "ponpai",
