@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11",
+ "generated": "2026-11-12",
  "studios": [
   {
    "name": "光棚 Chic Light",
@@ -267,10 +267,10 @@
    "features": "近600坪兩層樓大型基地。南洋風溫室花園、天井自然光、歐式書房、復古門牆、禪風磚牆、旅行主題。歐/美/韓/南洋。婚紗/工商/藝術照/孕婦/全家福/Cosplay/Lolita/課程。",
    "price": "",
    "status": "open",
-   "status_note": "官網場景一覽頁正常，列營業時間週五至週三 10:00-19:00、週四公休，地址與資料庫相同，無休棚公告。本次抓取未取得個別場景名稱與價格。",
+   "status_note": "官網場景一覽頁正常，營業時間週五～週三 10:00-19:00、週四公休，地址臺中市南屯區龍富十一街58號；頁面未列棚名",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-05",
+   "last_checked": "2026-11-12",
    "sources": [
     {
      "kind": "official",
@@ -1061,10 +1061,10 @@
    "features": "多主題實景棚,適合 Cosplay/人像/婚紗,網美打卡,全預約制。日式和風/台灣風/蘿莉塔/科技/復古。夢棚、粉紅娃娃機電競棚、港風棚、日系復古棚、韓風植栽棚、球池雲棚(各約6坪上限3人)。老件、書房、白/黑棚、黑白地板。Godox 燈具。",
    "price": "NT$800 ~ NT$1200（PONPAI 區間）",
    "status": "open",
-   "status_note": "PONPAI 頁面正常，地址、NT$800~1200 與資料庫相同，照片 7 張與資料庫筆數相同，無休棚或搬遷公告。",
+   "status_note": "PONPAI 專頁正常上架，地址台中市豐原區中正路926號，NT$800~1200，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-05",
+   "last_checked": "2026-11-12",
    "sources": [
     {
      "kind": "ponpai",
@@ -1699,10 +1699,10 @@
    "features": "140 坪實景攝影棚，現代簡約、韓風、復古歐風、北歐風；自然光、拱門、床景、梳化間，另有白棚／無縫牆；NT$1000~1500",
    "price": "NT$1000 ~ NT$1500（PONPAI 區間）",
    "status": "open",
-   "status_note": "PONPAI 頁面正常，地址與資料庫相同，NT$1000~1500，照片 4 張與資料庫筆數相同，無休棚公告；PONPAI 首頁最新攝影場地仍列出。",
+   "status_note": "PONPAI 專頁正常上架（首頁最新攝影場地），地址台北市內湖區內湖路一段91巷24弄2號4樓，NT$1000~1500，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-05",
+   "last_checked": "2026-11-12",
    "sources": [
     {
      "kind": "ponpai",
@@ -2142,10 +2142,10 @@
    "features": "80坪實景棚，居家風／韓風／輕奢風／北歐風／無印風／科技風；場景含自然光、床景、家景客廳、梳化間、廚房吧檯、浴室廁所、綠色植物，另有白/黑棚背景紙與無縫牆。平面1,500/hr、動態1,800/hr。",
    "price": "NT$1500 ~ NT$1800（PONPAI 區間）",
    "status": "open",
-   "status_note": "PONPAI 頁面正常，地址、NT$1500~1800 與資料庫相同，首頁特別推薦仍列出，無休棚或搬遷公告。",
+   "status_note": "PONPAI 專頁正常上架（首頁特別推薦），地址台北市內湖區新明路295巷2號3樓，NT$1500~1800，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-05",
+   "last_checked": "2026-11-12",
    "sources": [
     {
      "kind": "ponpai",
@@ -2629,10 +2629,10 @@
    "features": "實景攝影棚，居家風、韓風、侘寂風、北歐風；自然光、水泥牆、廚房吧檯、家景客廳、床景、庭園",
    "price": "",
    "status": "open",
-   "status_note": "PONPAI 頁面正常，地址與資料庫相同，照片 24 張與資料庫筆數相同，頁面未列價格，無休棚公告。",
+   "status_note": "PONPAI 專頁正常上架（首頁特別推薦），地址台北市士林區延平北路六段480-4號5樓，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-05",
+   "last_checked": "2026-11-12",
    "sources": [
     {
      "kind": "other",
@@ -3101,10 +3101,10 @@
    "features": "主題實景,號稱「台灣唯一日式祭典攝影棚」。日式和風/中國風/奇幻/復古歐風;泳池水景、監獄牢房、教堂神社城堡、酒吧,約100坪容50-70人。漢服/浴衣/和服租借。日式祭典為戶外景。",
    "price": "NT$1200 ~ NT$1800（PONPAI 區間）",
    "status": "open",
-   "status_note": "PONPAI 頁面正常，錦西街 80 號 4 樓、NT$1200~1800 與資料庫相同，無休棚或搬遷公告。頁面未列個別棚名。",
+   "status_note": "PONPAI 專頁正常上架，地址台北市大同區錦西街80號4樓，NT$1200~1800，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-05",
+   "last_checked": "2026-11-12",
    "sources": [
     {
      "kind": "official",
@@ -3599,10 +3599,10 @@
    "features": "32 坪自然光實景棚，挑高 3.1m，棚費含設備；場景含自然光、家景客廳、綠色植物、書房、床景，風格為居家／無印／北歐。平面 1,500/hr、動態 1,800/hr。",
    "price": "平面攝影/寫真/cosplay $1,500/hr（自助優惠 $1,200/hr，1–6人）；動態/直播/團拍 $2,000/hr（自助 $1,500/hr，1–12人）；每次至少2小時；300w持續燈每次 $300",
    "status": "open",
-   "status_note": "官網正常，日光小室攝影棚 $1,500/hr（自助 $1,200）、動態 $2,000/hr（自助 $1,500）與資料庫相同，無休棚公告。",
+   "status_note": "官網正常，地址台北市大同區蘭州街89巷12號2樓，平面 NT$1500/hr（自助 1200）、動態 NT$2000/hr，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-05",
+   "last_checked": "2026-11-12",
    "sources": [
     {
      "kind": "ponpai",
@@ -4907,7 +4907,7 @@
    "status_note": "官網 twilightsuru.weebly.com 回 404；WebSearch「曙暮光工作室 台南 東區 攝影棚 鶴棚」查無結果；來源中的 PONPAI twilight-photography 實為台北大同區「暮光攝影棚」（環河北路一段111號7樓），不是本店，不能用來判斷。IG tainan_twilight_studio 無法抓取，需人工確認。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-05",
+   "last_checked": "2026-11-12",
    "sources": [
     {
      "kind": "official",
@@ -5405,7 +5405,7 @@
    "status_note": "官網 kagestudio.weebly.com 回 404；Google 地圖搜尋頁抓不到內容；WebSearch「KAGE Studio 嘉義 西區 攝影棚」查無任何相關結果。依規則標 suspect_closed，但 WebSearch 對台灣小店覆蓋差，需人工用 FB/IG 確認。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-05",
+   "last_checked": "2026-11-12",
    "sources": [
     {
      "kind": "official",
@@ -5705,10 +5705,10 @@
    "features": "65坪實景攝影棚，2500元/時、低消3小時。場景含自然光、家景客廳、磚牆、綠色植物、浴室、咖啡廳、廚房、酒吧、床景。頁面未列地址。",
    "price": "NT$2500（PONPAI 顯示，未註明計價單位）",
    "status": "open",
-   "status_note": "PONPAI 頁面正常，NT$2500 與資料庫相同，PONPAI 首頁特別推薦仍列出，無休棚或搬遷公告。頁面未列個別棚名。",
+   "status_note": "PONPAI 專頁正常上架（首頁特別推薦），65 坪居家實景，NT$2500，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-05",
+   "last_checked": "2026-11-12",
    "sources": [
     {
      "kind": "ponpai",
@@ -7364,10 +7364,10 @@
    "features": "3層約200坪、50+角度。工業/韓風/華麗宮廷歐風/中東風/居家;拱門、床景、酒吧、書房、壁爐、乾燥花、白/黑棚/背景紙。婚紗/寫真/網拍/Cosplay。",
    "price": "NT$875 ~ NT$1500（PONPAI 區間）",
    "status": "open",
-   "status_note": "PONPAI 頁面正常，地址、NT$875~1500 與資料庫相同，無休棚或搬遷公告。頁面未列個別棚名。",
+   "status_note": "PONPAI 專頁正常上架，地址新北市中和區華順街63號+65號，NT$875~1500，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-05",
+   "last_checked": "2026-11-12",
    "sources": [
     {
      "kind": "ponpai",
@@ -10429,10 +10429,10 @@
    "features": "",
    "price": "頁面未列場地價格；燈具可加價租借",
    "status": "open",
-   "status_note": "預約頁正常，室內主題棚景約 22 坪、都市天台約 50 坪，每日 09:00-23:00 營業，地址與資料庫相同，無休棚公告。",
+   "status_note": "BookNow 預約頁正常，營業時間週一至週日 09:00-23:00，室內主題棚景約22坪、純白高樓都市天台約50坪，打卡優惠進行中，無休棚公告；頁面無場景照",
    "notes": "完全找不到 FB 以外公開來源。",
    "fb_only": true,
-   "last_checked": "2026-11-05",
+   "last_checked": "2026-11-12",
    "sources": [],
    "photos": []
   },
@@ -11390,10 +11390,10 @@
    "features": "實景攝影棚，適合 Cosplay 與婚紗攝影。60 坪、可容 25 人。風格：復古歐風、北歐風、奇幻風、希臘風、中世紀風、哥德風、日式和風、中國風。場景：庭園、教堂/神社/城堡、書房、廢墟/地窖、花牆、綠色植物、床景、磚牆。NT$800～1600。",
    "price": "NT$800 ~ NT$1600（PONPAI 區間）",
    "status": "open",
-   "status_note": "PONPAI 頁面正常，地址、NT$800~1600 與資料庫相同，無休棚或搬遷公告。頁面未列個別棚名。",
+   "status_note": "PONPAI 專頁正常上架，地址桃園市平鎮區金陵路三段177號，NT$800~1600，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-05",
+   "last_checked": "2026-11-12",
    "sources": [
     {
      "kind": "official",
