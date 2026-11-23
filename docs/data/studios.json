@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22",
+ "generated": "2026-11-23",
  "studios": [
   {
    "name": "光棚 Chic Light",
@@ -126,10 +126,10 @@
    "features": "獨立包廂式實景棚,2016開幕,主打 Cosplay/人像/時尚。竹里館(中式)、藤屋夏祭(日式祭典)、Blue Rose(歐風)、黑白多功能棚;可換檔:教堂、神社、城堡、教室、醫院、實驗室、酒吧、廢墟、監獄、塗鴉牆、貓腳浴缸、水棚、花牆。約60坪容30人。無人化自助入棚。",
    "price": "tinybot：中式棚-竹里館 1300元/2hr；日式棚-藤屋鬼骸 1950元/2hr；歐風棚-Blue Rose 1950元/2hr；黑白棚 975元/2hr；包場（四間棚）5200元/2hr",
    "status": "open",
-   "status_note": "tinybot 預約頁正常；竹里館 11/14-12/13 無節慶布置、藤屋「鬼骸」暫定到 2027/2、Blue Rose「殘影」11/15 為最後一天、黑白棚照常；週一公休",
+   "status_note": "tinybot 預約頁正常，四棚與價格同前；目前檔期：竹里館「無節慶布置11/14-12/13」、藤屋鬼骸「2027/2/28最後一天」、Blue Rose「聖誕節12/27最後一天」；週一公休",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-16",
+   "last_checked": "2026-11-23",
    "sources": [
     {
      "kind": "official",
@@ -204,6 +204,10 @@
     {
      "u": "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/5389/2024/09/69f9f94479504.jpg",
      "p": "img/水月町攝影棚/d347b9566e3f.webp"
+    },
+    {
+     "u": "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/5389/2024/09/6b003d32c180e.jpg",
+     "p": "img/水月町攝影棚/8d65ac015206.webp"
     }
    ]
   },
@@ -714,10 +718,10 @@
    "features": "獨棟三層樓、100坪以上,韓系/日系。韓式自然光棚、L型超大純白無縫牆(可客製色)、自然光浴缸景、輕工業清水模、臥室床景(落地窗)、歐式咖啡廳、共享廚房、黑棚(多色背景紙)。約每人每小時150。",
    "price": "子頁僅列純造型空間 300元/小時（6人以內）；各棚租金以圖片呈現無法讀取，以官方粉絲頁為準",
    "status": "open",
-   "status_note": "官網場景頁正常，列出自然光棚、浴缸、辦公室、臥室、輕工業、廚房、L型無縫牆、黑棚等；網站最新文章 2026/08/14，無休業公告",
+   "status_note": "官網攝影棚出租頁正常，自然光/韓式/浴缸/辦公室/臥室/輕工業/共享廚房/L型無縫牆/歐式咖啡廳/黑棚均在，無休棚或搬遷公告（頁面地址仍為溪南路一段，與資料庫不同，沿前例不覆蓋）",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-16",
+   "last_checked": "2026-11-23",
    "sources": [
     {
      "kind": "official",
@@ -1606,10 +1610,10 @@
    "features": "台灣首間「沉浸式自拍照相館」,85㎡ 6大主題,科技/奇幻:Cyberpunk賽博朋克、Purple Cat毛毛屋、Capsule Tunnel太空隧道、Light Box光之櫥窗、Blackpink大藝術家、幾何炫彩。各景配可調LED。",
    "price": "PONPAI：NT$650 ~ NT$3000",
    "status": "open",
-   "status_note": "PONPAI 專頁正常上架，NT$650~3000、85 坪，無休棚公告",
+   "status_note": "PONPAI 頁正常，NT$650~3000，地址不變，無公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-16",
+   "last_checked": "2026-11-23",
    "sources": [
     {
      "kind": "other",
@@ -2750,10 +2754,10 @@
    "features": "100坪自然光實景＋無縫牆。A區浴室/廚房景、B區客廳/床景/書牆、C區咖啡廳景、D區辦公室景、無縫牆區。1000～2500元/時，包場4200元/時。",
    "price": "官網：A/B/C 棚平面 2,000 元/hr、動態 2,500 元/hr；D 棚平面 1,200 元/hr、動態 1,600 元/hr；基本 2 小時起租、8 人以下，超過每人每小時加 200 元；21:00-07:00 每小時加 500 元；A 棚開伙 200 元/hr、浴缸用水 1,000 元/次。PONPAI 標示 NT$1000~2500。",
    "status": "open",
-   "status_note": "官網空間頁正常，A~D 棚價目與場景照皆在，無休棚公告（頁面後段截斷）",
+   "status_note": "官網場景頁正常，A-D 棚與價格同前（平面 2000/動態 2500，D 棚 1200/1600），無休棚公告；頁面後段截斷未讀到無縫牆區細節",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-16",
+   "last_checked": "2026-11-23",
    "sources": [
     {
      "kind": "ponpai",
@@ -3883,10 +3887,10 @@
    "features": "居家/北歐/無印/現代簡約實景棚，自然光、家景客廳、廚房吧檯、綠植，另有白棚黑棚背景紙與綠KEY；NT$600~800；忠孝敦化站2分鐘",
    "price": "PONPAI：NT$600 ~ NT$800",
    "status": "open",
-   "status_note": "PONPAI 專頁正常上架，23 坪、NT$600~800，無休棚公告",
+   "status_note": "PONPAI 頁正常，NT$600~800，地址不變，無公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-16",
+   "last_checked": "2026-11-23",
    "sources": [
     {
      "kind": "ponpai",
@@ -4011,7 +4015,7 @@
    "status_note": "Google 地圖以店名＋大安區搜尋查無此商家，僅落到同區無關地標「Taipei Lumitree」戶外光廊；無官網可查。維持疑似歇業，需人工確認。",
    "notes": "客製化自搭為主。多組關鍵字皆無 FB 以外公開來源。",
    "fb_only": true,
-   "last_checked": "2026-10-24",
+   "last_checked": "2026-11-23",
    "sources": [],
    "photos": []
   },
@@ -4775,7 +4779,7 @@
    "status_note": "Google 地圖商家頁顯示分類「攝影工作室」、營業中（打烊 17:00）、5.0（107 則評論）、電話 +886 918 029 451，無歇業標記。",
    "notes": "完全找不到 FB 以外公開來源。",
    "fb_only": true,
-   "last_checked": "2026-10-24",
+   "last_checked": "2026-11-23",
    "sources": [],
    "photos": []
   },
@@ -5615,7 +5619,7 @@
    "status_note": "",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-24",
+   "last_checked": "2026-11-23",
    "sources": [
     {
      "kind": "ig",
@@ -6450,10 +6454,10 @@
    "features": "30 坪實景家景棚，挑高、自然採光、附露臺，可容納 30 人，門口免費停車；場景含床景、廚房吧檯、浴室廁所、家景客廳、自然光，風格為居家／現代簡約／北歐。",
    "price": "",
    "status": "open",
-   "status_note": "PONPAI 專頁正常上架，30 坪居家實景，無休棚公告",
+   "status_note": "PONPAI 頁正常上架，30 坪/30 人，無公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-16",
+   "last_checked": "2026-11-23",
    "sources": [
     {
      "kind": "ponpai",
@@ -6546,7 +6550,7 @@
    "status_note": "方格子文章仍在，介紹海寓夫人棚、3000元/時，無休業資訊（來源為舊文章，近況未更新）",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-16",
+   "last_checked": "2026-11-23",
    "sources": [
     {
      "kind": "other",
@@ -7259,7 +7263,7 @@
    "status_note": "Google 地圖商家頁顯示「攝影工作室．營業中（打烊 23:00）」、4.9（40 則評論），地址與資料庫一致；地圖標示無官方網站。原巡檢網址僅為 YouTube 影片，建議補官方頁。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-24",
+   "last_checked": "2026-11-23",
    "sources": [
     {
      "kind": "video",
@@ -9648,10 +9652,10 @@
    "features": "30坪實景攝影棚，風格含復古歐風、英倫風、居家風、現代簡約、北歐無印、南洋、韓風；場景元素有老件、舞台樂器、家景客廳、自然光、床景、綠色植物、壁爐、乾燥花、白棚黑棚背景紙、單色撞色。平面白天1000/hr、夜間800/hr（限時優惠），5小時以上長租9折。",
    "price": "PONPAI：NT$800（另有學生方案、長期配合方案、PONPAI 專屬優惠）",
    "status": "open",
-   "status_note": "PONPAI 專頁正常上架，30 坪、NT$800，無休棚公告",
+   "status_note": "PONPAI 頁正常，NT$800，地址不變，無公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-16",
+   "last_checked": "2026-11-23",
    "sources": [
     {
      "kind": "ponpai",
@@ -10546,10 +10550,10 @@
    "features": "攝影棚兼共享空間,棚拍人像、節目錄製、廣告、活動紀錄、講座、新祕、提案場地。",
    "price": "",
    "status": "open",
-   "status_note": "Pickone 場地頁仍上架（64 坪、可容 30 人），無休業公告",
+   "status_note": "Pickone 場地頁仍上架，64 坪、可容納 30 人，地址板橋區中山路二段475號2樓，無休業公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-16",
+   "last_checked": "2026-11-23",
    "sources": [
     {
      "kind": "official",
@@ -11181,10 +11185,10 @@
    "features": "天元宮旁玻璃屋咖啡廳結合實景棚/婚紗基地。英倫風玻璃屋(落地窗+復古家具)、摩洛哥/峇里島異國風、森林系樹洞用餐區、水管屋。號稱北台灣最大攝影基地之一。用餐每人低消約250元,寵物友善。",
    "price": "部落格（2026-04）：攝影棚平時不對外開放、需付費使用；母親節活動期間消費 Mother's Day Set（$880）可享攝影棚 10 分鐘拍攝體驗。頁面未列單獨租棚價格。",
    "status": "open",
-   "status_note": "部落格文章（2026-04-23）描述營業中 11:00-19:00，攝影棚平時不對外開放需付費；無休業公告",
+   "status_note": "部落格文章（2026-04-23）仍在，營業時間 11:00-19:00，攝影棚需付費使用；無歇業資訊（第三方舊文）",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-16",
+   "last_checked": "2026-11-23",
    "sources": [
     {
      "kind": "other",
@@ -11283,6 +11287,10 @@
     {
      "u": "https://annieko.tw/wp-content/uploads/20260423221132_0_142099.jpg",
      "p": "img/Binma-Area-134/b88dcdb3c185.webp"
+    },
+    {
+     "u": "https://annieko.tw/wp-content/uploads/20260423221238_0_3533e9.jpg",
+     "p": "img/Binma-Area-134/07814d721281.webp"
     }
    ]
   },
@@ -12506,10 +12514,10 @@
    "features": "全台第一座專業婚紗攝影基地,2010創立。約3000坪歐風實景莊園+約20種室內棚景。歐風城堡/蘇格蘭莊園、米蘭教堂/巴洛克教堂、英格蘭室內棚、日本村/京都街景、中式庭園、森林樹屋、湖畔白色教堂、戶外花園證婚台。婚紗/寫真/商攝/親子/閨密/場地租借。",
    "price": "婚紗攝影場地租借 NT$4,000/組（≤5人、1台攝影機，場景30分鐘輪流）；攝影創作全日場租 NT$4,000/組；假日創作方案 3hr 模特票 NT$500/攝影票 NT$1,500/小幫手票 NT$500（4hr 700/1,700/700；5hr+ 800/1,800/800）；散客入園 2hr NT$300、3hr NT$500，數位相機拍攝門票 3hr NT$1,000。超時 NT$1,000/30分；非營業時間拍攝 NT$2,000/時。",
    "status": "open",
-   "status_note": "官網服務頁正常，列出婚紗/創作場地租借與散客遊園票價，公告 2026.03 起週三公休、不定期包場休園",
+   "status_note": "官網服務頁正常，營業時間 10:00-19:00 週三公休，婚紗/創作/遊園價格與先前相同，無休園或搬遷公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-16",
+   "last_checked": "2026-11-23",
    "sources": [
     {
      "kind": "official",
@@ -12720,7 +12728,7 @@
    "status_note": "",
    "notes": "網拍攝影、攝影棚/空間出租、形象照/證件照。僅 FB(joehsiehstudio),無地址、無場景照。",
    "fb_only": true,
-   "last_checked": "2026-10-24",
+   "last_checked": "2026-11-23",
    "sources": [
     {
      "kind": "official",
@@ -13091,10 +13099,10 @@
    "features": "駁二/鹽埕多元共享商業棚(母公司「多點影像」,高雄/台中/台南皆有點)。鹽埕三號棚78坪容45人、1000/時起。居家/韓風/現代簡約/無印;臥室、背景紙、無縫牆、廚房吧台、客廳。近捷運步行5分,含背景紙/WiFi/棚燈租借。集團另有健身房、遊艇、眷村、辦公室等主題實景。",
    "price": "官網起跳價：1號棚 800/hr、3號棚 1000/hr、4號棚 1000/hr、5號棚（台中大里）1200/hr、7號棚（台南南區）1500/hr、8號棚（鳳山）1500/hr；No.13 1500/hr、No.14 2000/hr、No.15 1000/hr、No.16 1500/hr、No.18 1500/hr",
    "status": "open",
-   "status_note": "官網正常，列出 1/3/4/5/7/8 號棚與 No.13~18 共享棚價目，首頁輪播仍有 No.11 M號空間；無休棚公告",
+   "status_note": "官網正常，直營 1/3/4/5/7/8 號棚與共享 No.13-16、18 均列出，首頁輪播有 No.11 M號空間，價格同前，無公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-16",
+   "last_checked": "2026-11-23",
    "sources": [
     {
      "kind": "official",
@@ -20263,7 +20271,11 @@
     "歐風",
     "浴室"
    ],
-   "photo": null,
+   "photo": {
+    "p": "img/水月町攝影棚/8d65ac015206.webp",
+    "u": "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/5389/2024/09/6b003d32c180e.jpg",
+    "exact": false
+   },
    "s": 1
   },
   {
