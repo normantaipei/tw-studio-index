@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26",
+ "generated": "2026-11-27",
  "studios": [
   {
    "name": "光棚 Chic Light",
@@ -348,10 +348,10 @@
    "features": "自然光棚約80坪容15人,一時段一組獨享。居家/韓風/南洋/復古歐風/日式/北歐;客廳、綠植、臥室、書房、教室、庭園、廚房吧檯。電動背景紙、Aputure/Godox 燈具。近萬隆站。約600-850,租棚時數買一送一。(偏形象照/西裝形象照)",
    "price": "NT$600 ~ NT$850（ponpai，未標計價單位）",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，地址與價格同前，無休棚公告",
+   "status_note": "PONPAI 頁面正常上架，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-20",
+   "last_checked": "2026-11-27",
    "sources": [
     {
      "kind": "ponpai",
@@ -1171,10 +1171,10 @@
    "features": "「拾光」系列之一。2層樓25+15坪、9種造景,每次限一組。平日1000/hr、假日1100/hr,密碼鎖自助。",
    "price": "預約頁僅顯示「NT$0 起 1 小時」，實際棚費頁面未列",
    "status": "open",
-   "status_note": "TinyBook 預約頁正常，仍列「(行天宮)拾光入夢 台北攝影棚」可線上預約、地址同前；無休棚公告",
+   "status_note": "tinybot 預約頁正常，拾光入夢仍在列表中，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-20",
+   "last_checked": "2026-11-27",
    "sources": [
     {
      "kind": "booking",
@@ -3405,7 +3405,7 @@
    "status_note": "Google 地圖地標存在，地址與資料庫一致（台北市大同區重慶北路三段31-1號3樓），無歇業標記；地圖未標營業時間、商家未認領。",
    "notes": "僅有 FB/IG(https://www.instagram.com/p/C62tsCPOn9R/),無官網/預約平台/地址/可直連場景照。",
    "fb_only": true,
-   "last_checked": "2026-10-24",
+   "last_checked": "2026-11-27",
    "sources": [
     {
      "kind": "ig",
@@ -5009,10 +5009,10 @@
    "features": "15坪實景棚，現代簡約／韓風／居家風；場景含自然光、拱門、家景客廳、廚房吧檯。NT$1,100/小時，最低2小時，容納上限4人。",
    "price": "NT$1100（ponpai 未標計價單位）",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，地址與價格同前，無休棚公告",
+   "status_note": "PONPAI 頁面正常上架，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-20",
+   "last_checked": "2026-11-27",
    "sources": [
     {
      "kind": "ponpai",
@@ -5125,7 +5125,7 @@
    "status_note": "",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-24",
+   "last_checked": "2026-11-27",
    "sources": [
     {
      "kind": "other",
@@ -6037,10 +6037,10 @@
    "features": "住宅實景攝影棚；居家風、現代簡約、北歐風；自然光、廚房吧檯、庭園、家景客廳、綠色植物；IG @v.homeee",
    "price": "",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架（首頁最新攝影場地），無休棚公告；頁面未列地址與價格",
+   "status_note": "PONPAI 頁面正常上架（首頁最新攝影場地有列），無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-20",
+   "last_checked": "2026-11-27",
    "sources": [
     {
      "kind": "ponpai",
@@ -7096,7 +7096,7 @@
    "status_note": "Google 地圖地標存在，5.0★10則評論，地址新北市三重區大同北路63號4樓與資料庫一致，無歇業標記。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-24",
+   "last_checked": "2026-11-27",
    "sources": [
     {
      "kind": "ig",
@@ -8279,10 +8279,10 @@
    "features": "奇幻/復古歐風/現代簡約/日式和風;白棚、黑棚、書房、壁爐、洛可可歐風、庭園。Cosplay/Lolita 平日2hr/1500、假日2hr/1700起。",
    "price": "假日 2hr/1700、3hr/2450、4hr/3250；平日 2hr/1500、3hr/2150、4hr/2850（2023 新制，各棚同價）；最少 2 小時；超出建議人數每人加 300；臨時預約酌收 200。價格以 FB 粉專最新公布為主。",
    "status": "open",
-   "status_note": "官網棚景頁列 4 棚（自然光白棚、洛可可歐風棚、日式緣側棚、純黑棚），價格同 2023 新制；頁面註明黑棚暫時僅開放期間限定棚景，以 FB 粉專為準",
+   "status_note": "官網棚景頁正常列 4 棚；頁面註明黑棚暫時僅開放期間限定棚景，最新以 FB 為準",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-20",
+   "last_checked": "2026-11-27",
    "sources": [
     {
      "kind": "official",
@@ -9150,10 +9150,10 @@
    "features": "100 坪實景棚，可容納 90 人，捷運 5 分鐘；場景有雲境、月境、日暮露台、暮隅、暖域、映界、知嶼、沐光，涵蓋自然光、客廳、廚房吧檯、咖啡廳餐廳、浴室、庭園、泳池，風格為居家／北歐／現代簡約／韓風／輕奢。平面 1,800–2,200/hr。",
    "price": "官網 2026 價目：各場景平面 1,800~2,200/h、動態 2,000~2,400/h；單層包場 STUDIO 3,150/h（含雲境、月境、星境，日暮另計）、APARTMENT 4,200/h（最低 1.5 小時）；每區 7 人內，超出每人 150/h；皆含稅。",
    "status": "open",
-   "status_note": "官網正常，價目表列 9 個場景、價格與既有相同；最新公告 2026.09.17 萬聖節場租 7 折限量 30 組；無休棚公告",
+   "status_note": "官網首頁正常，價目表列 9 個場景，最新消息 2026.09.17，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-20",
+   "last_checked": "2026-11-27",
    "sources": [
     {
      "kind": "ponpai",
@@ -9844,10 +9844,10 @@
    "features": "府中商業棚拍/場地租借/共享空間。波希米亞/南洋/侘寂/現代簡約/復古歐風/居家;乾燥花、家景客廳、梳化間、水泥牆、自然光、白/黑棚背景紙、綠植。約18坪容10人,Aputure/Godox 燈具、電動背景紙14色、200+配件。",
    "price": "平日 1,000/h、假日 1,200/h（白棚素棚專區）；平日 1,100/h、假日 1,300/h（實景+素棚全區）；最少 3 小時；加班時段 1,200~1,300/h、熬夜時段 1,400~1,500/h；特殊 2 小時方案素棚 2,600、全區 2,800；學生證 95 折；標準 10 人，超出每人 200（皆未稅）",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，地址同前，無休棚公告（PONPAI 標 NT$1000~1500，未覆蓋既有官網逐棚價目）",
+   "status_note": "PONPAI 頁面正常上架，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-20",
+   "last_checked": "2026-11-27",
    "sources": [
     {
      "kind": "booking",
@@ -10330,10 +10330,10 @@
    "features": "40坪實景攝影棚。拍照2000元/時、錄影2500元/時，低消3小時。場景含廚房吧檯、自然光區、客廳、辦公室、庭園、床景；學生憑證5折。",
    "price": "NT$2000 ~ NT$2500（ponpai，未標計價單位）",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架（首頁特別推薦），地址與價格同前，無休棚公告",
+   "status_note": "PONPAI 頁面正常上架（首頁特別推薦也有列），無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-20",
+   "last_checked": "2026-11-27",
    "sources": [
     {
      "kind": "ponpai",
@@ -10936,10 +10936,10 @@
    "features": "自然光實景,約35坪容15人。現代簡約/北歐/韓風/居家;自然光、床景、單色撞色、浴室、家景客廳、書房。適合婚紗、抓周。平面1400/時、動態1800/時。含投影機、掛燙機。",
    "price": "NT$1400 ~ NT$1800（ponpai，未標計價單位）",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，地址與價格同前，無休棚公告",
+   "status_note": "PONPAI 頁面正常上架，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-20",
+   "last_checked": "2026-11-27",
    "sources": [
     {
      "kind": "ponpai",
@@ -12171,10 +12171,10 @@
    "features": "實景攝影棚，100 坪，備 Godox 神牛燈具與聚光燈。風格：韓風、公主風、復古歐風、美國風。場景：花牆、老件、單色．撞色、拱門。NT$1000起（3 小時有優惠）。",
    "price": "ponpai 顯示 NT$1000 ~ NT$10003（上限數字疑為排版錯誤，待確認）",
    "status": "open",
-   "status_note": "PONPAI 頁面正常上架，地址與價格同前，無休棚公告",
+   "status_note": "PONPAI 頁面正常上架，無休棚公告",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-11-20",
+   "last_checked": "2026-11-27",
    "sources": [
     {
      "kind": "ponpai",
@@ -12680,7 +12680,7 @@
    "status_note": "原 PONPAI shop 頁已 404；Google 地圖「梵帝雅影棚規劃 高雄攝影棚出租」顯示營業中、打烊22:00，4.2★55則評論，地址中東街99號與資料庫一致。",
    "notes": "",
    "fb_only": false,
-   "last_checked": "2026-10-24",
+   "last_checked": "2026-11-27",
    "sources": [
     {
      "kind": "blog",
@@ -13005,7 +13005,7 @@
    "status_note": "Google 地圖顯示「營業中」，地址高雄市苓雅區光華一路131號10樓與資料庫一致，官網欄位為 instagram.com。",
    "notes": "僅一個未確認疑似 IG @studio.aru,無公開文字佐證。",
    "fb_only": true,
-   "last_checked": "2026-10-24",
+   "last_checked": "2026-11-27",
    "sources": [],
    "photos": []
   },
